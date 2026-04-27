@@ -1,0 +1,35 @@
+{
+  "total_events": 1642,
+  "by_canonical_type": {
+    "lunar_eclipse": 74,
+    "solar_eclipse": 61,
+    "eclipse_unspecified": 3,
+    "other": 997,
+    "solstice": 136,
+    "equinox": 261,
+    "conjunction": 88,
+    "occultation": 22
+  },
+  "by_audit_class": {
+    "era_mention_excluded": 2,
+    "via_conversion": 31,
+    "direct": 218,
+    "not_auditable": 1391
+  },
+  "by_verdict": {
+    "era_mention_excluded": 2,
+    "MATCH_YEAR_ONLY": 29,
+    "MATCH_MONTH": 10,
+    "no_year": 68,
+    "MATCH_DATE": 30,
+    "skipped_non_eclipse": 996,
+    "trivially_correct": 397,
+    "no_year_or_no_eph": 88,
+    "needs_manual_review": 22
+  },
+  "auditable_total": 249,
+  "matches": 0,
+  "data_off": 0,
+  "no_match": 0,
+  "match_rate_among_auditable": 0.0
+}

@@ -1,0 +1,62 @@
+{
+  "page": 907,
+  "page_type": "table",
+  "latin": "Index lexicalis vocum hebraicarum, syriacarum, arabicarum, aethiopicarum cum interpretationibus latinis et graecis. Litterae: B, G, D, H, V.",
+  "pt": "Índice lexical de palavras hebraicas, siríacas, árabes e etíopes com interpretações latinas e gregas. Letras: B (bet), G (guimel), D (dálet), H (hê), V (vav). Ver tabela.",
+  "en": "Lexical index of Hebrew, Syriac, Arabic, and Ethiopic words with Latin and Greek interpretations. Letters: B (bet), G (gimel), D (dalet), H (he), V (vav). See table.",
+  "tables": [
+    {
+      "caption_pt": "Coluna esquerda — Letras ב (bet) e ג (guimel)",
+      "caption_en": "Left column — Letters ב (bet) and ג (gimel)",
+      "markdown": "| Voz original | Interpretação | Referência |\n|---|---|---|\n| בָּלַט | Ballat | 577.a |\n| ܚܟܡܬܐ | λιτανείαι | 699.c |\n| בַּעַל | βάαλ, βῆλος, Beel idolum | 39.pr.14. 578.c.d fr.20.26 |\n| בַּעַל זְבוּב | — | fr.26 |\n| בַּעַל עוֹמֶר | βαλσαμώρης | 39.pr.18 |\n| בַּעַל עָזֵר | — | 38.pr.8 |\n| בַּעַל שָׁמַיִם | κύριος οὐρανοῦ, ζεὺς ὀλύμπιος | fr.26 |\n| בַּעֲלַת שָׁמַיִם | βααλτις, διώνη, οὐρανία | fr.26 |\n| בְּצוּרָה | ὀχύρωμα | fr.39 |\n| בְּרוֹתָה | Berytus | fr.40 |\n| בָּתָר | ὄπισθε | fr.39 |\n| חַנְאוֹנִים | Magnifici | 655.b |\n| גָּדֵר | φραγμός, sepes | fr.30 |\n| ܓܘܓܡܠܐ | Gaugamela locus unde dictus | 421.a |\n| גּוֹיִם | Qui dicti | 31.pr.1 |\n| ? | Meridies | 702.b |\n| גַּטְרָד | Gatrad | 132.a |\n| גִּיחוֹן | Emissarium | 370.a |\n| ܓܝܚܘܢ | Gehon duo flumina eiusdem cognominis | 371.a |\n| جلي | Revelatio, id est Transfiguratio | 720.a |\n| جلال | Maiestas | 304.d |\n| جمعة | Feria sexta | 138.c |\n| الجماع | συνοδος τῶν φωτῶν | 103.a |\n| ? | Poenitentia | 703.b.c |\n| גְּנִיזָה | ἀποθησαυρισμός | fr.46 |\n| ? | Libertas. Ita vocatur lingua Abissinorum | 680.c |\n| נֵר עֲשִׁתֹּרֶת | ὁ ξένος τῆς ἀσάρτης, ὁ ξενάσαρτος, ξεάσπατος | 39.pr.17. fr.36 |\n| תִּקּוּן הַגֶּשֶׁם | Apparatus pluviae | frag.53. 650.b |"
+    },
+    {
+      "caption_pt": "Coluna direita — Letras ד (dálet), ה (hê), ו (vav)",
+      "caption_en": "Right column — Letters ד (dalet), ה (he), ו (vav)",
+      "markdown": "| Voz original | Interpretação | Referência |\n|---|---|---|\n| ? : ? | Mons olivarum | 696.d |\n| דָּגוֹן | Δαγών | fr.39 |\n| دهر | Saeculum | 298.a |\n| דָּוִד | David | fr.31 |\n| ذو القرنين | δίκερως. Ita vocatur Alexander Magnus | 50.a 425.c.d |\n| וְהֵתִיר | ὑπέρβασις ἡμέρας | 642.c |\n| דַי | Dai | 587.b |\n| דּוֹדִים | ὑποκοριστικὸν nutricum | 40.pr.2. fr.31 |\n| דַּךְ | Dach | 577.d |\n| הַדְלָקַת נֵרוֹת | λυχνοκαΐα | 435.d |\n| دروش | ἕρξις, θλίψις Persice | 586.d |\n| דַּרְוֵישׁ | δαερωσιος | 586.d |\n| דָּתָא | Datha | 587.a |\n| חַגְרִים | Hagareni | 111.a |\n| ܗܓܪܐ | διωγμός, θρησκείας | 136.a |\n| المهجرين | Hagareni | 111.a |\n| הֲדַר | — | frag.47 |\n| חֲדָסָה | μυρρίνη | 588.a |\n| יְהוָה vel יְהֹוָה | ὁ ὤν | fr.38 |\n| יְהוָה | Adonai, κύριος | fr.37.38 |\n| هلال | ἐξαυγασμὸς τῆς σελήνης, μηνοειδὲς φέγγος, noctiluca, luna corniculata | 102.d. 103.a. fr.27 |\n| חֵלֶל בֶּן שַׁחַר | ἑωσφόρος υἱὸς τῆς ἕω | frag.39 |\n| הָמְלַךְ | ἀπεδείχθη βασιλεύς | fr.22 |\n| ו | V. | 587.b |\n| وحق | Epagomenae Persicae | 294.c |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "ἐξαυγασμὸς τῆς σελήνης, μηνοειδὲς φέγγος, noctiluca, luna corniculata",
+      "historical_date_as_cited": "ref. 102.d, 103.a, fr.27",
+      "location": "",
+      "ancient_source": ""
+    },
+    {
+      "type": "other",
+      "description": "συνοδος τῶν φωτῶν (conjunção dos luminares)",
+      "historical_date_as_cited": "ref. 103.a",
+      "location": "",
+      "ancient_source": ""
+    },
+    {
+      "type": "other",
+      "description": "ἑωσφόρος υἱὸς τῆς ἕω (Lúcifer, filho da aurora — estrela matutina)",
+      "historical_date_as_cited": "frag. 39",
+      "location": "",
+      "ancient_source": ""
+    },
+    {
+      "type": "other",
+      "description": "Epagomenae Persicae (dias epagômenos persas)",
+      "historical_date_as_cited": "ref. 294.c",
+      "location": "Pérsia",
+      "ancient_source": ""
+    }
+  ],
+  "uncertainty_flags": [
+    "Várias palavras em escritas siríaca, árabe e etíope são parcialmente ilegíveis no scan; transliterações aproximadas.",
+    "Algumas formas vocalizadas hebraicas reconstruídas com base em paralelos lexicográficos.",
+    "A entrada 'ξεάσπατος' parece corrupção tipográfica de 'ξενάσπαρτος' ou similar."
+  ],
+  "notes": "Página de índice lexical multilíngue (hebraico, siríaco, árabe, etíope, grego, latim) abrangendo as letras B, G, D, H, V. Trata-se claramente de um índice de palavras notáveis nos fragmentos e no corpo da obra, com remissões a páginas e fragmentos.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-27T14:15:37Z",
+    "input_tokens": 7748,
+    "output_tokens": 2823
+  }
+}

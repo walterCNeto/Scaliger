@@ -1,0 +1,41 @@
+{
+  "page": 911,
+  "page_type": "table",
+  "latin": "Index multilinguis (Hebraicus, Syriacus, Arabicus, Graecus, Latinus). Vide tabulam.",
+  "pt": "Índice multilíngue (hebraico, siríaco, árabe, grego, latim) com referências às páginas da obra. Ver tabela.",
+  "en": "Multilingual index (Hebrew, Syriac, Arabic, Greek, Latin) with page references to the work. See table.",
+  "tables": [
+    {
+      "caption_pt": "Índice de termos hebraicos, siríacos, árabes e gregos com glosas latinas/gregas e referências de página (coluna esquerda)",
+      "caption_en": "Index of Hebrew, Syriac, Arabic, and Greek terms with Latin/Greek glosses and page references (left column)",
+      "markdown": "| Termo (escrita original) | Glosa | Referência |\n|---|---|---|\n| ܚܠܠܐ ܕܨܘܡܐ (siríaco) | παρείσβασις τῆς νηστείας | 694.a |\n| ܡܚܠܠ ܨܘܡܐ (siríaco) | παρείσβασις τῆς νηστείας | 694.a |\n| עֶלְיוֹן | ὕψιστος | fr.38 |\n| אֶת עֶלְיוֹנִים וְעֶלְיוֹנוֹת | superos superasque | fr.30 |\n| מַעֲסָר | λᾳτυργία | fr.55 |\n| עָלָם | saeculum | 298.a |\n| שְׁנַת חֵן (?) | Annus gratiae | 495.c |\n| תַּעֲנִיוֹת | Angariae | 401.a |\n| תַּעֲנִיוֹת אֶסְתֵּר | Angariae Ester | 597.b |\n| ܥܨܪܐ (siríaco) | Pentecoste | 646.a.b |\n| עָסַר | Asar | 577.c |\n| עֲצֶרֶת | Pentecoste 645.d. 646.a. Item octava τῆς σκηνοπηγίας | 7.pr.9. 560.a |\n| עֲקֵידַת יִצְחָק | ligatio Isaaci | pr.39. & seq. |\n| עֶרֶב | παρασκευή | 695.a |\n| עֵרוּב | ἐσπερισμὸς Iudaicus | 569 a.d |\n| עֵרוּב פֶּסַח | παρασκευή τοῦ πάσχα | 26. pr.23 |\n| עֵרוּב שָׁבוּעוֹת | παρασκευή τῶν ἑβδομάδων | 26. pr.24 |\n| עֵרוּב שַׁבָּת | παρασκευή τοῦ σαββάτου | 26. pr.21 |\n| עֶרֶב בֹּקֶר | νυχθήμερον | 6.a. 702.b |\n| العرب الهجري (árabe) | Arabes Hagareni | 111.a |\n| (árabe) | Graeci sive Hellenistae Iudaei in Aegypto | 149.a |\n| מַעֲשֵׂה בְרֵאשִׁית | ἡ ἐξαήμερος τῆς γενέσεως | 730.b |\n| עָשׂוּ | Ἠσαῦ | fr.38 |\n| עַשְׁתֹּרֶת עַשְׁתָּרוֹת | Astarte | fr.27 |\n| עַשְׁתָּרוֹת דְלִי עַשְׁתָּרֶת | ἀστάρτη ὁ δὲ Ἀγαστάρτη | 38.pr.11 |\n| (árabe) פלשה فرستجاني | Padessa Prestegiani, Rex Apostolicus, id est, Christianus, Orthodoxus | 679.c |"
+    },
+    {
+      "caption_pt": "Índice de termos (coluna direita)",
+      "caption_en": "Index of terms (right column)",
+      "markdown": "| Termo (escrita original) | Glosa | Referência |\n|---|---|---|\n| פּוּד | Phud | 577.c |\n| פּוּרִים | κλῆροι | 646.c.d |\n| لفطر (árabe) | ἀπονηστίζεσθαι | 725.a.b |\n| פִּי | Phil. | 577.d |\n| פִּישׁוֹן | πλημμύρα | 370.a |\n| פַּל | Pal | 577.d |\n| ܦܠܓܘܬ ܨܘܡܐ (siríaco) | μεσονηστία | 697.a |\n| פֶּלַח | φέλης | 38.pr.13 |\n| פִּינְחָס | φοῖνιξ | fr.35 |\n| פֶּסַח | φασῆ | 695.b.c |\n| פֶּסַח | πάσα | 695.b.c |\n| פָּסוּל | ἀδόκιμος ἡμέρα | 642.b |\n| פַּעֲנֵחַ | παῦνι | 391.d |\n| פַּר | Phar. | 577.c |\n| פֶּרֶם קָטָן | Aera minor | 448.c |\n| פָּרָן | Pharn | 587.a |\n| פָּרַס | κλάσαι, frangere | 36.pr.1 |\n| פַּרְסַם | Pharsam | 587.a |\n| فرستجاني (árabe) | ἀποστολικός. Prestegiani, qui inepte putatur esse Negus Abyssinorum | 679.c |\n| פָּרָשַׁת | Caput legis | 368.b |\n| פְּרוּשַׁאֵי | Φαρισαῖοι unde dicti | 538.d |\n| פֶּסַח | Pascha. φασῆ | 695.b.c |\n| פִּתְנַם עֶלְיוֹן | Πυγμαλιών | 38.pr.16 fr.30 |\n| פְּתוּתִין | κλάσματα | 572.c |\n| ܨܒܚ (siríaco) | Matutinum tempus | 702.b |\n| חַצְהֳרַיִם | μεσημβρία | 637.a |\n| ܨܘܡܐ ܕܢܝܢܘܐ (siríaco) | νηστεία Νινευιτική | 699.c |\n| צוֹר | Tyrus | fr.29 |\n| צוּרַת הַלְּבָנָה | σχῆμα τῆς σελήνης, id est, φωσφορεία τῶν συνόδων | 103.c. 137.d |\n| اصحاب الطور (árabe) | Complices montis benedicti, οἱ τοῦ ὄρους τοῦ εὐλογητοῦ, id est, Samaritae montis Garizin | 661.b |\n| צִידוֹנִים | — | — |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "צוּרַת הַלְּבָנָה — σχῆμα τῆς σελήνης, id est, φωσφορεία τῶν συνόδων (figura da lua, isto é, aparição luminosa das conjunções)",
+      "historical_date_as_cited": "",
+      "location": "",
+      "ancient_source": ""
+    }
+  ],
+  "uncertainty_flags": [
+    "Várias palavras hebraicas com pontuação massorética parcialmente legível; vocalização aproximada.",
+    "Termos siríacos e árabes transcritos por aproximação a partir do scan; algumas formas podem requerer revisão paleográfica.",
+    "Última entrada da coluna direita (צִידוֹנִים) aparece sem glosa nem referência visível na página."
+  ],
+  "notes": "Página de índice multilíngue (Hebraico/Siríaco/Árabe/Grego com glosas latinas e gregas) das letras ע (Ayin) e פ/צ (Pe/Tsade). Conteúdo é puramente referencial — não há prosa contínua nem dados astronômicos numéricos. Uma única menção astronômica indireta (φωσφορεία τῶν συνόδων = aparição luminosa nas conjunções lunares) foi registrada.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-27T14:19:50Z",
+    "input_tokens": 7748,
+    "output_tokens": 2931
+  }
+}

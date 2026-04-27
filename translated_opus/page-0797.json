@@ -1,0 +1,38 @@
+{
+  "page": 797,
+  "page_type": "mixed",
+  "latin": "Ista linea, quae minimo auxilio indiget, est ad cognoscendum initium diei Solennitatis Resurrectionis Domini nostri. Methodus ingrediendi ad eam est, primum, ut scias quotus est numerus anni, quem quaeris, de cyclo aureo incipiente ab (anno) 1578 incarnationis. Cognoscas etiam characterem anni. Quod si is annus fuerit bisextilis, accipe characterem, qui est post Asbat. Percurre numeros, donec occurrant in quandam cellam. Et quidem is erit character illius anni, & mensis notatus e regione eius. Exemplum huius rei in anno 1582. Numeravimus in aureo (cyclo) ab anno 1578. Et incidit in v. Character autem vii, & occurrimus xv Nisan. Ea est Resurrectio eius.\n\nFilum Diagrammatis characterum mensium, & Festorum ex opinione Surianorum.",
+  "pt": "Esta linha, que exige o mínimo de auxílio, serve para conhecer o início do dia da Solenidade da Ressurreição de Nosso Senhor. O método para nela entrar é, primeiro, saber qual é o número do ano que procuras, segundo o ciclo áureo que começa a partir do ano de 1578 da Encarnação. Conhece também o caractere do ano. E se esse ano for bissexto, toma o caractere que está depois de Asbat. Percorre os números até que ocorram em alguma célula. E esse será o caractere daquele ano, e o mês assinalado em frente dele. Exemplo disto no ano de 1582. Contamos no ciclo áureo a partir do ano de 1578, e cai no v. O caractere, por sua vez, é vii, e chegamos ao 15 de Nisan. Esta é a sua Ressurreição.\n\nFio do Diagrama dos caracteres dos meses e das Festas segundo a opinião dos Sírios.",
+  "en": "This line, which requires the least assistance, serves to ascertain the beginning of the day of the Solemnity of the Resurrection of Our Lord. The method for approaching it is, first, to know the number of the year you are seeking, according to the golden cycle beginning from the year 1578 of the Incarnation. You should also know the character of the year. And if that year happens to be bissextile, take the character which is after Asbat. Run through the numbers until they fall into some cell. That indeed will be the character of that year, and the month noted alongside it. An example of this in the year 1582. We counted in the golden cycle from the year 1578, and it falls on v. The character, moreover, is vii, and we arrive at 15 Nisan. This is his Resurrection.\n\nThread of the Diagram of the characters of the months, and of the Festivals according to the opinion of the Syrians.",
+  "tables": [
+    {
+      "caption_pt": "Caractere dos anos e numeração de 28 anos a partir de 1566.",
+      "caption_en": "Character of the years and numeration of 28 years beginning from 1566.",
+      "markdown": "| Character annorum | Numerus viginti octo ab anno 1566 |\n|---|---|\n| I | I |\n| II | II |\n| III | III. IIII |\n| IIII | V |\n| V | VI |\n| VI | VII |\n| VII | I. II |\n| VIII | III |\n| IX | IIII |\n| X | V |\n| XI | VI. VII |\n| XII | I |\n| XIII | II |\n| XIIII | III |\n| XV | IIII. V |\n| XVI | VI |\n| XVII | VII |\n| XVIII | I |\n| XIX | II. III |\n| XX | IIII |\n| XXI | V |\n| XXII | VI |\n| XXIII | VII. I |\n| XXIIII | II |\n| XXV | III |\n| XXVI | IIII |\n| XXVII | V. VI |\n| XXVIII | VII |"
+    },
+    {
+      "caption_pt": "Diagrama dos caracteres dos meses e das festas segundo os sírios.",
+      "caption_en": "Diagram of the characters of the months and of the festivals according to the Syrians.",
+      "markdown": "| Tisri Prior — I | Tisri Posterior — IIII | Canun Prior — VI | Canun Posterior — II |\n|---|---|---|---|\n| Asbat — V | Adhar — V | Nisan — I | Iiar — III |\n| Haziran — VI | Tamuz — I | Aab — IIII | Ilul — VII |\n| Festum Annuntiationis — I | Festum Natalis — II | Festum Epiphaniae — VII | Ingressus Domini in Templum — VI |\n| Petrus et Paulus — VI | Transfiguratio — II | Assumptio Dominae — IIII | Festum Crucis — VI |"
+    },
+    {
+      "caption_pt": "Número do ciclo áureo, Páscoa judaica no mês romano, e Dia da Páscoa na semana (ano 1578).",
+      "caption_en": "Number of the golden cycle, Jewish Passover in the Roman month, and Day of Easter in the week (year 1578).",
+      "markdown": "| Numerus cycli aurei | Pascha Iudaicum in mense Romano | Dies Paschae ex septimana |\n|---|---|---|\n| I | XXV | I |\n| II | XIII | VI |\n| III | II | II |\n| IIII | XXII | V |\n| V | X | III |\n| VI | XXX | VI |\n| VII | XVIII | IIII |\n| VIII | VII | VII |\n| IX | XXVII | III |\n| X | XV | I |\n| XI | IIII | IIII |\n| XII | XXIV | VII |\n| XIII | XII | V |\n| XIIII | I | I |\n| XV | XXI | IIII |\n| XVI | IX | II |\n| XVII | XXIX | V |\n| XVIII | XXVII | III |\n| IX | VI | VI |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "A última linha da terceira tabela mostra 'IX' como número do ciclo áureo, o que parece erro tipográfico (esperado XIX); mantido como impresso.",
+    "Valor 'XXVII' para ciclo XVIII repete o valor da linha anterior; pode ser erro tipográfico do original.",
+    "Marginália '1578' visível à direita da tabela, confirmando o ano de referência."
+  ],
+  "notes": "Página de caráter predominantemente tabular, com três tabelas cronológicas relativas ao cálculo da Páscoa segundo o calendário siríaco e ao ciclo áureo a partir de 1578. Os nomes dos meses siríacos (Tisri, Asbat, Adhar, Nisan, Iiar, Haziran, Tamuz, Aab, Ilul, Canun) e das festas cristãs estão preservados na grafia de Scaliger.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:31:06Z",
+    "input_tokens": 7748,
+    "output_tokens": 2471
+  }
+}

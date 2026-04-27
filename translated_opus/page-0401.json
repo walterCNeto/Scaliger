@@ -1,0 +1,44 @@
+{
+  "page": 401,
+  "page_type": "table",
+  "latin": "DIDYMON ♊ DIES XXXII.    LEONTON ♌ DIES XXXI.\nKARKINON ♋ DIES XXXI.    PARTHENON ♍ DIES XXXI.",
+  "pt": "Tabela de correspondências entre os meses zodiacais gregos (Dídymon/Gêmeos, Léonton/Leão, Karkínon/Câncer, Parthénon/Virgem), os meses do calendário judaico (Tamuz, Ab, Elul, Tisri, Marcheshvan), o ciclo judaico, as epactas e os dias do calendário juliano. Ver transcrição na seção tables.",
+  "en": "Table of correspondences between the Greek zodiacal months (Didymon/Gemini, Leonton/Leo, Karkinon/Cancer, Parthenon/Virgo), the months of the Jewish calendar (Tamuz, Ab, Elul, Tisri, Marcheshvan), the Jewish cycle, the epacts, and the days of the Julian calendar. See transcription in the tables section.",
+  "tables": [
+    {
+      "caption_pt": "DIDYMON ♊ DIES XXXII (Gêmeos, 32 dias) — quadrante superior esquerdo",
+      "caption_en": "DIDYMON ♊ DIES XXXII (Gemini, 32 days) — upper-left quadrant",
+      "markdown": "| Dies Didymonos | Character | Epacta | Cyclus Iud. | Menses Iudaici | (Iulian.) | Epactæ Iulianæ |\n|---|---|---|---|---|---|---|\n| 1 | 2 | 26 | XVIII | TAMVZ | 23 Iun. | IIII |\n| 2 | 3 | 25 | VII | TAMVZ | 24 | III |\n| 3 | 4 | 24 | XV | TAMVZ | 25 | II |\n| 4 | 5 | 23 |  |  | 26 | I |\n| 5 | 6 | 22 | IIII | TAMVZ | 27 | O |\n| 6 | 7 | 21 |  |  | 28 | XXIX |\n| 7 | 1 | 20 | XII | TAMVZ | 29 | XXVIII |\n| 8 | 2 | 19 | I | TAMVZ | 30 | XXVII |\n| 9 | 3 | 18 |  |  | 1 Iuli. | XXVI |\n| 10 | 4 | 17 | IX | TAMVZ | 2 | XXV |\n| 11 | 5 | 16 | XVII | TAMVZ | 3 | XXIIII |\n| 12 | 6 | 15 |  |  | 4 | XXIII |\n| 13 | 7 | 14 | VI | TAMVZ | 5 | XXII |\n| 14 | 1 | 13 |  |  | 6 | XXI |\n| 15 | 2 | 12 | XIIII | TAMVZ | 7 | XX |\n| 16 | 3 | 11 | III | TAMVZ | 8 | XIX |\n| 17 | 4 | 10 | XI | TAMVZ | 9 | XVIII |\n| 18 | 5 | 9 |  |  | 10 | XVII |\n| 19 | 6 | 8 | XIX | TAMVZ | 11 | XVI |\n| 20 | 7 | 7 |  |  | 12 | XV |\n| 21 | 1 | 6 | VIII | TAMVZ | 13 | XIV |\n| 22 | 2 | 5 | XVI | AB | 14 | XIII |\n| 23 | 3 | 4 |  |  | 15 | XII |\n| 24 | 4 | 3 | V | AB | 16 | XI |\n| 25 | 5 | 2 |  |  | 17 | X |\n| 26 | 6 | 1 | XIII | AB | 18 | IX |\n| 27 | 7 | O.29 | II | AB | 19 | VIII |\n| 28 | 1 | 28 | X | AB | 20 | VII |\n| 29 | 2 | 27 |  |  | 21 | VI |\n| 30 | 3 | 26 | XVIII | AB | 22 | V |\n| 31 | 4 | 25 | VII | AB | 23 | IIII |\n| 32 | 5 | 24 | XV | AB | 24 | III |"
+    },
+    {
+      "caption_pt": "LEONTON ♌ DIES XXXI (Leão, 31 dias) — quadrante superior direito",
+      "caption_en": "LEONTON ♌ DIES XXXI (Leo, 31 days) — upper-right quadrant",
+      "markdown": "| Dies Leontonos | Character | Epacta | Cyclus Iud. | Menses Iudaici | (Iulian.) | Epactæ Iulianæ |\n|---|---|---|---|---|---|---|\n| 1 | 2 | 22 | IIII | ELVL | 25 Aug. | O |\n| 2 | 3 | 21 |  |  | 26 | XXIX |\n| 3 | 4 | 20 | XII | ELVL | 27 | XXVIII |\n| 4 | 5 | 19 | I | ELVL | 28 | XXVII |\n| 5 | 6 | 18 |  |  | 29 | XXVI |\n| 6 | 7 | 17 | IX | ELVL | 30 | XXV |\n| 7 | 1 | 16 | XVII | ELVL | 31 | XXIIII |\n| 8 | 2 | 15 |  |  | 1 Sept. | XXIII |\n| 9 | 3 | 14 | VI | ELVL | 2 | XXII |\n| 10 | 4 | 13 |  |  | 3 | XXI |\n| 11 | 5 | 12 | XIIII | ELVL | 4 | XX |\n| 12 | 6 | 11 | III | ELVL | 5 | XIX |\n| 13 | 7 | 10 | XI | ELVL | 6 | XVIII |\n| 14 | 1 | 9 |  |  | 7 | XVII |\n| 15 | 2 | 8 | XIX | ELVL | 8 | XVI |\n| 16 | 3 | 7 |  |  | 9 | XV |\n| 17 | 4 | 6 | VIII | ELVL | 10 | XIIII |\n| 18 | 5 | 5 | XVI | TISRI | 11 | XIII |\n| 19 | 6 | 4 |  |  | 12 | XII |\n| 20 | 7 | 3 | V | TISRI | 13 | XI |\n| 21 | 1 | 2 |  |  | 14 | X |\n| 22 | 2 | 1 | XIII | TISRI | 15 | IX |\n| 23 | 3 | O.29 | II | TISRI | 16 | VIII |\n| 24 | 4 | 28 | X | TISRI | 17 | VII |\n| 25 | 5 | 27 |  |  | 18 | VI |\n| 26 | 6 | 26 | XVIII | TISRI | 19 | V |\n| 27 | 7 | 25 | VII | TISRI | 20 | IIII |\n| 28 | 1 | 24 | XV | TISRI | 21 | III |\n| 29 | 2 | 23 |  |  | 22 | II |\n| 30 | 3 | 22 | IIII | TISRI | 23 | I |\n| 31 | 4 | 21 |  |  | 24 | O.XXIX |"
+    },
+    {
+      "caption_pt": "KARKINON ♋ DIES XXXI (Câncer, 31 dias) — quadrante inferior esquerdo",
+      "caption_en": "KARKINON ♋ DIES XXXI (Cancer, 31 days) — lower-left quadrant",
+      "markdown": "| Dies Karkinonos | Character | Epacta | Cyclus Iud. | Menses Iudaici | (Iulian.) | Epactæ Iulianæ |\n|---|---|---|---|---|---|---|\n| 1 | 6 | 23 |  |  | 25 Iuli. | II |\n| 2 | 7 | 22 | IIII | AB | 26 | I |\n| 3 | 1 | 21 |  |  | 27 | ⊙.XXIX |\n| 4 | 2 | 20 | XII | AB | 28 | XXVIII |\n| 5 | 3 | 19 | I | AB | 29 | XXVII |\n| 6 | 4 | 18 |  |  | 30 | XXVI |\n| 7 | 5 | 17 | IX | AB | 31 | XXV |\n| 8 | 6 | 16 | XVII | AB | 1 Aug. | XXIIII |\n| 9 | 7 | 15 |  |  | 2 | XXIII |\n| 10 | 1 | 14 | VI | AB | 3 | XXII |\n| 11 | 2 | 13 |  |  | 4 | XXI |\n| 12 | 3 | 12 | XIIII | AB | 5 | XX |\n| 13 | 4 | 11 | III | AB | 6 | XIX |\n| 14 | 5 | 10 | XI | AB | 7 | XVIII |\n| 15 | 6 | 9 |  |  | 8 | XVII |\n| 16 | 7 | 8 | XIX | AB | 9 | XVI |\n| 17 | 1 | 7 |  |  | 10 | XV |\n| 18 | 2 | 6 | VIII | AB | 11 | XIIII |\n| 19 | 3 | 5 | XVI | ELVL | 12 | XIII |\n| 20 | 4 | 4 |  |  | 13 | XII |\n| 21 | 5 | 3 | V | ELVL | 14 | XI |\n| 22 | 6 | 2 |  |  | 15 | X |\n| 23 | 7 | 1 | XIII | ELVL | 16 | IX |\n| 24 | 1 | O |  |  | 17 | VIII |\n| 25 | 2 | 29 | II | ELVL | 18 | VII |\n| 26 | 3 | 28 | X | ELVL | 19 | VI |\n| 27 | 4 | 27 |  |  | 20 | V |\n| 28 | 5 | 26 | XVIII | ELVL | 21 | IIII |\n| 29 | 6 | 25 | VII | ELVL | 22 | III |\n| 30 | 7 | 24 | XV | ELVL | 23 | II |\n| 31 | 1 | 23 |  |  | 24 | I |"
+    },
+    {
+      "caption_pt": "PARTHENON ♍ DIES XXXI (Virgem, 31 dias) — quadrante inferior direito",
+      "caption_en": "PARTHENON ♍ DIES XXXI (Virgo, 31 days) — lower-right quadrant",
+      "markdown": "| Dies Parthenonos | Character | Epacta | Cyclus Iud. | Menses Iudaici | (Iulian.) | Epactæ Iulianæ |\n|---|---|---|---|---|---|---|\n| 1 | 5 | 20 | XII | TISRI | 25 Sept. | XXVIII |\n| 2 | 6 | 19 | I | TISRI | 26 | XXVII |\n| 3 | 7 | 18 |  |  | 27 | XXVI |\n| 4 | 1 | 17 | IX | TISRI | 28 | XXV |\n| 5 | 2 | 16 | XVII | TISRI | 29 | XXIIII |\n| 6 | 3 | 15 |  |  | 30 | XXIII |\n| 7 | 4 | 14 | VI | TISRI | 1 Octob. | XXII |\n| 8 | 5 | 13 |  |  | 2 | XXI |\n| 9 | 6 | 12 | XIIII | TISRI | 3 | XX |\n| 10 | 7 | 11 | III | TISRI | 4 | XIX |\n| 11 | 1 | 10 | XI | TISRI | 5 | XVIII |\n| 12 | 2 | 9 |  |  | 6 | XVII |\n| 13 | 3 | 8 | XIX | TISRI | 7 | XVI |\n| 14 | 4 | 7 |  |  | 8 | XV |\n| 15 | 5 | 6 | VIII | TISRI | 9 | XIIII |\n| 16 | 6 | 5 | XVI | MARCHESVVAN | 10 | XIII |\n| 17 | 7 | 4 |  |  | 11 | XII |\n| 18 | 1 | 3 | V | MARCHESVVAN | 12 | XI |\n| 19 | 2 | 2 |  |  | 13 | X |\n| 20 | 3 | 1 | XIII | MARCHESVVAN | 14 | IX |\n| 21 | 4 | O |  |  | 15 | VIII |\n| 22 | 5 | 29 | II | MARCHESVVAN ἐμβόλ. | 16 | VII |\n| 23 | 6 | 28 | X | MARCHESVVAN ἐμβόλ. | 17 | VI |\n| 24 | 7 | 27 |  |  | 18 | V |\n| 25 | 1 | 26 | XVII | MARCHESVVAN ἐμβόλ. | 19 | IIII |\n| 26 | 2 | 25 | VII | MARCHESVVAN ἐμβόλ. | 20 | III |\n| 27 | 3 | 24 | XV | MARCHESVVAN ἐμβόλ. | 21 | II |\n| 28 | 4 | 23 |  | ἐμβόλ. | 22 | I |\n| 29 | 5 | 22 | IIII | MARCHESVVAN | 23 | O |\n| 30 | 6 | 21 |  | ἐμβόλ. | 24 | XXIX |\n| 31 | 7 | 20 | XII | MARCHESVVAN | 25 | XXVIII |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Na tabela de Karkinon, dia 24: epacta lida como 'O' (= 0 ou 30); possível confusão com '29' na linha seguinte.",
+    "Símbolo '⊙' (círculo com ponto) usado em certas células de epacta provavelmente marca a epacta zero/plena; mantido como ⊙ ou 'O' conforme o original.",
+    "A indicação 'ἐμβόλ.' (embolimos = mês intercalar) no quadrante Parthenon aparece em várias linhas; preservada em grego.",
+    "Algumas células de 'Cyclus Iud.' e 'Menses Iudaici' estão em branco no original (dias sem entrada cíclica); representadas como células vazias."
+  ],
+  "notes": "Página inteiramente ocupada por quatro tabelas (uma por signo zodiacal: Gêmeos, Leão, Câncer, Virgem) do calendário greco-judaico-juliano de Scaliger. O número '28' no canto superior esquerdo (sob '18') parece ser o fólio da seção corrente ('418' ou similar), mas a página do PDF é 401. As marcas A, B, C, D à margem direita são marcações de registro tipográfico.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T19:08:07Z",
+    "input_tokens": 7748,
+    "output_tokens": 5433
+  }
+}

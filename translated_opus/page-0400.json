@@ -1,0 +1,43 @@
+{
+  "page": 400,
+  "page_type": "table",
+  "latin": "HYDRON ♒ DIES XXX.    KRION ♈ DIES XXXI.    317\n\nICHTHYON ♓ DIES XXX.    TAVRON ♉ DIES XXXI.\n\nDd 3    DIDYMON",
+  "pt": "Página de tabelas calendáricas correlacionando os signos zodiacais Hydron (Aquário, 30 dias), Krion (Áries, 31 dias), Ichthyon (Peixes, 30 dias) e Tauron (Touro, 31 dias) com dias de cada signo, caracteres (character), epactas, ciclo judaico, meses judaicos (Adar, Adar Posterior, Nisan, Iyyar, Sivvan, Tamuz) e epactas julianas (datas correspondentes de fevereiro a junho). Ver tabelas abaixo. O cabeçalho 'DIDYMON' (Gêmeos) ao final indica continuidade na página seguinte.",
+  "en": "Page of calendrical tables correlating the zodiacal signs Hydron (Aquarius, 30 days), Krion (Aries, 31 days), Ichthyon (Pisces, 30 days), and Tauron (Taurus, 31 days) with days of each sign, characters, epacts, Jewish cycle, Jewish months (Adar, Adar Posterior, Nisan, Iyyar, Sivvan, Tamuz), and Julian epacts (corresponding dates from February to June). See tables below. The catchword 'DIDYMON' (Gemini) at the bottom indicates continuation on the following page.",
+  "tables": [
+    {
+      "caption_pt": "HYDRON (Aquário) — 30 dias. Correlação de dias, caracteres, epactas, ciclo e meses judaicos, e epactas julianas.",
+      "caption_en": "HYDRON (Aquarius) — 30 days. Correlation of days, characters, epacts, Jewish cycle and months, and Julian epacts.",
+      "markdown": "| Dies Hydronos. | Character | Epacta | Cyclus Iud. | Menses Iudaici | (data juliana) | Epacta Iulianae |\n|---|---|---|---|---|---|---|\n| 1 | 6 | 0 |  |  | 21 Feb. | XXVII |\n| 2 | 7 | 29 | II | ADAR | 22 | XXVI |\n| 3 | 1 | 28 | X | ADAR | 23 | XXV |\n| 4 | 2 | 27 |  |  | 24 | XXIIII |\n| 5 | 3 | 26 | XVIII | ADAR | 25 | XXIII |\n| 6 | 4 | 25 | VII | ADAR | 26 | XXII |\n| 7 | 5 | 24 | XV | ADAR | 27 | XXI |\n| 8 | 6 | 23 |  |  | 28 | XX |\n| 9 | 7 | 22 | IIII | ADAR | 1 Martij | 0 |\n| 10 | 1 | 21 |  |  | 2 | XXIX |\n| 11 | 2 | 20 | XII | ADAR | 3 | XXVIII |\n| 12 | 3 | 19 | I | ADAR | 4 | XXVII |\n| 13 | 4 | 18 |  |  | 5 | XXVI |\n| 14 | 5 | 17 | IX | ADAR | 6 | XXV |\n| 15 | 6 | 16 | XVII | ADAR POSTER. | 7 | XXIIII |\n| 16 | 7 | 15 |  |  | 8 | XXIII |\n| 17 | 1 | 14 | VI | ADAR POSTER. | 9 | XXII |\n| 18 | 2 | 13 |  |  | 10 | XXI |\n| 19 | 3 | 12 | XIIII | ADAR POSTER. | 11 | XX |\n| 20 | 4 | 11 | III | ADAR POSTER. | 12 | XIX |\n| 21 | 5 | 10 | XI | ADAR POSTER. | 13 | XVIII |\n| 22 | 6 | 9 |  |  | 14 | XVII |\n| 23 | 7 | 8 | XIX | ADAR POSTER. | 15 | XVI |\n| 24 | 1 | 7 |  |  | 16 | XV |\n| 25 | 2 | 6 | VIII | ADAR POSTER. | 17 | XIIII |\n| 26 | 3 | 5 | XVI | NISAN | 18 | XIII |\n| 27 | 4 | 4 |  |  | 19 | XII |\n| 28 | 5 | 3 | V | NISAN | 20 | XI |\n| 29 | 6 | 2 |  |  | 21 | X |\n| 30 | 7 | 1 | XIII | NISAN | 22 | IX |"
+    },
+    {
+      "caption_pt": "KRION (Áries) — 31 dias.",
+      "caption_en": "KRION (Aries) — 31 days.",
+      "markdown": "| Dies Krionos | Character | Epacta | Cyclus Iud. | Menses Iudaici | (data juliana) | Epacta Iulianae |\n|---|---|---|---|---|---|---|\n| 1 | 3 | 29 | II | IIAR | 22 April. | VII |\n| 2 | 4 | 28 | X | IIAR | 23 | VI |\n| 3 | 5 | 27 |  |  | 24 | V |\n| 4 | 6 | 26 | XVIII | IIAR | 25 | IIII |\n| 5 | 7 | 25 | VII | IIAR | 26 | III |\n| 6 | 1 | 24 | XV | IIAR | 27 | II |\n| 7 | 2 | 23 |  |  | 28 | I |\n| 8 | 3 | 22 | IIII | IIAR | 29 | 0 |\n| 9 | 4 | 21 |  |  | 30 | XXIX |\n| 10 | 5 | 20 | XII | IIAR | 1 Mai. | XXVIII |\n| 11 | 6 | 19 | I | IIAR | 2 | XXVII |\n| 12 | 7 | 18 |  |  | 3 | XXVI |\n| 13 | 1 | 17 | IX | IIAR | 4 | XXV |\n| 14 | 2 | 16 | XVII | IIAR | 5 | XXIIII |\n| 15 | 3 | 15 |  |  | 6 | XXIII |\n| 16 | 4 | 14 | VI | IIAR | 7 | XXII |\n| 17 | 5 | 13 |  |  | 8 | XXI |\n| 18 | 6 | 12 | XIIII | IIAR | 9 | XX |\n| 19 | 7 | 11 | III | IIAR | 10 | XIX |\n| 20 | 1 | 10 | XI | IIAR | 11 | XVIII |\n| 21 | 2 | 9 |  |  | 12 | XVII |\n| 22 | 3 | 8 | XIX | IIAR | 13 | XVI |\n| 23 | 4 | 7 |  |  | 14 | XV |\n| 24 | 5 | 6 | VIII | IIAR | 15 | XIIII |\n| 25 | 6 | 5 | XVI | SIVVAN | 16 | XIII |\n| 26 | 7 | 4 |  |  | 17 | XII |\n| 27 | 1 | 3 | V | SIVVAN | 18 | XI |\n| 28 | 2 | 2 |  |  | 19 | X |\n| 29 | 3 | 1 | XIII | SIVVAN | 20 | IX |\n| 30 | 4 | 0.29 | II | SIVVAN | 21 | VIII |\n| 31 | 5 | 28 | X | SIVVAN | 22 | VII |"
+    },
+    {
+      "caption_pt": "ICHTHYON (Peixes) — 30 dias.",
+      "caption_en": "ICHTHYON (Pisces) — 30 days.",
+      "markdown": "| Dies Ichthyonos | Character | Epacta | Cyclus Iud. | Menses Iudaici | (data juliana) | Epacta Iulianae |\n|---|---|---|---|---|---|---|\n| 1 | 1 | 0.29 | II | NISAN | 23 Mart. | VIII |\n| 2 | 2 | 28 | X | NISAN | 24 | VII |\n| 3 | 3 | 27 |  |  | 25 | VI |\n| 4 | 4 | 26 | XVIII | NISAN | 26 | V |\n| 5 | 5 | 25 | VII | NISAN | 27 | IIII |\n| 6 | 6 | 24 | XV | NISAN | 28 | III |\n| 7 | 7 | 23 |  |  | 29 | II |\n| 8 | 1 | 22 | IIII | NISAN | 30 | I |\n| 9 | 2 | 21 |  |  | 31 | 0.XXIX |\n| 10 | 3 | 20 | XII | NISAN | 1 April. | XXVIII |\n| 11 | 4 | 19 | I | NISAN | 2 | XXVII |\n| 12 | 5 | 18 |  |  | 3 | XXVI |\n| 13 | 6 | 17 | IX | NISAN | 4 | XXV |\n| 14 | 7 | 16 | XVII | NISAN | 5 | XXIIII |\n| 15 | 1 | 15 |  |  | 6 | XXIII |\n| 16 | 2 | 14 | VI | NISAN | 7 | XXII |\n| 17 | 3 | 13 |  |  | 8 | XXI |\n| 18 | 4 | 12 | XIIII | NISAN | 9 | XX |\n| 19 | 5 | 11 | III | NISAN | 10 | XIX |\n| 20 | 6 | 10 | XI | NISAN | 11 | XVIII |\n| 21 | 7 | 9 |  |  | 12 | XVII |\n| 22 | 1 | 8 | XIX | NISAN | 13 | XVI |\n| 23 | 2 | 7 |  |  | 14 | XV |\n| 24 | 3 | 6 | VIII | NISAN | 15 | XIIII |\n| 25 | 4 | 5 | XVI | IIAR | 16 | XIII |\n| 26 | 5 | 4 |  |  | 17 | XII |\n| 27 | 6 | 3 | V | IIAR | 18 | XI |\n| 28 | 7 | 2 |  |  | 19 | X |\n| 29 | 1 | 1 | XIII | IIAR | 20 | IX |\n| 30 | 2 | 0 |  |  | 21 | VIII |"
+    },
+    {
+      "caption_pt": "TAVRON (Touro) — 31 dias.",
+      "caption_en": "TAVRON (Taurus) — 31 days.",
+      "markdown": "| Dies Tauronos | Character | Epacta | Cyclus Iud. | Menses Iudaici | (data juliana) | Epacta Iulianae |\n|---|---|---|---|---|---|---|\n| 1 | 6 | 27 | XVIII | SIVVAN | 23 Mai. | VI |\n| 2 | 7 | 26 | XVIII | SIVVAN | 24 | V |\n| 3 | 1 | 25 | VII | SIVVAN | 25 | IIII |\n| 4 | 2 | 24 | XV | SIVVAN | 26 | III |\n| 5 | 3 | 23 |  |  | 27 | II |\n| 6 | 4 | 22 | IIII | SIVVAN | 28 | I |\n| 7 | 5 | 21 |  |  | 29 | 0.XXIX |\n| 8 | 6 | 20 | XII | SIVVAN | 30 | XXVIII |\n| 9 | 7 | 19 | I | SIVVAN | 31 | XXVII |\n| 10 | 1 | 18 |  |  | 1 Iun. | XXVI |\n| 11 | 2 | 17 | IX | SIVVAN | 2 | XXV |\n| 12 | 3 | 16 | XVII | SIVVAN | 3 | XXIIII |\n| 13 | 4 | 15 |  |  | 4 | XXIII |\n| 14 | 5 | 14 | VI | SIVVAN | 5 | XXII |\n| 15 | 6 | 13 |  |  | 6 | XXI |\n| 16 | 7 | 12 | XIIII | SIVVAN | 7 | XX |\n| 17 | 1 | 11 | III | SIVVAN | 8 | XIX |\n| 18 | 2 | 10 | XI | SIVVAN | 9 | XVIII |\n| 19 | 3 | 9 |  |  | 10 | XVII |\n| 20 | 4 | 8 | XIX | SIVVAN | 11 | XVI |\n| 21 | 5 | 7 |  |  | 12 | XV |\n| 22 | 6 | 6 | VIII | SIVVAN | 13 | XIIII |\n| 23 | 7 | 5 | XVI | TAMVZ | 14 | XIII |\n| 24 | 1 | 4 |  |  | 15 | XII |\n| 25 | 2 | 3 | V | TAMVZ | 16 | XI |\n| 26 | 3 | 2 |  |  | 17 | X[?] |\n| 27 | 4 | 1 | XIII | TAMVZ | 18 | IX |\n| 28 | 5 | 0 |  |  | 19 | VIII |\n| 29 | 6 | 29 | II | TAMVZ | 20 | VII |\n| 30 | 7 | 28 | X | TAMVZ | 21 | VI |\n| 31 | 1 | 27 |  |  | 22 | V |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Na tabela de Tauron, dia 26, coluna Epacta Iulianae: símbolo de leitura ambígua, possivelmente asterisco ou '*' em vez de numeral romano; interpretado provisoriamente como X.",
+    "Alguns valores nas colunas 'Epacta' aparecem como '0.29' (notação híbrida indicando dia 30 = 0 e início de nova contagem 29); preservada como está no original.",
+    "Na tabela Ichthyon, página numerada 317 no original (não 400 como solicitado); o número de página impresso é 317."
+  ],
+  "notes": "Página de tabelas astronômico-calendáricas pertencente aos cânones de Scaliger correlacionando o zodíaco solar (signos em grego: Hydron=Aquário, Ichthyon=Peixes, Krion=Áries, Tauron=Touro), o ciclo lunar judaico de 19 anos, os meses hebraicos (com distinção entre Adar e Adar Posterior — mês intercalar —, Nisan, Iyyar/IIAR, Sivan, Tamuz), e o calendário juliano com epactas. A coluna 'Character' parece indicar o dia da semana (1-7). A página impressa no cabeçalho é 317 (não 400); o catchword 'DIDYMON' (Gêmeos) indica continuação.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T19:07:09Z",
+    "input_tokens": 7748,
+    "output_tokens": 5461
+  }
+}

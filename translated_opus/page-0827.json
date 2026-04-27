@@ -1,0 +1,28 @@
+{
+  "page": 827,
+  "page_type": "table",
+  "latin": "ΧΡΟΝΩΝ ΑΡΙΘΜΗΣΙΣ ΚΑΙ ΟΜΑΣ",
+  "pt": "Contagem e agrupamento dos tempos. Tabela cronológica com os anos dos patriarcas, juízes e reis, desde Adão até Sedecias, com os respectivos totais de anos (em numerais gregos) e somas acumuladas no Período Juliano. Ver seção tables.",
+  "en": "Numbering and aggregation of times. Chronological table listing the years of the patriarchs, judges, and kings, from Adam down to Zedekiah, with individual year-totals (in Greek numerals) and cumulative sums in the Julian Period. See tables section.",
+  "tables": [
+    {
+      "caption_pt": "ΧΡΟΝΩΝ ΑΡΙΘΜΗΣΙΣ ΚΑΙ ΟΜΑΣ — Contagem e soma dos tempos: anos individuais e somas acumuladas, de Adão a Sedecias.",
+      "caption_en": "ΧΡΟΝΩΝ ΑΡΙΘΜΗΣΙΣ ΚΑΙ ΟΜΑΣ — Numbering and summation of times: individual years and cumulative sums, from Adam to Zedekiah.",
+      "markdown": "| Nome | Anos | Soma | Nome | Anos | Soma |\n|---|---|---|---|---|---|\n| Ἀδάμ ἔτη | σλ′ (230) |  | Ὠσὶφ καὶ Ζὴφ | ζ′ (7) | ͵δριδ (4114) |\n| Σήθ | σε′ (205) | υλε (435) | Γεδεών | μ′ (40) | ͵δρνδ (4154) |\n| Ἐνώς | ρϟ′ (190) | χκε (625) | Ἀβιμέλεχ | γ′ (3) | ͵δρνζ (4157) |\n| Καϊνάν | ρο′ (170) | ψϟε (795) | Θόλα | κβ′ (22) | ͵δροθ (4179) |\n| Μελελεήλ | ρξε′ (165) | θξ (960) | Ἰαήρ | κβ′ (22) | ͵δσα (4201) |\n| Ἰαρέδ | ρξβ′ (162) | ͵αρκβ (1122) | Ἀμμανῖται | ιη′ (18) | ͵δσιθ (4219) |\n| Ἐνώχ | ρξε′ (165) | ͵ασπζ (1287) | Ἰεφθαέ | ϛ′ (6) | ͵δσκε (4225) |\n| Μαθουσάλα | ρξζ′ (167) | ͵αυνδ (1454) | Ἐσεβών | ζ′ (7) | ͵δσλβ (4232) |\n| Λάμεχ | ρπη′ (188) | ͵αχμβ (1642) | Αἰλών | ι′ (10) | ͵δσμβ (4242) |\n| Νῶε | φ′ (500) | ͵βρμβ (2142) | Ἀβδών | η′ (8) | ͵δσν (4250) |\n| ⋮⋮ ⋮⋮ |  |  | Φυλιστεὶμ | μ′ (40) | ͵δσϟ (4290) |\n| Σήμ | ρ′ (100) |  | Σαμψών | κ′ (20) | ͵δτι (4310) |\n| Ἀρφαξάδ | ρλε′ (135) |  | Ἀναρχίας καὶ εἰρήνης | μ′ (40) | ͵δτν (4350) |\n| Καϊνάν | ρλ′ (130) |  | Ἠλὶ ἱερεύς | κ′ (20) | ͵δτο (4370) |\n| Σάλα | ρλ′ (130) |  | Σαμουὴλ ἱερεύς | κ′ (20) | ͵δτϟ (4390) |\n| Ἔβερ | ρλδ′ (134) |  | Σαούλ | μ′ (40) | ͵δυλ (4430) |\n| Φάλεγ | ρλ′ (130) |  | Δαυίδ | μ′ (40) | ͵δυο (4470) |\n| Ῥαγαῦ | ρλβ′ (132) |  | Σολομών | μ′ (40) | ͵δφι (4510) |\n| Σερούχ | ρλ′ (130) |  | Ῥοβοάμ | ιζ′ (17) | ͵δφκζ (4527) |\n| Ναχώρ | σ′ (200) |  | Ἀβιά | γ′ (3) | ͵δφλ (4530) |\n| Θάρρα | ο′ (70) |  | Ἀσά | μα′ (41) | ͵δφοα (4571) |\n| Ἀβραάμ | ρ′ (100) |  | Ἰωσαφάτ | λθ′ (39) | ͵δχ (4600) |\n| Ἰσαάκ | ξ′ (60) |  | Ἰωράμ | η′ (8) | ͵δχη (4608) |\n| Ἰακώβ | πε′ (85) |  | Ὀχοζίας | α′ (1) | ͵δχθ (4609) |\n| Λευΐ | μζ′ (47) |  | Γοθολία | ζ′ (7) | ͵δχιϛ (4616) |\n| Καάθ | ξβ′ (62) |  | Ἰωάς | μ′ (40) | ͵δχνϛ (4656) |\n| Ἀράμ | οε′ (75) |  | Ἀμασίας | κθ′ (29) | ͵δχπε (4685) |\n| Μωσῆς | π′ (80) |  | Ὀζίας | νβ′ (52) | ͵δψλζ (4737) |\n| Ἐν τῇ ἐρήμῳ | μ′ (40) |  | Ἰωαθάμ | ιϛ′ (16) | ͵δψνγ (4753) |\n| Ἰησοῦς | λβ′ (32) |  | Ἀχάζ | ιϛ′ (16) | ͵δψξθ (4769) |\n| Οἱ πρεσβύτεροι | η′ (8) |  | Ἐζεκίας | κθ′ (29) | ͵δψϟη (4798) |\n| Χυσαρσαθέμ | η′ (8) | ͵γϟθ (3099) | Μανασσῆς | νε′ (55) | ͵δωνγ (4853) |\n| Γοθονιήλ | ν′ (50) | ͵γρμθ (3149) | Ἀμώς | ϛ′ (6)[?] | ͵δωνθ (4859)[?] |\n| Αἰγλώμ | ιη′ (18) | ͵γρξζ (3167) | Ἰωσίας | λα′ (31) | ͵δωϟ (4890) |\n| Ἀώθ | ν′ (50)[?] | ͵δκζ (4027)[?] | Ἰωαχάς | α′ (1) | ͵δωϟα (4891)[?] |\n| Σεμεγάρ | κ′ (20) | ͵δμζ (4047) | Ἰωακείμ | ια′ (11) | ͵δϟβ (4902)[?] |\n| Ἰεβουσαῖοι | κ′ (20) | ͵δξζ (4067) | Ἰεχονίας | α′ (1) | ͵δϟγ (4903)[?] |\n| Δεββώρα | μ′ (40) | ͵δρζ (4107) | Σεδεκίας | ια′ (11) | ͵δϟιδ (4914)[?] |\n\nRodapé: Ναβου- (catchword, continua na página seguinte com Ναβουχοδονόσορ / Nabucodonosor)"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Alguns numerais gregos com diacríticos tênues: verificação incerta em Ἀώθ (ν′ vs. ο′) e nas somas finais a partir de Ἀμώς — marcados com [?].",
+    "Numerais com subscrito κεραία (͵) usados para milhares; foram lidos como ͵δ... = 4000+. Algumas somas acumuladas da segunda coluna (Νῶε, Σήμ... Θάρρα, Μωσῆς etc.) aparecem em branco no original, o que é intencional: Scaliger só registra a soma cumulativa quando necessário para o cômputo do Período Juliano.",
+    "O título da página é integralmente grego; não há corpo de texto latino."
+  ],
+  "notes": "Página de tabela cronológica pura. Coluna da esquerda: patriarcas antediluvianos e pós-diluvianos, Moisés, Josué, juízes; coluna da direita: juízes posteriores, sacerdotes, reis de Israel/Judá até Sedecias. Os numerais são gregos alfabéticos (sistema milesio); o símbolo ͵ antes de letra indica multiplicação por mil. Os valores são os tradicionais da Septuaginta (Adão 230, Sete 205 etc.), não do texto massorético. A palavra ΟΜΑΣ no título é forma rara de ὁμάς ('agregado, grupo'), aqui no sentido de 'soma cumulativa'. Catchword 'Ναβου-' indica que a página seguinte começa com Ναβουχοδονόσορ.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:50:40Z",
+    "input_tokens": 7748,
+    "output_tokens": 3411
+  }
+}

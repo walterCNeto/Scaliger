@@ -1,0 +1,50 @@
+{
+  "page": 309,
+  "page_type": "mixed",
+  "latin": "ANNI QUATUOR.\nI. Calli. Domus\nII. Tochtli. Cuniculus\nIII. Acatlh. Canna\nIIII. Tecpatlh. Cochlear.\n\nROTAE.\n\n[Tabula quatuor Rotarum: Cuniculus, Canna, Cochlear, Domus — vide sectionem tables]\n\nPrincipium anni a XXVI Februarii. Iosephus a Costa VI, II.\n\n[Figura solis cum quatuor signis circumpositis: Calli Domus, Tochtli Cuniculi (viride), Acatlh Canna, Tecpatlh Cochlear (rubrum)]\n\nDie ultima Rotae, hoc est anni LII frangebant omnia fictilia, et utensilia, extinguebant ignem, et lumina, putantes mundo exitium imminere in fine cuiusdam harum Rotarum. Dicunt etiam ante annum Christi 694, quo coepit numerus, quo utuntur, quatuor Soles periisse, et hunc quintum esse, quem hodie videmus. Ultimam noctem Rotae vigilabant putantes eam extremam esse mundi. Quum autem viderent crepusculum, tunc certi mundum adhuc non periturum, surgentes in choreas, et ludicra dedebant sese, qui erat primus dies Rotae novae.\n\n[Tabula numerorum 1-20 et tabula primi anni — vide sectionem tables]\n\nMirum, hanc linguam carere literis B, G, R, S. Creberrimum Ch. Tl. Ct. numerus non excedit quinarium. Idque in toto orbe novo ubi tessera, quibus luditur, non habent, nisi puncta quinque. Histor. Ind. cap. 196.\n\nSecundi anni Septimana in V mensis. Adde primi anni primae Septimanae IIII. habebis secundam Septim. ita semper per incrementum IIII. Anno Christi 1551, absolverant 1858 annos, ut auctor est Francisc. Lopez Gomara. Ergo eorum annus primus iniuit anno 694.",
+  "pt": "OS QUATRO ANOS.\nI. Calli. Casa\nII. Tochtli. Coelho\nIII. Acatlh. Cana\nIIII. Tecpatlh. Sílex (Concha).\n\nRODAS.\n\n[Tabela das quatro Rodas — ver seção tables]\n\nO princípio do ano é em 26 de fevereiro. José de Acosta, VI, 2.\n\n[Figura do sol com os quatro signos ao redor: Calli Domus (Casa), Tochtli Cuniculi (Coelho, verde), Acatlh Canna (Cana), Tecpatlh Cochlear (Sílex, vermelho)]\n\nNo último dia da Roda, isto é, do ano 52, quebravam todos os vasos de barro e utensílios, apagavam o fogo e as luzes, julgando que o fim do mundo estava iminente ao término de alguma dessas Rodas. Dizem ainda que antes do ano 694 de Cristo, quando começou a contagem que usam, quatro Sóis pereceram, e que este é o quinto, o qual hoje vemos. Vigiavam a última noite da Roda, supondo que fosse a derradeira do mundo. Quando, porém, viam o crepúsculo, então, certos de que o mundo ainda não pereceria, erguendo-se para as danças, entregavam-se a jogos — e esse era o primeiro dia da nova Roda.\n\n[Tabela dos numerais de 1 a 20 e tabela do primeiro ano — ver seção tables]\n\nÉ curioso que esta língua careça das letras B, G, R, S. O muito frequente Ch, Tl, Ct. O número não excede cinco. E é por isso que, em todo o novo mundo, nos dados com que jogam, não há senão cinco pontos. História das Índias, cap. 196.\n\nA semana do segundo ano cai no quinto mês. Soma 4 à primeira semana do primeiro ano e terás a segunda semana; e assim sempre, por incrementos de 4. No ano de Cristo de 1551, haviam completado 1858 anos, conforme atesta Francisco López de Gómara. Logo, o primeiro ano deles começou no ano 694.",
+  "en": "THE FOUR YEARS.\nI. Calli. House\nII. Tochtli. Rabbit\nIII. Acatlh. Reed\nIIII. Tecpatlh. Flint (Shell).\n\nWHEELS.\n\n[Table of the four Wheels — see tables section]\n\nThe beginning of the year is on 26 February. Joseph of Acosta, VI, 2.\n\n[Figure of the sun with four signs arranged around it: Calli Domus (House), Tochtli Cuniculi (Rabbit, green), Acatlh Canna (Reed), Tecpatlh Cochlear (Flint, red)]\n\nOn the last day of the Wheel, that is, of the 52nd year, they would break all their earthenware and utensils, extinguish fire and lights, supposing that the end of the world was imminent at the close of one of these Wheels. They also say that before the year of Christ 694, when the count they use began, four Suns perished, and that this is the fifth, which we see today. They kept vigil on the last night of the Wheel, thinking it would be the last of the world. But when they saw the twilight, then, certain that the world would not yet perish, rising up for dances, they gave themselves over to games — and this was the first day of the new Wheel.\n\n[Table of numerals 1–20 and table of the first year — see tables section]\n\nIt is remarkable that this language lacks the letters B, G, R, S. Very frequent are Ch, Tl, Ct. Their number does not exceed five. And for that reason, throughout the new world, on the dice with which they play, they have no more than five dots. History of the Indies, chap. 196.\n\nThe week of the second year falls in the fifth month. Add 4 to the first week of the first year and you will have the second week; and so always by increments of 4. In the year of Christ 1551, they had completed 1858 years, as Francisco López de Gómara attests. Therefore their first year began in the year 694.",
+  "tables": [
+    {
+      "caption_pt": "As quatro Rodas (ciclos de 13 anos) de anos astecas, cada uma iniciada por um dos quatro signos: Cuniculus (Coelho), Canna (Cana), Cochlear (Sílex), Domus (Casa).",
+      "caption_en": "The four Wheels (13-year cycles) of Aztec years, each initiated by one of the four signs: Cuniculus (Rabbit), Canna (Reed), Cochlear (Flint), Domus (House).",
+      "markdown": "| # | CVNICVLVS | CANNA | COCHLEAR | DOMVS |\n|---|---|---|---|---|\n| 1 | Ce tochtli | Ce acatlh | Ce tecpatlh | Ce calli |\n| 2 | Ome acatlh | Ome tecpatlh | Ome calli | Ome tochtli |\n| 3 | Ei tecpatlh | Ei calli | Ei tochtli | Ei acatlh |\n| 4 | Naui calli | Naui tochtli | Naui acatlh | Naui tecpatlh |\n| 5 | Macuil tochtli | Macuil acatlh | Macuil tecpatlh | Macuil calli |\n| 6 | Chicoacen acatlh | Chicoacen tecpatlh | Chicoacen calli | Chicoacen tochtli |\n| 7 | Chicome tecpatlh | Chicome calli | Chicome tochtli | Chicome acatlh |\n| 8 | Chicuei calli | Chicuei tochtli | Chicuei acatlh | Chicuei tecpatlh |\n| 9 | Chiconaui tochtli | Chiconaui acatlh | Chiconaui tecpatlh | Chiconaui calli |\n| 10 | Matlactli acatlh | Matlactli tecpatlh | Matlactli calli | Matlactli tochtli |\n| 11 | Matlactlioce tecpatlh | Matlactlioce calli | Matlactlioce tochtli | Matlactlioce acatlh |\n| 12 | Matlactliome calli | Matlactliome tochtli | Matlactliome acatlh | Matlactliome tecpatlh |\n| 13 | Matlactliomei tochtli | Matlactliomei acatlh | Matlactliomei tecpatlh | Matlactliomei calli |"
+    },
+    {
+      "caption_pt": "Numerais astecas de 1 a 20.",
+      "caption_en": "Aztec numerals from 1 to 20.",
+      "markdown": "| Numeri | Nome |\n|---|---|\n| 1 | Ce |\n| 2 | Ome |\n| 3 | Ei |\n| 4 | Naui |\n| 5 | Macuil |\n| 6 | Chicoace |\n| 7 | Chicome |\n| 8 | Chicuei |\n| 9 | Chiconaui |\n| 10 | Matlac |\n| 11 | Matlactlioce |\n| 12 | Matlactliome |\n| 13 | Matlactlomei |\n| 14 | Matlactlinaui |\n| 15 | Matlatlimacuil |\n| 16 | Matlactlichicoace |\n| 17 | Matlactlichicome |\n| 18 | Matlactlichicuei |\n| 19 | Matlactlichiconaui |\n| 20 | Cempoalli |"
+    },
+    {
+      "caption_pt": "Primeiro ano: dia inicial do mês (coluna esquerda) e dia inicial das semanas (coluna direita).",
+      "caption_en": "First year: initial day of the month (left column) and initial day of the weeks (right column).",
+      "markdown": "| # | Dies mensis | Dies primus Septimanarum |\n|---|---|---|\n| 1 | 1 | 21 |\n| 2 | 18 |  |\n| 3 | 15 |  |\n| 4 | 12 |  |\n| 5 | 9 | 29 |\n| 6 | 6 | 26 |\n| 7 | 3 | 23 |\n| 8 | 20 |  |\n| 9 | 17 |  |\n| 10 | 14 |  |\n| 11 | 11 |  |\n| 12 | 8 | 28 |\n| 13 | 5 | 25 |\n| 14 | 2 | 22 |\n| 15 | 19 |  |\n| 16 | 16 |  |\n| 17 | 13 |  |\n| 18 | 10 |  |\n| 19 | 7 | 27 |\n| 20 | 4 | 24 |"
+    }
+  ],
+  "figures": [
+    {
+      "description_pt": "Figura circular representando um sol com rosto humano (olhos, nariz, boca) e raios ao redor. Nas quatro posições cardinais aparecem os nomes dos quatro signos anuais astecas com suas cores: no alto à esquerda 'Calli Domus' (Casa), no alto à direita 'Tochtli Cuniculi viride' (Coelho, verde), embaixo à esquerda 'Cochlear rubrum' (Sílex, vermelho), embaixo à direita 'Canna Cuniculus'. Representa o ciclo calendárico asteca centrado no Sol.",
+      "description_en": "Circular figure depicting a sun with a human face (eyes, nose, mouth) surrounded by rays. At the four cardinal positions appear the names of the four Aztec year-signs with their colors: upper left 'Calli Domus' (House), upper right 'Tochtli Cuniculi viride' (Rabbit, green), lower left 'Cochlear rubrum' (Flint, red), lower right 'Canna Cuniculus'. Represents the Aztec calendrical cycle centered on the Sun."
+    }
+  ],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "quatuor Soles periisse, et hunc quintum esse, quem hodie videmus",
+      "historical_date_as_cited": "ante annum Christi 694",
+      "location": "Mexico (Nova Hispania)",
+      "ancient_source": "Iosephus a Costa (José de Acosta), lib. VI, cap. 2; Francisco López de Gómara, Historia de las Indias, cap. 196"
+    }
+  ],
+  "uncertainty_flags": [
+    "Na tabela do primeiro ano, a célula do item 15 na coluna 'dies mensis' é provavelmente 19 (lida no scan); a coluna 'dies primus Septimanarum' está vazia em várias linhas do original, o que foi preservado.",
+    "A leitura '29' para a linha 5 da coluna direita da terceira tabela é incerta; pode ser '19' conforme o padrão de decrementos."
+  ],
+  "notes": "Página dedicada ao calendário asteca (mexicano) a partir de José de Acosta e López de Gómara. Scaliger apresenta o ciclo de 52 anos ('Rotae') com os quatro portadores de ano (Calli, Tochtli, Acatlh, Tecpatlh), os numerais em náhuatl, e observações linguísticas. A data-chave é 694 d.C. como marco inicial da contagem asteca segundo o cômputo de Scaliger (1551 − 1858 + 1 = 694 aproximadamente, com o ajuste da era cristã anterior).",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T18:02:37Z",
+    "input_tokens": 7748,
+    "output_tokens": 4793
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "page": 755,
+  "page_type": "mixed",
+  "latin": "In X anno XX Epacta. Tunc X Tikmith Matque. In XI anno I Epacta. Tunc XXIX Mascaram Matque. In XII anno XII Epacta. Tunc XVIII Mascaram Matque. In XIII anno XXIII Epacta. Tunc VII Tikmith Matque. In XIV anno IV Epacta. Tunc XXVI Mascaram Epacta. In XV anno XV Epacta. Tunc XV Mascaram Matque. In XVI anno XXVI Epacta. Tunc in IV Tikmith Matque. In XVII anno VII Epacta. Tunc in XXIII Mascaram Matque. In XVIII anno XVIII Epacta. Tunc XII Tikmith Matque. In XIX anno non est Epacta. Tunc XXX Mascaram Matque.\n\nAtque hoc obserua, scito, considera, quod non est Matque ex prima Tikmith. Et hac in re circumspectus esto, ne commiscearis cum refractariis.\n\nVt scias",
+  "pt": "No décimo ano, 20 de Epacta. Então 10 de Tikmith [é] Matque. No décimo primeiro ano, 1 de Epacta. Então 29 de Mascaram [é] Matque. No décimo segundo ano, 12 de Epacta. Então 18 de Mascaram [é] Matque. No décimo terceiro ano, 23 de Epacta. Então 7 de Tikmith [é] Matque. No décimo quarto ano, 4 de Epacta. Então 26 de Mascaram [é] Epacta. No décimo quinto ano, 15 de Epacta. Então 15 de Mascaram [é] Matque. No décimo sexto ano, 26 de Epacta. Então em 4 de Tikmith [é] Matque. No décimo sétimo ano, 7 de Epacta. Então em 23 de Mascaram [é] Matque. No décimo oitavo ano, 18 de Epacta. Então 12 de Tikmith [é] Matque. No décimo nono ano não há Epacta. Então 30 de Mascaram [é] Matque.\n\nE observa isto, sabe, considera, que não há Matque a partir do primeiro Tikmith. E nesta matéria sê circunspecto, para que não te confundas com os obstinados.\n\nPara que saibas",
+  "en": "In the tenth year, 20 of Epact. Then 10 of Tikmith is Matque. In the eleventh year, 1 of Epact. Then 29 of Mascaram is Matque. In the twelfth year, 12 of Epact. Then 18 of Mascaram is Matque. In the thirteenth year, 23 of Epact. Then 7 of Tikmith is Matque. In the fourteenth year, 4 of Epact. Then 26 of Mascaram is Epact. In the fifteenth year, 15 of Epact. Then 15 of Mascaram is Matque. In the sixteenth year, 26 of Epact. Then on 4 of Tikmith is Matque. In the seventeenth year, 7 of Epact. Then on 23 of Mascaram is Matque. In the eighteenth year, 18 of Epact. Then 12 of Tikmith is Matque. In the nineteenth year there is no Epact. Then 30 of Mascaram is Matque.\n\nAnd observe this, know, consider, that there is no Matque from the first Tikmith. And in this matter be circumspect, lest you be confused with the obstinate ones.\n\nThat you may know",
+  "tables": [
+    {
+      "caption_pt": "Tabela em etiópico (Ge'ez) e hebraico: correspondência entre anos do ciclo de 19 anos, epactas e datas das neomênias (Matque) nos meses etíopes Mascaram e Tikmith. O texto latino abaixo parafraseia a tabela.",
+      "caption_en": "Ethiopic (Ge'ez) and Hebrew table: correspondence between years of the 19-year cycle, epacts, and dates of the new moons (Matque) in the Ethiopian months Mascaram and Tikmith. The Latin text below paraphrases the table.",
+      "markdown": "| Ano do ciclo | Epacta | Data Matque (mês) |\n|---|---|---|\n| X | 20 | 10 Tikmith |\n| XI | 1 | 29 Mascaram |\n| XII | 12 | 18 Mascaram |\n| XIII | 23 | 7 Tikmith |\n| XIV | 4 | 26 Mascaram |\n| XV | 15 | 15 Mascaram |\n| XVI | 26 | 4 Tikmith |\n| XVII | 7 | 23 Mascaram |\n| XVIII | 18 | 12 Tikmith |\n| XIX | — | 30 Mascaram |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "Neomeniae (Matque) in mensibus Aethiopicis Mascaram et Tikmith per cyclum XIX annorum secundum epactas",
+      "historical_date_as_cited": "ciclo decenoveanal etíope, anos X–XIX",
+      "location": "Etiópia (calendário etíope)",
+      "ancient_source": ""
+    }
+  ],
+  "uncertainty_flags": [
+    "Texto etiópico (Ge'ez) e hebraico vocalizado na tabela não transcritos caractere por caractere; apenas o paralelo latino foi transcrito. Valores numéricos confirmados contra o texto latino.",
+    "No ano XIV, Scaliger escreve 'Mascaram Epacta' onde se esperaria 'Mascaram Matque' — mantido como no original (pode ser erro tipográfico da edição de 1629)."
+  ],
+  "notes": "A página mostra uma tabela bilíngue (Ge'ez à esquerda, hebraico à direita) da correspondência entre epactas e neomênias no ciclo de 19 anos do calendário etíope; o texto latino (parágrafo C) parafraseia a tabela em prosa para leitores ocidentais. 'Matque' é transliteração latina do termo etíope para neomênia/lua nova; Mascaram e Tikmith são o 1º e o 2º meses do ano etíope.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:07:38Z",
+    "input_tokens": 7748,
+    "output_tokens": 2227
+  }
+}

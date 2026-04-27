@@ -1,0 +1,50 @@
+{
+  "page": 162,
+  "page_type": "mixed",
+  "latin": "TABULA CHARACTERISMI NEOMENIARUM ENNEADECAETERIDIS METONICAE.\n\n[Tabula principalis: vide sectionem tables]\n\n...syzygias plenas. Itaque calculus desinet in ducentesima prima syzygia. Reliquae igitur quatuor erunt continue plenae, & duae primae sequentis anni erunt & ipsae plenae. Ita fient sex continuae plenae syzygiae. Quod est absurdum. Porro adiunximus Tabellam characterismi periodorum, qui chara-[cteristicus]\n\n[Tabella secundaria: Characterismi periodorum — vide sectionem tables]",
+  "pt": "TABELA DO CARACTERISMO DAS NEOMÊNIAS DA ENEADECAETÉRIDE METÔNICA.\n\n[Tabela principal: ver seção tables]\n\n...sizígias cheias. Portanto o cálculo terminará na ducentésima primeira sizígia. As quatro restantes, pois, serão consecutivamente cheias, e as duas primeiras do ano seguinte serão elas mesmas também cheias. Assim resultarão seis sizígias cheias consecutivas. O que é absurdo. Ademais, acrescentamos uma Tabela do caracterismo dos períodos, a qual carac-[terística]\n\n[Tabela secundária: Caracterismo dos períodos — ver seção tables]",
+  "en": "TABLE OF THE CHARACTERISM OF THE NEW MOONS OF THE METONIC ENNEADECAETERIS.\n\n[Main table: see tables section]\n\n...full syzygies. Therefore the calculation will end at the two hundred and first syzygy. The remaining four, then, will be consecutively full, and the first two of the following year will likewise themselves be full. Thus there will result six consecutive full syzygies. Which is absurd. Furthermore, we have appended a Table of the characterism of the periods, which charac-[teristic]\n\n[Secondary table: Characterism of periods — see tables section]",
+  "tables": [
+    {
+      "caption_pt": "Tabela do Caracterismo das Neomênias da Eneadecaetéride Metônica — colunas pelos doze meses áticos (Hekatombaion, Metageitnion, Boedromion, Pyanepsion, Maimakterion, Poseideon α, Poseideon β, Gamelion, Anthesterion, Elaphebolion, Munichion, Thargelion, Skirophorion), seguida de colunas de Dies collecti (dias acumulados), Syzygiae collectae (sizígias acumuladas) e Syzygia (sizígia). Os anos embolísmicos são marcados 'ἐμβ.' (embolimos) nas linhas 2, 5, 8, 10, 13, 16, 18. Em cada célula, o número superior é o dia do mês (às vezes par, e.g. 4.5) e o número inferior é o dia da semana/ciclo.",
+      "caption_en": "Table of the Characterism of the New Moons of the Metonic Enneadecaeteris — columns for the twelve Attic months (Hekatombaion, Metageitnion, Boedromion, Pyanepsion, Maimakterion, Poseideon α, Poseideon β, Gamelion, Anthesterion, Elaphebolion, Munichion, Thargelion, Skirophorion), followed by columns for Dies collecti (accumulated days), Syzygiae collectae (accumulated syzygies), and Syzygia. Embolismic years are marked 'ἐμβ.' on lines 2, 5, 8, 10, 13, 16, 18. In each cell, the upper number is the day of the month (sometimes a pair, e.g. 4.5) and the lower number is the weekday/cycle day.",
+      "markdown": "| Year | Ἑκατομβαιών | Μεταγειτνιών | Βοηδρομιών | Πυανεψιών | Μαιμακτηριών | Ποσειδεών α | Ποσειδεών β | Γαμηλιών | Ἀνθεστηριών | Ἐλαφηβολιών | Μουνυχιών | Θαργηλιών | Σκιροφοριών | Dies collecti | Syzyg. collectae | Syzygia |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | — / 7 | — / 2 | 4.5 / 4 | — / 5 | 8.9 / 7 | — / 1 | — / 0 | 12.13 / 3 | — / 4 | 16.17 / 6 | — / 7 | 20.21 / 2 | — / 3 | 355 | 12 | 5 |\n| ἐμβ. 2 | 24.25 / 5 | — / 6 | 28.29 / 1 | — / 2 | — / 4 | 2.3 / 6 | — / 7 | — / 2 | 6.7 / 3 | — / 5 | 10.11 / 6 | — / 1 | 15.16 / 2 | 739 | 25 | 11 |\n| 3 | 19.20 / 4 | — / 5 | 23.24 / 7 | — / 1 | 27.28 / 3 | — / 4 | — / 0 | — / 6 | 1.2 / 1 | — / 2 | 5.6 / 4 | — / 5 | 9.10 / 7 | 1093 | 37 | 17 |\n| 4 | — / 1 | 13.14 / 3 | — / 4 | 17.18 / 6 | — / 7 | — / 2 | — / 0 | 21.22 / 3 | — / 5 | 25.26 / 6 | — / 1 | 30.1 / 2 | — / 4 | 1448 | 49 | 22 |\n| ἐμβ. 5 | 4.5 / 6 | — / 2 | 8.9 / 3 | — / 5 | 12.13 / 6 | — / 1 | 16.17 / 2 | — / 4 | 20.21 / 5 | — / 7 | 24.25 / 1 | — / 2 | 28.29 / 3 | 1831 | 62 | 29 |\n| 6 | — / 4 | — / 6 | 2.3 / 1 | — / 2 | 6.7 / 4 | — / 5 | — / 0 | 10.11 / 7 | — / 1 | 15.16 / 4 | — / 6 | 19.20 / 7 | 2186 | 74 | 34 |  |\n| 7 | 23.24 / 3 | — / 5 | 27.28 / 6 | — / 1 | 1.2 / 3 | — / 0 | — / 6 | 5.6 / 7 | — / 2 | 9.10 / 3 | — / 5 | 13.14 / 5 | 2560 | 86 | 40 |  |\n| ἐμβ. 8 | — / 6 | 17.18 / 1 | — / 2 | 21.22 / 4 | — / 5 | 25.26 / 7 | — / 1 | — / 3 | 30.1 / 5 | — / 6 | 4.5 / 1 | — / 4 | 8.9 / 4 | 2924 | 99 | 46 |\n| 9 | — / 5 | 12.13 / 7 | — / 1 | 16.17 / 3 | — / 4 | 20.21 / 6 | — / 0 | — / 7 | 24.25 / 3 | — / 5 | 28.29 / 6 | — / 1 | 3279 | 111 | 51 |  |\n| ἐμβ. 10 | 2.3 / 3 | — / 4 | 6.7 / 6 | — / 7 | 10.11 / 2 | — / 3 | 15.16 / 5 | — / 6 | 19.20 / 1 | — / 2 | 13.24 / 4 | — / 5 | 27.28 / 7 | 3662 | 134 | 58 |\n| 11 | — / 1 | — / 3 | 1.2 / 5 | — / 6 | 5.6 / 7 | — / 2 | — / 0 | 9.10 / 4 | — / 5 | 13.14 / 7 | — / 3 | 17.18 / 4 | 4017 | 136 | 63 |  |\n| 12 | 21.22 / 6 | — / 7 | 25.26 / 2 | — / 3 | 30.1 / 5 | — / 2 | — / 0 | 4.5 / 1 | — / 3 | 8.9 / 4 | — / 6 | 12.13 / 7 | — / 2 | 4371 | 148 | 69 |\n| ἐμβ. 13 | — / 3 | 16.17 / 5 | — / 6 | 20.21 / 1 | — / 2 | 24.25 / 4 | — / 5 | 28.29 / 7 | — / 1 | — / 3 | 2.3 / 5 | — / 6 | 6.7 / 1 | 4755 | 161 | 75 |\n| 14 | — / 2 | 10.11 / 4 | — / 5 | 15.16 / 7 | — / 1 | 19.20 / 3 | — / 0 | 23.24 / 4 | — / 6 | 27.28 / 7 | — / 2 | — / 3 | — / 5 | 5110 | 173 | 80 |\n| 15 | 1.2 / 7 | — / 1 | 5.6 / 3 | — / 4 | 9.10 / 5 | — / 7 | — / 0 | 13.14 / 2 | — / 3 | 17.18 / 6 | — / 1 | 21.22 / 2 | 5464 | 185 | 86 |  |\n| ἐμβ. 16 | 25.26 / 4 | — / 5 | 30.1 / 7 | — / 1 | — / 3 | 4.5 / 6 | — / 2 | 8.9 / 1 | — / 2 | 12.13 / 4 | — / 7 | 16.17 / 7 | — / 1 | 5848 | 198 | 92 |\n| 17 | 20.21 / 3 | — / 4 | 24.25 / 6 | — / 7 | 28.29 / 2 | — / 3 | — / 0 | — / 5 | 2.3 / 7 | — / 1 | 6.7 / 3 | — / 4 | 10.11 / 5 | 6202 | 210 | 98 |\n| ἐμβ. 18 | — / 7 | 15.16 / 1 | — / 5 | 19.20 / 6 | — / 2 | 23.24 / 1 | — / 2 | 27.28 / 5 | — / 7 | — / 2 | 1.2 / 3 | — / 5 | 5.6 / 6 | 6586 | 223 | 104 |\n| 19 | — / 6 | 9.10 / 1 | — / 4 | 13.14 / 5 | — / 7 | 17.18 / 1 | — / 3 | — / 4 | 21.22 / 7 | — / 1 | 25.26 / 4 | — / 2 | 30.1 / 7 | 6940 | 235 | 110 |"
+    },
+    {
+      "caption_pt": "Tabella do Caracterismo dos Períodos (Eneadecaetérides × Caractere da Eneadecaetéride)",
+      "caption_en": "Small table of the Characterism of Periods (Enneadecaeterides × Character of the Enneadecaeteris)",
+      "markdown": "| Enneadecaeterides | Character Enneadec. | (col. 3) |\n|---|---|---|\n| I | 5 | 0 |\n| II | 1 | 19 |\n| III | 4 | 38 |\n| IIII | 7 | 57 |\n| V | 3 | 76 |\n| VI | 6 | 95 |\n| VII | 2 | 114 |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "conjunction",
+      "description": "Tabula characterismi neomeniarum enneadecaeteridis Metonicae — sizígias (conjunções lunissolares) calculadas para o ciclo metônico de 19 anos, totalizando 235 sizígias em 6940 dias",
+      "historical_date_as_cited": "Enneadecaeteris Metonica (ciclo metônico de 19 anos)",
+      "location": "",
+      "ancient_source": "Meton (ciclo metônico)"
+    },
+    {
+      "type": "other",
+      "description": "syzygias plenas... sex continuae plenae syzygiae (discussão sobre a impossibilidade de haver seis sizígias cheias consecutivas)",
+      "historical_date_as_cited": "",
+      "location": "",
+      "ancient_source": ""
+    }
+  ],
+  "uncertainty_flags": [
+    "Muitas células da tabela têm leitura difícil por causa da densidade tipográfica e de manchas; alguns valores (p.ex. linha 10 coluna 11: '13.24' pode ser '23.24') podem conter erros de leitura OCR",
+    "Na linha 18, coluna Ποσειδεών α, o valor '1' na linha superior parece anômalo em relação ao padrão da coluna",
+    "Alguns valores de dia da semana (0-7) na coluna Poseideon β ficam muitas vezes em 0, o que corresponde à ausência do mês embolísmico em anos não-embolísmicos",
+    "A coluna final 'Dies collecti' foi checada: 355, 739, 1093, 1448, 1831, 2186, 2560, 2924, 3279, 3662, 4017, 4371, 4755, 5110, 5464, 5848, 6202, 6586, 6940 — incrementos consistentes com anos lunares de 354/355 dias e embolísmicos de ~384 dias",
+    "Última coluna da Tabella pequena (valores 0, 19, 38, 57, 76, 95, 114) — progressão aritmética de razão 19, consistente com multiplicadores do ciclo metônico"
+  ],
+  "notes": "A página 162 é quase inteiramente ocupada pela grande tabela do ciclo metônico (caracterismo das neomênias nos 19 anos do ciclo de Méton), com pequena tabela adicional e breve parágrafo de texto corrido no final discutindo a absurdidade de haver seis sizígias cheias consecutivas. As letras marginais A, B, C, D são marcas tipográficas de referência. A assinatura de caderno 'G 4' e reclamo 'cterisſ-' aparecem no pé da página.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T16:28:18Z",
+    "input_tokens": 7748,
+    "output_tokens": 5078
+  }
+}

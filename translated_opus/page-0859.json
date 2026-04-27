@@ -1,0 +1,75 @@
+{
+  "page": 859,
+  "page_type": "mixed",
+  "latin": "TABELLA AEQUINOCTII UTRIUSQUE IN DANIA OBSERVATI AB EXIMIO ARTIFICE NOBILISS. TYCHONE BRAHE.\n\nAEQUINOCTIUM VERNALE. AEQUINOCTIUM AUTUMNALE.\n\n[Tabella: vide sectionem tables]\n\nEx periodo 400. aequinoct. erat 7.9.5. Nam 1585 erat iniens anni mundi 5535. Abiectis periodis, superest 334. quibus competit 1.23.53. nimirum a meridie septimae feriae.\n\nTABELLA AEQUINOCTIORUM AUTUMNI AB Hipparcho observatorum. Alexandriae.\n\n[Tabella: vide sectionem tables]\n\nSubiecimus Tabellam observationum Hipparchearum aequinoctii autumnalis, cum annis tertiae periodi Calippicae, periodi Iulianae, litera Dominicali, &c. Si igitur recta est observatio anni 17, ergo observatio anni 20 debuit esse feria 7.0. ut habes in extremo versu Tabellae. Atqui observatio Hipparchi profitetur tantum 6.18. Anno 21 non recte respondetur observationi anni 17. At in anno 32 Hipparchus observavit feria 7.12. Ex observatione anni 17 debebat esse 7.18. Atqui eam vocat ἀκριβεστάτην, & ipsemet multis laudibus commendavit, eoque nomine nos eam secuti sumus. Anno 33 observatio cadit in feriam 1.18. Ratio postulabat, ut esset 2.0. Denique anno 36 pro 5.12 ipse tantum deprehendit 5.6. In annis aliquando continuis, aliquando minimo intervallo disiunctis observationes claudicant. Quid censemus in aliquot saeculis, unde postea natae sunt illae trepidationes motuum? Confer nunc continuas quinque observationes utriusque aequinoctii in Dania. Quae constantia est in illis? Quam haec admiratus fuisset Hipparchus ipse? Non potui facere, quin",
+  "pt": "TABELA DE AMBOS OS EQUINÓCIOS OBSERVADOS NA DINAMARCA PELO EXÍMIO ARTÍFICE, O NOBILÍSSIMO TYCHO BRAHE.\n\nEQUINÓCIO VERNAL. EQUINÓCIO OUTONAL.\n\n[Tabela: ver seção tables]\n\nPelo período de 400 [anos], o equinócio era 7.9.5. Pois 1585 era o ano inicial do ano do mundo 5535. Abatidos os períodos, restam 334, aos quais corresponde 1.23.53, a saber, a partir do meio-dia da sétima féria.\n\nTABELA DOS EQUINÓCIOS DE OUTONO OBSERVADOS POR HIPARCO em Alexandria.\n\n[Tabela: ver seção tables]\n\nAnexamos a tabela das observações hiparquianas do equinócio outonal, com os anos do terceiro período calípico, o período juliano, a letra dominical, etc. Se, portanto, a observação do ano 17 está correta, a observação do ano 20 deveria ter sido na féria 7.0, como se vê na última linha da tabela. Entretanto, a observação de Hiparco registra apenas 6.18. No ano 21 não se corresponde corretamente à observação do ano 17. Mas no ano 32 Hiparco observou na féria 7.12. Pela observação do ano 17 deveria ser 7.18. Contudo, ele a chama de [ἀκριβεστάτην] \"a mais exata\", e ele próprio a recomendou com muitos louvores, e por esse motivo nós a seguimos. No ano 33 a observação cai na féria 1.18. A razão exigia que fosse 2.0. Finalmente, no ano 36, em vez de 5.12, ele mesmo registrou apenas 5.6. As observações claudicam em anos ora contínuos, ora separados por intervalo mínimo. Que devemos pensar ao longo de alguns séculos, de onde depois nasceram aquelas trepidações dos movimentos? Compare agora cinco observações contínuas de ambos os equinócios na Dinamarca. Que constância há nelas! Como o próprio Hiparco teria admirado isto! Não pude deixar de...",
+  "en": "TABLE OF BOTH EQUINOXES OBSERVED IN DENMARK BY THE OUTSTANDING ARTIFICER, THE MOST NOBLE TYCHO BRAHE.\n\nVERNAL EQUINOX. AUTUMNAL EQUINOX.\n\n[Table: see tables section]\n\nFrom the period of 400 [years], the equinox was 7.9.5. For 1585 was the beginning of the year of the world 5535. Having subtracted the periods, 334 remain, to which corresponds 1.23.53, namely from the noon of the seventh feria.\n\nTABLE OF AUTUMN EQUINOXES OBSERVED BY HIPPARCHUS at Alexandria.\n\n[Table: see tables section]\n\nWe have appended a table of Hipparchus's observations of the autumnal equinox, together with the years of the third Callippic period, the Julian period, the Dominical letter, etc. Therefore, if the observation of year 17 is correct, the observation of year 20 should have been on feria 7.0, as you have in the last line of the table. But Hipparchus's observation states only 6.18. In year 21 it does not correctly correspond to the observation of year 17. But in year 32 Hipparchus observed on feria 7.12. By the observation of year 17 it should have been 7.18. Yet he calls it [ἀκριβεστάτην] \"the most exact,\" and himself commended it with many praises, and for that reason we have followed it. In year 33 the observation falls on feria 1.18. Reason demanded that it be 2.0. Finally, in year 36, instead of 5.12, he himself registered only 5.6. The observations limp sometimes in continuous years, sometimes separated by the smallest interval. What are we to think over several centuries, from which afterwards were born those trepidations of motions? Now compare five continuous observations of both equinoxes in Denmark. What constancy there is in them! How Hipparchus himself would have marveled at this! I could not help but...",
+  "tables": [
+    {
+      "caption_pt": "Tabela dos equinócios vernal e outonal observados na Dinamarca por Tycho Brahe, comparados com Alexandria (1584–1588)",
+      "caption_en": "Table of vernal and autumnal equinoxes observed in Denmark by Tycho Brahe, compared with Alexandria (1584–1588)",
+      "markdown": "| Anni Christi | Dies Martij (Dania) | Hor. Scrup. | Feria.Hor.Scr. | Dies Sept. (Alexandriae) | Hor. Scrup. | Fe.Hor.Scr. | Lit.Dom. (Dan.) | Lit.Dom. (Alex.) |\n|---|---|---|---|---|---|---|---|---|\n| 1584 (Bisex.) | IX | 21 30 | 2 23 5 | XII | 16 0 | 7 17 35 | ED | F |\n| 1585 | X | 3 19 | 4 4 54 | XII | 21 49 | 1 23 24 | C | ED |\n| 1586 | X | 9 8 | 5 10 43 | XIII | 3 38 | 3 5 13 | B | C |\n| 1587 | X | 14 56 | 6 16 31 | XIII | 9 26 | 4 11 1 | A | B |\n| 1588 | IX | 20 45 | 7 22 20 | XII | 15 15 | 5 16 50 | GF | A |\n\n| Differentiae (vernale) | Hor. | Scrup. | Differentiae (autumnale) | Hor. | Scrup. |\n|---|---|---|---|---|---|\n|  | 5 | 49 |  | 5 | 49 |\n|  | 5 | 49 |  | 5 | 49 |\n|  | 5 | 48 |  | 5 | 48 |\n|  | 5 | 49 |  | 5 | 49 |"
+    },
+    {
+      "caption_pt": "Tabela dos equinócios de outono observados por Hiparco em Alexandria",
+      "caption_en": "Table of autumn equinoxes observed by Hipparchus at Alexandria",
+      "markdown": "| Anni 3. periodi Calipp. | Periodus Iuliana | Litera Dominicalis | Feria.Hor.(12) | Feria.Hor.(12) |\n|---|---|---|---|---|\n| 17 | 4552 | B 16 | 3 6 | 3 6 |\n| 20 | 4555 | E 19 | 6 18 | 7 0 |\n| 21 | 4556 | D 20 | 1 0 | 1 6 |\n| 32 | 4567 | D 3 | 7 12 | 7 0 |\n| 33 | 4568 | C 4 | 1 18 | 1 0 |\n| 36 | 4571 | F 7 | 5 6 | 4 12 |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "equinox",
+      "description": "Aequinoctium vernale in Dania observatum a Tychone Brahe, anno 1584, die 9 Martii, hora 21.30",
+      "historical_date_as_cited": "1584, 9 Martii, hora 21.30 (Dania); 12 Sept., hora 16.0 (Alexandria)",
+      "location": "Dinamarca (Uraniborg) e Alexandria (calculado)",
+      "ancient_source": "Tycho Brahe"
+    },
+    {
+      "type": "equinox",
+      "description": "Aequinoctium vernale 1585, Martii 10, hora 3.19; autumnale Sept. 12, hora 21.49",
+      "historical_date_as_cited": "1585",
+      "location": "Dinamarca / Alexandria",
+      "ancient_source": "Tycho Brahe"
+    },
+    {
+      "type": "equinox",
+      "description": "Aequinoctium vernale 1586, Martii 10, hora 9.8; autumnale Sept. 13, hora 3.38",
+      "historical_date_as_cited": "1586",
+      "location": "Dinamarca / Alexandria",
+      "ancient_source": "Tycho Brahe"
+    },
+    {
+      "type": "equinox",
+      "description": "Aequinoctium vernale 1587, Martii 10, hora 14.56; autumnale Sept. 13, hora 9.26",
+      "historical_date_as_cited": "1587",
+      "location": "Dinamarca / Alexandria",
+      "ancient_source": "Tycho Brahe"
+    },
+    {
+      "type": "equinox",
+      "description": "Aequinoctium vernale 1588, Martii 9, hora 20.45; autumnale Sept. 12, hora 15.15",
+      "historical_date_as_cited": "1588",
+      "location": "Dinamarca / Alexandria",
+      "ancient_source": "Tycho Brahe"
+    },
+    {
+      "type": "equinox",
+      "description": "Observationes aequinoctii autumnalis ab Hipparcho Alexandriae factae annis 17, 20, 21, 32, 33, 36 tertiae periodi Callippicae",
+      "historical_date_as_cited": "anni 17, 20, 21, 32, 33, 36 tertiae periodi Calippicae; periodi Iulianae 4552, 4555, 4556, 4567, 4568, 4571",
+      "location": "Alexandria",
+      "ancient_source": "Hiparco (via Ptolomeu, Almagesto)"
+    }
+  ],
+  "uncertainty_flags": [
+    "Leitura das colunas 'Feria.Hor.Scr.' da tabela de Tycho: valores conferidos com o texto, mas a divisão das colunas no scan é apertada.",
+    "Na tabela de Hiparco, as duas últimas colunas de pares 'Fe.-Hor.12' têm cabeçalhos idênticos; o sentido exato (talvez observação x cálculo teórico) é inferido do contexto."
+  ],
+  "notes": "A página apresenta a comparação crítica de Scaliger entre as observações modernas, consistentes, de Tycho Brahe em Uraniborg (1584–1588) e as observações antigas irregulares de Hiparco em Alexandria, argumentando contra a teoria da trepidação dos movimentos celestes.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-25T00:10:26Z",
+    "input_tokens": 7748,
+    "output_tokens": 4493
+  }
+}

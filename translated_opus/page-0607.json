@@ -1,0 +1,37 @@
+{
+  "page": 607,
+  "page_type": "text",
+  "latin": "τούτων ἀρχῆς μέχρι τῆς ἰσημερίας. τὰς ἓν ξ διδομένῳ β μηνὶ τῷ Φαρμουθὶν, καὶ τῷ Ἀρδεμπέος· τὰς δὲ ἐναπολειφθείσας κβ τῷ Χοιάτ. καὶ εὑρέθη ἔχων Χοιάτ. τῇ γ Μαρτίου καὶ. τὰς ὁμοῦ πάσας ἡμέρας ἀνὰ λ ἀπὸ τῆς ἀρχῆς τῆς ἰσημερίας ...... διέβη ἡ ἀρχὴ τοῦ χρόνου τῶν Περσῶν εἰς τὴν κ τοῦ Δεκεμβρίου. εἰς ταύτην γὰρ ὁ ἀριθμὸς κατέληξεν. Περὶ τῆς εὑρέσεως τοῦ χρόνου τῶν μηνῶν καὶ τῶν ἡμερῶν τῶν Περσῶν. Ἰστέον ὅτι κατὰ τὸν τοιοῦτον χρόνον τῶν Περσῶν ὑπῆρχεν ἡ ἀρχὴ τοῦ ἔτους τούτων, ὁπηνίκα εἰσήρχετο ὁ ἥλιος εἰς τὸν κριόν. Deinde iubet ab annis Persarum auferre 378: Residuum per 4 divisum distribuere in menses & dies, & auferre a mense Pharmudin, vel potius a 13 Martij, τὸν δὲ ἐναπολειφθέντων λαμβανόμενον τὸ δ'. καὶ ὁ τούτων ἀριθμὸς εἰσὶν ἡμέραι ἀπὸ τῆς ἀρχῆς τοῦ χρόνου τῶν Περσῶν μέχρι τῆς ἰσημερίας, ἥ τις ἐστὶ τῇ ιγ τοῦ Μαρτίου μηνός, ἀφ' ἧς ἀφαιροῦντες ὁποσοδηπότως τὰς αἱρεθείσας ἡμέρας εὑρίσκομεν τὴν ἀρχὴν τοῦ χρόνου τῶν Περσῶν ἐν τίνι τῶν καθ' ἡμᾶς μηνῶν ἐστί.\n\nDE",
+  "pt": "...destes, do início até o equinócio. As 60 dadas no segundo mês Pharmuthi e em Ardempeos; as 22 restantes em Choiak. E foi encontrado Choiak no 3 de março e. Todas as dias juntas, de 30 em 30, desde o início do equinócio ...... o início do tempo dos Persas transferiu-se para o dia 20 de dezembro. Pois neste [dia] o número terminou. Sobre a descoberta do tempo dos meses e dos dias dos Persas. Deve-se saber que, segundo tal tempo dos Persas, o início do ano deles existia quando o sol entrava no signo de Áries. Em seguida, ordena subtrair 378 dos anos dos Persas; o resto, dividido por 4, distribuir em meses e dias, e subtrair do mês Pharmudin, ou antes de 13 de março, tomando-se a quarta parte do que restou. E o número destes são os dias desde o início do tempo dos Persas até o equinócio, o qual cai no dia 13 do mês de março; subtraindo deste, quantos quer que sejam, os dias encontrados, descobrimos em qual dos nossos meses se encontra o início do tempo dos Persas.\n\nDE",
+  "en": "...of these, from the beginning up to the equinox. The 60 given in the second month Pharmuthi and in Ardempeos; the remaining 22 in Choiak. And it was found to fall in Choiak on the 3rd of March. All the days together, at 30 each, from the beginning of the equinox ...... the beginning of the time of the Persians shifted to the 20th of December. For on this [day] the number ended. On the finding of the time of the months and days of the Persians. It must be known that, according to such time of the Persians, the beginning of their year existed when the sun entered Aries. Then he orders to subtract 378 from the years of the Persians; the remainder, divided by 4, is to be distributed into months and days, and subtracted from the month Pharmudin, or rather from 13 March, taking the fourth part of what remained. And the number of these are the days from the beginning of the time of the Persians up to the equinox, which falls on the 13th of the month of March; subtracting from this, however many they be, the selected days, we find in which of our months the beginning of the time of the Persians lies.\n\nDE",
+  "tables": [],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "equinox",
+      "description": "ἀπὸ τῆς ἀρχῆς τῆς ἰσημερίας ... ἡ ἰσημερία ἐστὶ τῇ ιγ τοῦ Μαρτίου μηνός",
+      "historical_date_as_cited": "13 Martii",
+      "location": "",
+      "ancient_source": "calculus Persicus (computação persa, citada por Scaliger)"
+    },
+    {
+      "type": "other",
+      "description": "ὁπηνίκα εἰσήρχετο ὁ ἥλιος εἰς τὸν κριόν — o início do ano persa é quando o Sol entra em Áries (equinócio vernal)",
+      "historical_date_as_cited": "",
+      "location": "",
+      "ancient_source": "computação persa"
+    }
+  ],
+  "uncertainty_flags": [
+    "Várias abreviaturas gregas com sinais de suspensão (τῷ, τοῦ, τῶν) expandidas por conjectura; a leitura 'Ἀρδεμπέος' e 'Φαρμουθίν/Pharmudin' para nomes de meses egípcio-persas pode variar",
+    "Lacuna marcada por pontos no original (......) mantida na transcrição",
+    "O número '60' (ξ) e '22' (κβ) lidos dos numerais gregos alfabéticos — conferidos mas sem certeza absoluta por causa dos sobrescritos"
+  ],
+  "notes": "Página com texto grego denso (provavelmente citação de um comentarista bizantino sobre cronologia persa/egípcia, intercalada com paráfrase latina de Scaliger 'Deinde iubet...'). A página termina com a palavra de reclame 'DE' indicando que a próxima seção começa com essa sílaba. Os meses citados (Pharmuthi, Choiak) são egípcios; Ardempeos é nome alternativo usado em astronomia bizantina.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T21:27:10Z",
+    "input_tokens": 7748,
+    "output_tokens": 2418
+  }
+}

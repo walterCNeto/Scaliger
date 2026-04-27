@@ -1,0 +1,31 @@
+{
+  "page": 432,
+  "page_type": "table",
+  "latin": "DE EMENDAT. TEMPORUM LIB. IIII.\n\nHARMONIA MENSIUM\nMENSES LUNARES.\n\n[Tabela 1: Harmonia dos meses lunares entre Judeus, Siro-Caldeus, Hagarenos (Árabes) e Macedônios Siro-Gregos]\n\nMENSES LUNARES.\n\n[Tabela 2: Harmonia dos meses lunares entre Judeus, Atenienses, Saxões e Dinamarqueses]\n\nGg    MEN-",
+  "pt": "DA EMENDAÇÃO DOS TEMPOS, LIVRO IV.\n\nHARMONIA DOS MESES\nMESES LUNARES.\n\n[Duas tabelas comparativas de meses lunares entre diversos povos; ver seção tables.]",
+  "en": "ON THE EMENDATION OF TIMES, BOOK IV.\n\nHARMONY OF THE MONTHS\nLUNAR MONTHS.\n\n[Two comparative tables of lunar months among various peoples; see tables section.]",
+  "tables": [
+    {
+      "caption_pt": "Harmonia dos meses lunares: Judeus (ano comum e embolísmico), Siro-Caldeus, Hagarenos (Árabes), Macedônios Siro-Gregos, com dias coletados acumulados.",
+      "caption_en": "Harmony of lunar months: Jews (common and embolismic year), Syro-Chaldeans, Hagarenes (Arabs), Syro-Greek Macedonians, with accumulated collected days.",
+      "markdown": "| IUDAEORUM | Annus communis | Annus Embol. | SYROCHALDAEORUM | HAGARENORUM | MACEDONUM SYROGRAECORUM | Dies collecti |\n|---|---|---|---|---|---|---|\n| Tisri | 30 | 39 | Tisrin prior | Rabiu prior | Hyperberetaeus | 39 |\n| Marchesuvan | 59 | 59 | Tisrin posterior | Rabiu posterior | Dius | 59 |\n| Casleu | 89 | 89 | Conum prior | Giumadiu prior | Apellaeus | 89 |\n| Tebeth | 118 | 118 | Conum posterior | Giumadiu poster. | Audynaeus | 118 |\n| Schebat | 148 | 148 | Aschbat | Regiabu | Peritius | 148 |\n| Adar prior | 0 | 177 | 0 0 | 0 0 | 0 0 | 0 |\n| Adar posterior | 177 | 207 | Adar | Sahabenu | Dystrus | 177 |\n| Nisan | 207 | 237 | Nisan | Ramadhanu | Xanthicus | 207 |\n| Ijar | 236 | 266 | Ijor | Schevvalu | Artemisius | 236 |\n| Sivvan | 266 | 296 | Haziran | Dhulkaidathi | Daesius | 266 |\n| Tamuz | 295 | 325 | Tamuz | Dhulhagiathi | Panemus | 295 |\n| Ab | 325 | 355 | Ab | Muharramu | Lous | 325 |\n| Elul | 354 | 384 | Ilul | Tzepharu | Gorpiaeus | 354 |\n| 0 | 0 | 0 | Embol. | Embol. | Dioscurus embol. | 384 |"
+    },
+    {
+      "caption_pt": "Harmonia dos meses lunares: Judeus (ano comum e embolísmico), Atenienses, Saxões e Dinamarqueses, com dias coletados acumulados.",
+      "caption_en": "Harmony of lunar months: Jews (common and embolismic year), Athenians, Saxons, and Danes, with accumulated collected days.",
+      "markdown": "| IUDAEORUM | Annus comun. | Annus Embol. | ATHENIENSIUM | Dies collecti | SAXONUM | DANORUM | Dies collecti |\n|---|---|---|---|---|---|---|---|\n| Ab | 325 | 355 | Metagitnion | 59 | Wendenmonath | Hooftmaanet | 30 |\n| Elul | 354 | 384 | Boedromion | 89 | Halegmonath | Fischemaanet | 59 |\n| Tisri | 30 | 30 | Pyanepsion | 118 | Wintirfyllith | Seemaanet | 89 |\n| Marchesuvan | 59 | 59 | Maimacterion | 148 | Blothmonath | Slaetmanet | 118 |\n| Casleu | 89 | 89 | Posideon | 177 | Giuli prior | Christmaanet | 148 |\n| Tebeth | 118 | 118 | Gamelion | 207 | Giuli posterior | Glugmaanet | 177 |\n| Schebat | 148 | 148 | Anthesterion | 236 | Solmonath | Bludemaanet | 207 |\n| Adar prior | 0 | 177 | 0 0 | 0 | 0 0 | 0 0 | 0 |\n| Adar posterior | 177 | 207 | Elaphebolion | 266 | Rethmonath | Aormaanet | 236 |\n| Nisan | 207 | 237 | Munychion | 295 | Chosturmonath | Faremaanet | 266 |\n| Ijar | 236 | 266 | Thargelion | 325 | Trimilchi | Maimaanet | 295 |\n| 0 | 0 | 0 | Schirrhophorion I. | 354 | Lida prior | Hoemaanet | 325 |\n| Sivvan | 266 | 296 | Schirrhophorion II. | 384 | 0 0 | 0 0 | 0 |\n| Tamuz | 295 | 325 | Hekatombaeon | 30 | Lida posterior | Ormemaanet | 354 |\n| 0 | 0 | 0 | 0 0 | 0 | Lida Embol. | 0 0 | 384 |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Na segunda tabela a sequência dos meses judaicos é irregular (começa em Ab) — reproduzida como impresso; pode haver desalinhamento tipográfico entre colunas (Ateniense, Saxão, Dinamarquês) no original."
+  ],
+  "notes": "Página de tabelas comparativas (Harmonia Mensium) correlacionando meses lunares judaicos com calendários siro-caldaico, árabe islâmico, macedônio, ateniense, saxão e dinamarquês. A coluna 'Dies collecti' dá o total acumulado de dias desde o início do ano. Números preservados exatamente como no original.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T19:25:33Z",
+    "input_tokens": 7748,
+    "output_tokens": 2436
+  }
+}

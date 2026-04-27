@@ -1,0 +1,50 @@
+{
+  "page": 360,
+  "page_type": "table",
+  "latin": "DE EMENDAT. TEMPORUM LIB. IIII. 277\n\n[Tabula A-C:] QUANTITAS ANNI SOLARIS RABBI ADDA. DIFFERENTIA.\n[Tabula D:] DIFFERENTIA ANNI SIDEREI ET ANNI RABBI ADDA.\n[Tabula superior dextra:] DIFFERENTIA ENNEADECAETERIDUM RABBI ADDA, ET SIDEREARUM.\n[Tabula inferior dextra:] ΠΡΟΗΓΗΣΙΣ ΙΣΗμερινή in Anno Rabbi Adda.\n\nIn 393. annis fit periodus feriarum 7. 0. 29. 16.\n\nA2  TABU-",
+  "pt": "Tabelas do Livro IV da Emendação dos Tempos. Ver seção 'tables' para os valores. Títulos: Quantidade do ano solar de Rabi Adá / Diferença; Diferença dos eneadecaetérides de Rabi Adá e dos siderais; Diferença entre o ano sidéreo e o ano de Rabi Adá; Precessão do equinócio [ΠΡΟΗΓΗΣΙΣ ΙΣΗμερινή] no ano de Rabi Adá. Nota final: 'Em 393 anos completa-se um período de férias [dias da semana] de 7. 0. 29. 16.'",
+  "en": "Tables from Book IV of the Emendation of Times. See the 'tables' section for values. Headings: Magnitude of the solar year of Rabbi Adda / Difference; Difference of the enneadecaeterides of Rabbi Adda and the sidereal ones; Difference between the sidereal year and the year of Rabbi Adda; Precession of the equinox [ΠΡΟΗΓΗΣΙΣ ΙΣΗμερινή] in the year of Rabbi Adda. Final note: 'In 393 years a period of weekdays of 7. 0. 29. 16 is completed.'",
+  "tables": [
+    {
+      "caption_pt": "Quantidade do ano solar de Rabi Adá e diferença (colunas: Féria, Horas 12, Escrúpulos 1080, Momentos 76)",
+      "caption_en": "Magnitude of the solar year of Rabbi Adda and difference (columns: Feria, Hours 12, Scruples 1080, Moments 76)",
+      "markdown": "| Ano | Fer. | Hor.12 | Scrup.1080 | Mom.76 | Diff. Hor.12 | Scrup.1080 | Mom.76 |\n|---|---|---|---|---|---|---|---|\n| 87 | 3 | 11 | 393 | 72 | 6 | 686 | 4 |\n| 88 | 4 | 17 | 311 | 44 | 6 | 768 | 32 |\n| 89 | 5 | 23 | 229 | 16 | 6 | 850 | 60 |\n| 90 | 7 | 5 | 146 | 64 | 6 | 933 | 12 |\n| 91 | 1 | 11 | 64 | 36 | 6 | 1015 | 40 |\n| 92 | 2 | 16 | 1062 | 8 | 7 | 17 | 68 |\n| 93 | 3 | 22 | 979 | 56 | 7 | 100 | 20 |\n| 94 | 5 | 4 | 897 | 28 | 7 | 182 | 48 |\n| 95 | 6 | 10 | 815 | 0 | 7 | 265 | 0 |\n| 96 | 7 | 16 | 732 | 48 | 7 | 347 | 28 |\n| 97 | 1 | 22 | 650 | 20 | 7 | 429 | 56 |\n| 98 | 3 | 4 | 567 | 68 | 7 | 512 | 8 |\n| 99 | 4 | 10 | 485 | 40 | 7 | 594 | 36 |\n| 100 | 5 | 16 | 403 | 12 | 7 | 676 | 64 |\n| 101 | 6 | 22 | 320 | 60 | 7 | 759 | 16 |\n| 102 | 1 | 4 | 238 | 32 | 7 | 841 | 44 |\n| 103 | 2 | 10 | 156 | 4 | 7 | 923 | 72 |\n| 104 | 3 | 16 | 73 | 52 | 7 | 1006 | 24 |\n| 105 | 4 | 21 | 1071 | 24 | 8 | 8 | 56 |\n| 106 | 6 | 3 | 988 | 72 | 8 | 91 | 4 |\n| 107 | 7 | 9 | 906 | 44 | 8 | 173 | 32 |\n| 108 | 1 | 15 | 824 | 16 | 8 | 255 | 60 |\n| 109 | 2 | 21 | 741 | 64 | 8 | 338 | 12 |\n| 110 | 4 | 3 | 659 | 36 | 8 | 420 | 40 |\n| 111 | 5 | 9 | 577 | 8 | 8 | 502 | 68 |\n| 112 | 6 | 15 | 494 | 56 | 8 | 585 | 20 |\n| 113 | 7 | 21 | 412 | 28 | 8 | 667 | 48 |\n| 114 | 2 | 3 | 330 | 0 | 8 | 750 | 0 |"
+    },
+    {
+      "caption_pt": "Diferença dos eneadecaetérides (ciclos de 19 anos) de Rabi Adá e dos siderais",
+      "caption_en": "Difference of the enneadecaeterides (19-year cycles) of Rabbi Adda and of the sidereal ones",
+      "markdown": "| Cycl. | Dies | Horae | Scrup | Mom |\n|---|---|---|---|---|\n| 1 | 0 | 1 | 502 | |\n| 2 | 0 | 2 | 1004 | |\n| 3 | 0 | 4 | 426 | |\n| 4 | 0 | 5 | 928 | |\n| 5 | 0 | 7 | 350 | |\n| 6 | 0 | 8 | 852 | |\n| 7 | 0 | 10 | 274 | |\n| 8 | 0 | 11 | 776 | |\n| 9 | 0 | 13 | 198 | |\n| 10 | 0 | 14 | 700 | |\n| 17 | 1 | 0 | 974 | Differentia Cycl. 17 & Sid. |\n| 17 | 1 | 0 | 685 | Diff. 17. Cycl. ☽ & anni Iul. |"
+    },
+    {
+      "caption_pt": "Diferença entre o ano sidéreo e o ano de Rabi Adá",
+      "caption_en": "Difference between the sidereal year and the year of Rabbi Adda",
+      "markdown": "| Anni | Dies | Horae | Scrup | Mom |\n|---|---|---|---|---|\n| 1 | 0 | 0 | 248 | 28 |\n| 2 | 0 | 0 | 496 | 56 |\n| 3 | 0 | 0 | 745 | 8 |\n| 4 | 0 | 0 | 993 | 36 |\n| 5 | 0 | 1 | 161 | 64 |\n| 6 | 0 | 1 | 410 | 16 |\n| 7 | 0 | 1 | 658 | 44 |\n| 8 | 0 | 1 | 906 | 72 |\n| 9 | 0 | 2 | 75 | 24 |\n| 10 | 0 | 2 | 323 | 52 |\n| 20 | 0 | 4 | 647 | 28 |\n| 30 | 0 | 6 | 971 | 4 |\n| 40 | 0 | 9 | 214 | 56 |\n| 50 | 0 | 11 | 538 | 32 |\n| 60 | 0 | 13 | 862 | 8 |\n| 70 | 0 | 16 | 105 | 60 |\n| 80 | 0 | 18 | 429 | 36 |\n| 90 | 0 | 20 | 753 | 12 |\n| 100 | 0 | 22 | 1076 | 64 |\n| 105 | 0 | 0 | 58 | 52 |"
+    },
+    {
+      "caption_pt": "Precessão do equinócio (ΠΡΟΗΓΗΣΙΣ ΙΣΗμερινή) no ano de Rabi Adá",
+      "caption_en": "Precession of the equinox (ΠΡΟΗΓΗΣΙΣ ΙΣΗμερινή) in the year of Rabbi Adda",
+      "markdown": "| Anni | Dies | Horae | Scrup | Mom |\n|---|---|---|---|---|\n| 1 | 0 | 0 | 111 | 48 |\n| 2 | 0 | 0 | 223 | 20 |\n| 3 | 0 | 0 | 334 | 68 |\n| 4 | 0 | 0 | 446 | 40 |\n| 5 | 0 | 0 | 558 | 12 |\n| 6 | 0 | 0 | 669 | 60 |\n| 7 | 0 | 0 | 781 | 32 |\n| 8 | 0 | 0 | 893 | 4 |\n| 9 | 0 | 0 | 1004 | 52 |\n| 10 | 0 | 1 | 36 | 24 |\n| 20 | 0 | 2 | 72 | 48 |\n| 30 | 0 | 3 | 108 | 72 |\n| 40 | 0 | 4 | 145 | 20 |\n| 50 | 0 | 5 | 181 | 44 |\n| 60 | 0 | 6 | 217 | 68 |\n| 70 | 0 | 7 | 254 | 16 |\n| 80 | 0 | 8 | 290 | 40 |\n| 90 | 0 | 9 | 326 | 64 |\n| 100 | 0 | 10 | 363 | 12 |\n| 200 | 0 | 20 | 726 | 24 |\n| 300 | 1 | 7 | 9 | 36 |\n| 400 | 1 | 17 | 372 | 48 |\n| 500 | 2 | 3 | 735 | 60 |\n| 600 | 2 | 14 | 18 | 72 |\n| 700 | 3 | 0 | 382 | 80[?] |\n| 800 | 3 | 10 | 745 | 26 |\n| 900 | 3 | 21 | 28 | 32 |\n| 1000 | 4 | 7 | 391 | 44 |\n| 2000 | 8 | 14 | 783 | 12 |\n| 3000 | 12 | 22 | 94 | 56 |\n| 4000 | 17 | 5 | 486 | 24 |\n| 5000 | 21 | 12 | 877 | 68 |\n| 6000 | 25 | 20 | 189 | 36 |\n| 7000 | 30 | 3 | 581 | 4 |\n| 8000 | 34 | 10 | 972 | 48 |\n| 9000 | 38 | 18 | 284 | 16 |\n\nIn 393. annis fit periodus feriarum 7. 0. 29. 16."
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "equinox",
+      "description": "ΠΡΟΗΓΗΣΙΣ ΙΣΗμερινή in Anno Rabbi Adda (precessão/retrogradação do equinócio no ano de Rabi Adá)",
+      "historical_date_as_cited": "tabela de 1 a 9000 anos",
+      "location": "",
+      "ancient_source": "Rabbi Adda (ano solar de)"
+    }
+  ],
+  "uncertainty_flags": [
+    "Tabela de precessão, linha 700: 'Mom 80' parece inconsistente com coluna de momentos/76; pode ser erro tipográfico do original ou leitura imprecisa.",
+    "Na tabela superior direita, última coluna (Mom) das linhas 1-10 não está claramente presente; valores lidos podem estar incompletos."
+  ],
+  "notes": "Página constituída quase integralmente por quatro tabelas cronológico-astronômicas relativas ao ano de Rabi Adá (astronomia hebraica medieval), sua diferença em relação ao ano sidéreo e à precessão dos equinócios. Colunas habituais: Feria (dia da semana), Horas (base 24, divididas em metades de 12), Scrupula (1080 por hora — unidade rabínica ḥalakim), Momenta (76 por escrúpulo). Reclamo final 'TABU-' indica que a próxima página inicia com 'TABULAE'.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T18:42:09Z",
+    "input_tokens": 7748,
+    "output_tokens": 4545
+  }
+}

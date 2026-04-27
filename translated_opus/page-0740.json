@@ -1,0 +1,56 @@
+{
+  "page": 740,
+  "page_type": "mixed",
+  "latin": "DE EMENDAT. TEMPORUM LIB. VII. 657\nCOMPUTUS SAMARITARUM.\n\n[Textus Samaritanus et Hebraicus in duabus columnis, cum sequenti versione Latina:]\n\nIn nomine IAH Dei Israel. Non est similis IAH Deo nostro. IEHOVA unus, Deus Deorum, & Dominus Dominorum: Deus magnus, fortis, & terribilis. Non est similis Deo IESCHURUN, Deo Abraham, Isaac, Iacob, Ioseph, & Domini nostri Mosis, & Aharon, & Eleazar, & Ithamer, & Phinhas. Sanciat vobis benedictionem Domini nostri Mosis.\n\nIEHOVA Deus Patrum vestrorum adiiciat super vos, quot estis, mille vices, & benedicat vobis. COMPUTUS ANNI CCX.\n\nOBSIGNATIO MENSIUM ANNI SEPTIMI IN SCHEMITAH.\n\nConiunctio Elhagiath super decem horas & dimidium, & decimam a die secunda, tertia, in sexta Adar. V. XXXI.\n\nConiunctio Muharram super tres horas, & dimidium, & decimam a nocte quarta, in Phase quarta Nisan. I. XXX.\n\nConiunctio Tzephar super sex horas, trientem, & decimam a nocte sexta, in quarta Ijar. III. XXXI.\n\nConiunctio Rabie super decem horas & tricesimam decimae a die septima, prima, in tertia Sebin. VI. XXX.\n\nתומך",
+  "pt": "DO LIVRO VII DA EMENDAÇÃO DOS TEMPOS. 657\nCÔMPUTO DOS SAMARITANOS.\n\n[Texto em caracteres samaritanos e hebraicos em duas colunas, com a seguinte versão latina:]\n\nEm nome de IAH, Deus de Israel. Não há semelhante a IAH, nosso Deus. JEOVÁ é um, Deus dos deuses e Senhor dos senhores: Deus grande, forte e terrível. Não há semelhante ao Deus de JESURUM, Deus de Abraão, Isaque, Jacó, José e de nosso Senhor Moisés, e de Arão, e de Eleazar, e de Itamar, e de Fineias. Que Ele sancione sobre vós a bênção de nosso Senhor Moisés.\n\nJEOVÁ, Deus de vossos pais, acrescente sobre vós, quantos sois, mil vezes, e vos abençoe. CÔMPUTO DO ANO 210.\n\nSELAMENTO DOS MESES DO SÉTIMO ANO NO SCHEMITAH.\n\nConjunção de Elhagiath acima de dez horas e meia, e um décimo, desde o segundo dia, [hora] terceira, no sexto [dia] de Adar. V. 31.\n\nConjunção de Muharram acima de três horas, e meia, e um décimo, desde a quarta noite, na quarta Páscoa de Nisan. I. 30.\n\nConjunção de Tzephar acima de seis horas, um terço, e um décimo, desde a sexta noite, no quarto [dia] de Ijar. III. 31.\n\nConjunção de Rabie acima de dez horas e trinta [partes] do décimo, desde o sétimo dia, [hora] primeira, no terceiro [dia] de Sebin. VI. 30.\n\nתומך [continua]",
+  "en": "ON THE EMENDATION OF TIMES, BOOK VII. 657\nCOMPUTUS OF THE SAMARITANS.\n\n[Samaritan and Hebrew text in two columns, with the following Latin version:]\n\nIn the name of IAH, God of Israel. There is none like IAH our God. JEHOVAH is one, God of Gods, and Lord of Lords: a great, mighty, and terrible God. There is none like the God of JESHURUN, the God of Abraham, Isaac, Jacob, Joseph, and of our Lord Moses, and of Aaron, and of Eleazar, and of Ithamar, and of Phinehas. May He confirm upon you the blessing of our Lord Moses.\n\nMay JEHOVAH, the God of your fathers, add unto you, however many you are, a thousand times, and bless you. COMPUTUS OF YEAR 210.\n\nSEALING OF THE MONTHS OF THE SEVENTH YEAR IN SCHEMITAH.\n\nConjunction of Elhagiath above ten and a half hours, and one tenth, from the second day, [hour] third, on the sixth of Adar. V. 31.\n\nConjunction of Muharram above three hours, and a half, and one tenth, from the fourth night, on the fourth Passover of Nisan. I. 30.\n\nConjunction of Tzephar above six hours, a third, and one tenth, from the sixth night, on the fourth of Ijar. III. 31.\n\nConjunction of Rabie above ten hours and thirty [parts] of the tenth, from the seventh day, [hour] first, on the third of Sebin. VI. 30.\n\nתומך [continues]",
+  "tables": [],
+  "figures": [
+    {
+      "description_pt": "Bloco textual em duas colunas: à esquerda, texto em escrita samaritana; à direita, texto em escrita hebraica quadrática. Contém a bênção sacerdotal dos samaritanos e o início do cômputo do ano 210 com a lista de conjunções (neomênias) do sétimo ano do Schemitah.",
+      "description_en": "Textual block in two columns: on the left, text in Samaritan script; on the right, text in square Hebrew script. It contains the Samaritan priestly blessing and the beginning of the computus of year 210 with the list of conjunctions (neomenias) of the seventh year of the Schemitah."
+    }
+  ],
+  "astronomical_events": [
+    {
+      "type": "conjunction",
+      "description": "Coniunctio Elhagiath super decem horas & dimidium, & decimam a die secunda, tertia, in sexta Adar.",
+      "historical_date_as_cited": "Anno 210 computi Samaritani; sexta Adar, V. XXXI",
+      "location": "",
+      "ancient_source": "Computus Samaritanorum"
+    },
+    {
+      "type": "conjunction",
+      "description": "Coniunctio Muharram super tres horas, & dimidium, & decimam a nocte quarta, in Phase quarta Nisan.",
+      "historical_date_as_cited": "Anno 210 computi Samaritani; quarta Nisan (Phase), I. XXX",
+      "location": "",
+      "ancient_source": "Computus Samaritanorum"
+    },
+    {
+      "type": "conjunction",
+      "description": "Coniunctio Tzephar super sex horas, trientem, & decimam a nocte sexta, in quarta Ijar.",
+      "historical_date_as_cited": "Anno 210 computi Samaritani; quarta Ijar, III. XXXI",
+      "location": "",
+      "ancient_source": "Computus Samaritanorum"
+    },
+    {
+      "type": "conjunction",
+      "description": "Coniunctio Rabie super decem horas & tricesimam decimae a die septima, prima, in tertia Sebin.",
+      "historical_date_as_cited": "Anno 210 computi Samaritani; tertia Sebin, VI. XXX",
+      "location": "",
+      "ancient_source": "Computus Samaritanorum"
+    }
+  ],
+  "uncertainty_flags": [
+    "A transliteração precisa dos caracteres samaritanos nas duas primeiras colunas não foi reproduzida (preservado apenas em imagem); a correspondência latina foi mantida.",
+    "Leitura dos numerais ao final de cada conjunção (V.XXXI, I.XXX, III.XXXI, VI.XXX) confirmada conforme o scan, mas sujeita a verificação em edição crítica.",
+    "Palavra hebraica final 'תומך' (custos/reclamo de página) indica a captura para a página seguinte."
+  ],
+  "notes": "Página pertencente ao Livro VII do Opus de Emendatione Temporum, na seção 'Computus Samaritarum'. O texto em escrita samaritana (coluna esquerda) reproduz o mesmo conteúdo da coluna hebraica direita — trata-se da bênção sacerdotal samaritana. Em seguida apresenta-se uma lista de conjunções lunares (neomênias) para o sétimo ano do ciclo sabático (Schemitah), com os nomes dos meses em forma arabizada (Muharram, Tzephar, Rabie) ao lado dos equivalentes hebraicos (Nisan, Ijar, Sebin=Siván).",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:00:01Z",
+    "input_tokens": 7748,
+    "output_tokens": 3152
+  }
+}

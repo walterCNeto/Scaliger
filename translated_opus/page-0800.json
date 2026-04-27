@@ -1,0 +1,28 @@
+{
+  "page": 800,
+  "page_type": "table",
+  "latin": "[Página contém principalmente tabela em árabe sobre a festa da Ressurreição (عيد القيامة) no calendário romano/siríaco. À direita, fragmentos de texto latino mutilados na margem, provavelmente pertencentes à página oposta: 'Sivm quem de emend[atione] tem[porum] dic[it]... A cuita C et au ar cu mi rel exis cy M nc de C H ce du Ia 15 ni vn us clt ius 18 t a an at N ra 19 uif co nu tur pu anr Sy cyc nsfi-']",
+  "pt": "Tabela em árabe listando as datas da festa da Ressurreição (ʿĪd al-Qiyāma) no mês romano e no dia da Ressurreição, com referência aos anos 1078 e 1088 da era de Alexandre (Selêucida), e suas correspondências em meses de Adār (آذار) e Nīsān (نيسان). Ver seção tables. À direita da página, há apenas restos muito mutilados do texto latino pertencente à coluna vizinha, ilegíveis em contínuo.",
+  "en": "Arabic table listing the dates of the Feast of the Resurrection (ʿĪd al-Qiyāma) in the Roman month and on the day of the Resurrection, with reference to the years 1078 and 1088 of the Alexandrian (Seleucid) era, and their correspondences in the months of Adhār (آذار) and Nīsān (نيسان). See tables section. On the right side of the page, only badly mutilated fragments of the Latin text from the adjacent column remain, illegible as running text.",
+  "tables": [
+    {
+      "caption_pt": "Tabela árabe das datas da festa da Ressurreição (Páscoa) no mês romano (siríaco) e o dia da Ressurreição, para o ciclo iniciando no ano 1078 e 1088 da era de Alexandre, com sinais (ʿalāma) ذ, و, ٨, ه sobre cada coluna.",
+      "caption_en": "Arabic table of the dates of the Feast of the Resurrection (Easter) in the Roman (Syriac) month and the day of the Resurrection, for the cycle beginning in years 1078 and 1088 of the era of Alexander, with signs (ʿalāma) ذ, و, ٨, ه above each column.",
+      "markdown": "| عيد القيامة / العلامة ذ | عيد القيامة / العلامة و | عيد القيامة / العلامة ٨ | عيد القيامة / العلامة ه |\n|---|---|---|---|\n| ١ نيسان | ٨ ر آذار | ٧ ر آذار | ٨ ر آذار |\n| ١٥ نيسان | ١٤ نيسان | ١٧ نيسان | ١٨ نيسان |\n| ٨ نيسان | و نيسان | سر نيسان | عر نيسان |\n| ٨ ر آذار | ٨ ر آذار | ٧ ر آذار | ٨ ر آذار |\n| ١٥ نيسان | ١٤ نيسان | ١٧ نيسان | ١١ نيسان |\n| ١ نيسان | ر نيسان | سر نيسان | عر نيسان |\n| سرر نيسان | سرر نيسان | عرر نيسان | ٥ ر نيسان |\n| ٨ نيسان | ٨ نيسان | ٨ نيسان | ١١ نيسان |\n| ٨ نيسان | ر نيسان | سر نيسان | ٨ ر آذار |\n| ررر نيسان | ١٤ نيسان | ١٧ نيسان | ٨ نيسان |\n| ٨ نيسان | و نيسان | ١٠ نيسان | ١١ نيسان |\n| ٨ ر آذار | ٨ ر آذار | ٧ ر آذار | ٨ ر آذار |\n| ٥ نيسان | سر نيسان | ١٧ نيسان | ١٨ نيسان |\n| ٨ نيسان | ر نيسان | سر نيسان | عر نيسان |\n| ٨ ر آذار | ٨ ر آذار | ٧ ر آذار | ٨ ر آذار |\n| ٥ نيسان | ١٤ نيسان | ١٠ نيسان | ١١ نيسان |\n| ا نيسان | ر نيسان | سر نيسان | عر نيسان |\n| ررر نيسان | سرر نيسان | عرر نيسان | ١٨ نيسان |\n| ٨ نيسان | و نيسان | ا نيسان | ١١ نيسان |\n\n**Cabeçalho superior:** ...س في الشهر الرومي ويوم القيامة — ١٠٧٨ تجسدية — ١٠٨٨ اسكندرية وكل ما تم جمع الى لواله\n\n**Rodapé:** ١٠٨٨ سنة اسكندرية وكل ما تم وكمل"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Diversos numerais árabes na tabela estão parcialmente apagados ou ambíguos (especialmente dígitos com 'سر', 'عر', 'ررر' que podem ser números com diacríticos mal impressos).",
+    "A coluna latina à direita é texto da página oposta invadindo a margem; não foi transcrita como texto contínuo por estar fragmentada em sílabas isoladas.",
+    "O ano no cabeçalho foi lido como 1078 (تجسدية, era da Encarnação) e 1088 (اسكندرية, era de Alexandre/Selêucida), mas pode haver variação nos dígitos."
+  ],
+  "notes": "Esta página pertence à seção final do De Emendatione Temporum em que Scaliger reproduz tabelas pascais árabes-siríacas (provavelmente de fonte melquita ou jacobita) para o cálculo da Páscoa cristã. O conteúdo principal é a tabela árabe; os fragmentos latinos à direita são bleeding da página adjacente durante a digitalização e não constituem texto próprio desta página.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:32:15Z",
+    "input_tokens": 7748,
+    "output_tokens": 2175
+  }
+}

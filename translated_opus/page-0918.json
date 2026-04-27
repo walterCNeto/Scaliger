@@ -1,0 +1,18 @@
+{
+  "page": 918,
+  "page_type": "frontmatter",
+  "latin": "VETERVM GRAECORVM FRAGMENTA SELECTA.\n\nQuibus loci aliquot obscurissimi Chronologiae sacrae & Bibliorum illustrantur.",
+  "pt": "FRAGMENTOS SELETOS DOS ANTIGOS GREGOS.\n\nPelos quais alguns lugares obscuríssimos da Cronologia sagrada e da Bíblia são esclarecidos.",
+  "en": "SELECTED FRAGMENTS OF THE ANCIENT GREEKS.\n\nBy which several most obscure passages of sacred Chronology and of the Scriptures are illuminated.",
+  "tables": [],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [],
+  "notes": "Página de rosto (frontispício interno) introduzindo a seção de fragmentos gregos selecionados anexa ao Opus de Emendatione Temporum.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-27T14:23:54Z",
+    "input_tokens": 7748,
+    "output_tokens": 366
+  }
+}

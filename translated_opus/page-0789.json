@@ -1,0 +1,18 @@
+{
+  "page": 789,
+  "page_type": "text",
+  "latin": "Africa: Ita etiam Arabes vocant totam regionem MESRE, habitatores autem ipsos ELCHIBTH. Aiunt Chibth primum fuisse, qui ibi primus et imperavit, et aedificia construxit: quod etiam ipsi indigenae non alio se nomine appellant. Nulli vero Aegyptii supersunt ibi, praeter illos Christianos, qui nunc ibi sunt. Reliqui omnes ad Muhamedismum defecerunt.\n\nHaec ille. Sed de CHIBTI iam dictum. Utuntur autem illi Christiani vetustissima Aegyptiaca lingua in sacris, qua tres liturgias conscriptas penes nos habemus, Gregorii, Cyrilli, et Ignatii, cum interpretatione Arabica. Nihil habet commune cum reliquis Orientalibus ille sermo, praeter characteres, quorum maxima pars Graeci sunt.\n\nCOM-",
+  "pt": "África: Assim também os árabes chamam toda a região de MESRE, e aos próprios habitantes de ELCHIBTH. Dizem que Chibth foi o primeiro que ali primeiramente governou e construiu edifícios: e é por esse mesmo nome que os próprios nativos a si mesmos se chamam. Nenhum egípcio, porém, ali sobrevive, salvo aqueles cristãos que agora ali se encontram. Todos os demais passaram ao maometismo.\n\nAssim ele. Mas sobre os CHIBTI já se falou. Usam, pois, aqueles cristãos a antiquíssima língua egípcia nos ofícios sagrados, na qual temos em nosso poder três liturgias registradas, de Gregório, de Cirilo e de Inácio, com tradução árabe. Nada tem em comum aquela língua com as demais orientais, exceto os caracteres, cuja maior parte é grega.\n\nCOM-",
+  "en": "Africa: Thus also the Arabs call the whole region MESRE, and its inhabitants themselves ELCHIBTH. They say that Chibth was the first who there first ruled and built buildings: and the natives themselves call themselves by no other name. But no Egyptians survive there, except those Christians who are now there. All the rest have defected to Muhammadanism.\n\nThus he. But concerning the CHIBTI enough has already been said. Now those Christians use the most ancient Egyptian language in their sacred rites, in which we have in our possession three liturgies written down—of Gregory, of Cyril, and of Ignatius—with an Arabic translation. That language has nothing in common with the other Oriental tongues, except the characters, the greatest part of which are Greek.\n\nCOM-",
+  "tables": [],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [],
+  "notes": "Fim de seção sobre a língua e nome dos egípcios (coptas/Chibti). A palavra 'COM-' no rodapé é o 'custos' (reclamo) indicando o início da próxima página.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:28:43Z",
+    "input_tokens": 7748,
+    "output_tokens": 1097
+  }
+}

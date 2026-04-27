@@ -1,0 +1,29 @@
+{
+  "page": 807,
+  "page_type": "table",
+  "latin": "ΕΤΕΙ ΑΛΕΞΑΝΔΡΟΥ ΚΑΙΣΑΡΟΣ\nΤῼ Α ΑΡΧΗ\n\nΑΙ ΚΥΡΙΑΚΑΙ ΤΟΥ ΠΑΣΧΑ ΚΑΤΑ ΕΤΟΣ\nΑΙ ΔΕ ΠΑΡΑΚΕΝΤΗΣΕΙΣ ΔΗΛΟΥΣΙ ΤΗΝ ΔΙΣ ΠΡΟ ΕΞ\n\nIN CA[?]",
+  "pt": "NO ANO DE ALEXANDRE CÉSAR\nPRINCÍPIO DO PRIMEIRO [ciclo]\n\nOS DOMINGOS DA PÁSCOA A CADA ANO;\nE AS MARCAS (παρακεντήσεις) INDICAM O [ano] BISSEXTO (δὶς πρὸ ἕξ).\n\n[Tabela de domingos pascais por ano do ciclo, distribuída nas letras dominicais Α, Γ, ΕΙ, Ζ, Β, Δ, Ϛ. Cada célula dá o dia do mês (Abril ou Maio, com as subdivisões KA=καλένδας, ΕΙ=εἰδοὺς, Νω=νώνας, ΜΑΡ=Março, ΑΠΡ=Abril, ΜΑΙ=Maio) seguido de ΚΥ (= Κυριακή, domingo). Os valores são preservados integralmente na tabela.]",
+  "en": "IN THE YEAR OF ALEXANDER CAESAR\nBEGINNING OF THE FIRST [cycle]\n\nTHE SUNDAYS OF EASTER BY YEAR;\nAND THE MARKS (παρακεντήσεις) INDICATE THE BISSEXTILE (δὶς πρὸ ἕξ).\n\n[Table of Paschal Sundays per year of the cycle, arranged under the dominical letters Α, Γ, ΕΙ, Ζ, Β, Δ, Ϛ. Each cell gives the day of the month (April or May, with subdivisions KA = kalends, ΕΙ = ides, Νω = nones, ΜΑΡ = March, ΑΠΡ = April, ΜΑΙ = May) followed by ΚΥ (= Κυριακή, Sunday). Values are preserved in full in the table below.]",
+  "tables": [
+    {
+      "caption_pt": "Domingos da Páscoa por ano, no ciclo iniciado no ano 1 de Alexandre César. Marcas (†/⳨) indicam ano bissexto (bis sextum). Colunas superiores: Α, Γ, ΕΙ, Ζ. Colunas inferiores: Β, Δ, Ϛ. Abreviações: ΚΑ=καλ. (kalendas), ΕΙ=εἰδ. (ides), Νω=νῶν. (nonas), ΑΠΡ=Abril, ΜΑΙ=Maio, ΜΑΡ=Março, ΚΥ=Κυριακή (domingo).",
+      "caption_en": "Paschal Sundays per year in the cycle beginning in year 1 of Alexander Caesar. Marks (†/⳨) denote bissextile years. Upper columns: Α, Γ, ΕΙ, Ζ. Lower columns: Β, Δ, Ϛ. Abbreviations: ΚΑ=kalends, ΕΙ=ides, Νω=nones, ΑΠΡ=April, ΜΑΙ=May, ΜΑΡ=March, ΚΥ=Sunday.",
+      "markdown": "| # | Α | Γ | ΕΙ | Ζ |\n|---|---|---|---|---|\n| 1 | † ΙΑ ΚΑ. ΜΑΙ. ΚΥ | † ΙϚ ΚΑ. ΜΑΙ. ΚΥ | † ΙΔ ΚΑ. ΜΑΙ. ΚΥ | † ΙΒ ΚΑ. ΜΑΙ. ΚΥ |\n| 2 | † Η ΕΙ. ΑΠΡ. ΚΥ | † Ϛ ΕΙ. ΑΠΡ. ΚΥ | † Δ ΕΙ. ΑΠΡ. ΚΥ | Νω ΑΠΡ. ΚΥ |\n| 3 | † Θ ΚΑ. ΑΠΡ. ΚΥ | † Ι ΚΑ. ΑΠΡ. ΚΥ | † Η ΚΑ. ΑΠΡ. ΚΥ | † Ϛ ΚΑ. ΑΠΡ. ΚΥ |\n| 4 | † ΙΕ ΚΑ. ΜΑΙ. ΚΥ | † Α ΕΙ. ΑΠΡ. ΚΥ | † ΙΗ ΚΑ. ΜΑΙ. ΚΥ | † ΙϚ ΚΑ. ΜΑΙ. ΚΥ |\n| 5 | † Δ Νω. ΑΠΡ. ΚΥ | † Α Νω. ΑΠΡ. ΚΥ | † Η ΕΙ. ΑΠΡ. ΚΥ | ΚΑ ΑΠΡ. ΚΥ |\n| 6 | † Η ΚΑ. ΑΠΡ. ΚΥ | † ΙΓ ΚΑ. ΑΠΡ. ΚΥ | † ΙΑ ΚΑ. ΑΠΡ. ΚΥ | † Θ ΚΑ. ΑΠΡ. ΚΥ |\n| 7 | ΕΙ ΑΠΡ. ΚΥ | † Ϛ ΕΙ. ΑΠΡ. ΚΥ | † Δ ΕΙ. ΑΠΡ. ΚΥ | † Α ΕΙ. ΑΠΡ. ΚΥ |\n| 8 | † Δ ΚΑ. ΑΠΡ. ΚΥ | † Α ΚΑ. ΑΠΡ. ΚΥ | † Δ Νω. ΑΠΡ. ΚΥ | † Ε ΚΑ. ΑΠΡ. ΚΥ |\n| 9 | † ΙΑ ΚΑ. ΜΑΙ. ΚΥ | † ΙΒ ΚΑ. ΜΑΙ. ΚΥ | † ΙΖ ΚΑ. ΜΑΙ. ΚΥ | † ΙΕ ΚΑ. ΜΑΙ. ΚΥ |\n| 10 | † Δ ΕΙ. ΑΠΡ. ΚΥ | Νω ΑΠΡ. ΚΥ | † Ζ ΕΙ. ΑΠΡ. ΚΥ | † Ε ΕΙ. ΑΠΡ. ΚΥ |\n| 11 | † Η ΚΑ. ΑΠΡ. ΚΥ | † Ϛ ΚΑ. ΑΠΡ. ΚΥ | † Δ ΚΑ. ΑΠΡ. ΚΥ | † Θ ΚΑ. ΑΠΡ. ΚΥ |\n| 12 | † ΙΗ ΚΑ. ΜΑΙ. ΚΥ | † ΙϚ ΚΑ. ΜΑΙ. ΚΥ | † Γ ΕΙ. ΑΠΡ. ΚΥ | ΕΙ ΑΠΡ. ΚΥ |\n| 13 | † Η ΕΙ. ΑΠΡ. ΚΥ | ΚΑ ΑΠΡ. ΚΥ | † Γ Νω. ΑΠΡ. ΚΥ | Νω ΑΠΡ. ΚΥ |\n| 14 | † ΙΑ ΚΑ. ΑΠΡ. ΚΥ | † Θ ΚΑ. ΑΠΡ. ΚΥ | † Ζ ΚΑ. ΑΠΡ. ΚΥ | † ΙΒ ΚΑ. ΑΠΡ. ΚΥ |\n| 15 | † Δ ΕΙ. ΑΠΡ. ΚΥ | † Α ΕΙ. ΑΠΡ. ΚΥ | † Ζ ΕΙ. ΑΠΡ. ΚΥ | † Ε ΕΙ. ΑΠΡ. ΚΥ |\n| 16 | † Δ Νω. ΑΠΡ. ΚΥ | † Θ ΚΑ. ΑΠΡ. ΚΥ | † Γ ΚΑ. ΑΠΡ. ΚΥ | ΚΑ ΑΠΡ. ΚΥ |\n\n| # | Β | Δ | Ϛ |\n|---|---|---|---|\n| 1 | † ΙΖ ΚΑ. ΜΑΙ. ΚΥ | † ΙΕ ΚΑ. ΜΑΙ. ΚΥ | † ΙΓ ΚΑ. ΜΑΙ. ΚΥ |\n| 2 | † Ζ ΕΙ. ΑΠΡ. ΚΥ | † Ε ΕΙ. ΑΠΡ. ΚΥ | † Α Νω. ΑΠΡ. ΚΥ |\n| 3 | † Δ ΚΑ. ΑΠΡ. ΚΥ | † Θ ΚΑ. ΑΠΡ. ΚΥ | † Ζ ΚΑ. ΑΠΡ. ΚΥ |\n| 4 | † Γ ΕΙ. ΑΠΡ. ΚΥ | ΕΙ ΑΠΡ. ΚΥ | † ΙΖ ΚΑ. ΜΑΙ. ΚΥ |\n| 5 | † Γ Νω. ΑΠΡ. ΚΥ | Νω ΑΠΡ. ΚΥ | † Α ΚΑ. ΑΠΡ. ΚΥ |\n| 6 | † Ζ ΚΑ. ΑΠΡ. ΚΥ | † ΙΒ ΚΑ. ΑΠΡ. ΚΥ | † Ι ΚΑ. ΑΠΡ. ΚΥ |\n| 7 | † Ζ ΕΙ. ΑΠΡ. ΚΥ | † Ε ΕΙ. ΑΠΡ. ΚΥ | † Γ ΕΙ. ΑΠΡ. ΚΥ |\n| 8 | † Γ ΚΑ. ΑΠΡ. ΚΥ | ΚΑ ΑΠΡ. ΚΥ | † Ϛ ΕΙ. ΑΠΡ. ΚΥ |\n| 9 | † Γ ΚΑ. ΜΑΡ. ΚΥ | † ΙΑ ΚΑ. ΜΑΙ. ΚΥ | † ΙϚ ΚΑ. ΜΑΡ. ΚΥ |\n| 10 | † Α Νω. ΑΠΡ. ΚΥ | † Η ΕΙ. ΑΠΡ. ΚΥ | † Ϛ ΕΙ. ΑΠΡ. ΚΥ |\n| 11 | † Ζ ΚΑ. ΑΠΡ. ΚΥ | † Ε ΚΑ. ΑΠΡ. ΚΥ | † Ι ΚΑ. ΑΠΡ. ΚΥ |\n| 12 | † ΙΖ ΚΑ. ΜΑΙ. ΚΥ | † ΙΕ ΚΑ. ΜΑΙ. ΚΥ | † Α ΕΙ. ΑΠΡ. ΚΥ |\n| 13 | † Α ΚΑ. ΑΠΡ. ΚΥ | † Δ Νω. ΑΠΡ. ΚΥ | † Α Νω. ΑΠΡ. ΚΥ |\n| 14 | † Ι ΚΑ. ΑΠΡ. ΚΥ | † Η ΚΑ. ΑΠΡ. ΚΥ | † ΙΓ ΚΑ. ΑΠΡ. ΚΥ |\n| 15 | † Γ ΕΙ. ΑΠΡ. ΚΥ | ΕΙ ΑΠΡ. ΚΥ | † Γ ΕΙ. ΑΠΡ. ΚΥ |\n| 16 | † Ϛ ΚΑ. ΑΠΡ. ΚΥ | † Δ ΚΑ. ΑΠΡ. ΚΥ | † Α ΚΑ. ΑΠΡ. ΚΥ |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Página 722 no número impresso original (canto sup. esquerdo), identificada como p. 807 no PDF.",
+    "A marca inicial de cada célula é um símbolo tipográfico (aparentemente uma abreviação cruciforme tipo ⳨/†) denotando ano bissexto; representado aqui por †.",
+    "Indicador 'IN CA' no canto inferior direito é reclame tipográfico para a página seguinte; última letra parcialmente legível.",
+    "Algumas células com 'Ι' isolado podem ser 'Ι' (10) ou numeral '1'; transcrito conforme grafia mais provável."
+  ],
+  "notes": "Página tabular exclusivamente grega: ciclo pascal de 112 anos (7 letras dominicais × 16 anos) a partir do ano 1 de Alexandre (= Alexandre Severo, segundo uso de Scaliger). Cada entrada dá a data do domingo pascal em formato romano helenizado (καλένδας, εἰδούς, νώνας de ΑΠΡ/ΜΑΙ/ΜΑΡ) mais ΚΥ = Κυριακή. Marca † (παρακέντησις) sinaliza bissexto.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:36:53Z",
+    "input_tokens": 7748,
+    "output_tokens": 5126
+  }
+}

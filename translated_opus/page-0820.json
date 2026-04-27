@@ -1,0 +1,22 @@
+{
+  "page": 820,
+  "page_type": "text",
+  "latin": "DE EMENDAT. TEMPORVM LIB. VII. 735\nFINIERIT A CAPITE REINCIPE MARCIVS XXIIII AP: XII| AP: IIII| AP: XXIIII| ∴ IIII| MP XXXI| AP. XX| & ita deinceps. In fine autem, MR. XXVII. AP. XVI| MP. XXXI| AP. XX. Et mediocriter docto paret initium esse a cyclo Paschali Dionysiano XVI, Solari XXIIII. Quare incipit aut ab anno Christi XV, aut 547. Definit autem in anno CV, vel 637. cyclo Paschali XI, Solari secundo. Interuallum, anni XC. Sed videntur deesse aliquot Dominicae, non tamen, vt multo longior concepta periodus fuerit. Quare suspicor fuisse tantum periodum Cyrilli, aut Theophili annorum XCV. Quod autem dicit, Hoc est, Pascha sine Termino & numero, intellige, in eo Laterculo Dominicas tantum Paschales comprehendi, nulla mentione Termini Paschalis, & numeri aurei: quod quidem verum est, & res ipsa indicat.\n\nQqq 2    ΨΗΦΙΣ.",
+  "pt": "DO LIVRO VII DA EMENDA DOS TEMPOS. 735\nTerminado o ciclo, recomeça desde o princípio: Março 24, Abril 12, Abril 4, Abril 24, [...] 4, Maio 31, Abril 20, e assim por diante. Ao final, porém, Março 27, Abril 16, Maio 31, Abril 20. E para alguém medianamente instruído fica claro que o início se dá a partir do ciclo Pascal Dionisiano 16, Solar 24. Por isso começa ou no ano 15 de Cristo, ou 547. E termina no ano 105, ou 637, no ciclo Pascal 11, Solar 2. O intervalo é de 90 anos. Mas parecem faltar algumas dominicais, porém não a ponto de o período concebido ter sido muito mais longo. Por isso suspeito que se tratasse apenas do período de Cirilo ou de Teófilo, de 95 anos. Quanto ao que ele diz: Isto é, a Páscoa sem Termo e sem número — entenda que naquele Laterculus se incluem apenas as Dominicais Pascais, sem qualquer menção do Termo Pascal e do número áureo, o que de fato é verdadeiro, e a própria coisa o indica.\n\nQqq 2    [ΨΗΦΙΣ.]",
+  "en": "FROM THE SEVENTH BOOK OF THE EMENDATION OF TIMES. 735\nWhen the cycle has ended, begin again from the head: March 24, April 12, April 4, April 24, [...] 4, May 31, April 20, and so forth. At the end, however, March 27, April 16, May 31, April 20. And to anyone moderately learned it is clear that the beginning is from Dionysian Paschal cycle 16, Solar cycle 24. Hence it begins either in the year 15 of Christ or in 547. It ends in year 105, or 637, in Paschal cycle 11, Solar cycle 2. The interval is 90 years. But some Sundays seem to be missing, though not in such a way that the period conceived was much longer. Hence I suspect this to have been only the 95-year period of Cyril or of Theophilus. As for what he says—namely, Easter without Term and number—understand that in that Laterculus only the Paschal Sundays are included, with no mention of the Paschal Term or of the golden number; which indeed is true, and the thing itself shows it.\n\nQqq 2    [ΨΗΦΙΣ.]",
+  "tables": [],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Sequência de datas abreviadas no início (AP: XII, AP: IIII, etc.) parcialmente ilegível; a marca '∴' pode representar uma interpolação ou marca editorial.",
+    "A sigla 'MR.' foi lida como abreviação de Martius (Março); 'MP' como Maius (Maio); interpretação baseada no contexto de datas pascais.",
+    "A palavra grega ΨΗΦΙΣ no final da página parece ser um custos/reclamante indicando início do próximo caderno."
+  ],
+  "notes": "Página final de caderno (Qqq 2) com custos grego ΨΗΦΙΣ (início de 'ΨΗΦΙΣΜΑ' ou título grego da seção seguinte). Grande parte da página está em branco. O texto trata de um ciclo pascal de 90 ou 95 anos, possivelmente o de Cirilo ou Teófilo de Alexandria.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:45:04Z",
+    "input_tokens": 7748,
+    "output_tokens": 1716
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "page": 761,
+  "page_type": "mixed",
+  "latin": "מַסְכַּרַם\nתִּקְמְתְּ\nחַדַר\nתַחְשַׁשׁ\nטִר\nיַכְתִּיתְ\nמַגְנִּיתְ\nמְיָזִי\nגִּנְבּוֹת\nסָנֵי\nחַמְלֵי\nנַחְסִי\nח פנומן בכ ד עמת ו יכון עמתאם תסבאתו למרחניז כח תפע ור וכנלו דמור אם אדם אסך יאוי ו אלף עוה עמת\n\nመስከረም።\nጥቅምት።\nኀዳር።\nትኅሣሥ።\nጥር።\nየካቲት።\nመጋቢት።\nሚያዝያ።\nግንቦት።\nሰኔ።\nሐምሌ።\nነሐሴ።\n፭ ቅዳሜ፥ በበ ፬ ዓመት ፯ ሮዊት[?]።\n፯ ዓመት፥ እም፥ ትክብእቲ፥ ለመድኃኒነ[?]፥\nእስከ፥ ፩፡ ፭፡ ፻ ፸ ፯ ወአሉ፥ የምር፥ እም፥\nአዳም፥ እስከ፥ ርእሱ፥ ፯ ፼ ፭፻ ፸ ፯።\n\nMASCARAM.\nTIKMITH.\nCHADAR.\nTHACHSCHASCH.\nTIR.\nIACHATHITH.\nMAGABITH.\nMIAZIA.\nGINBOTH.\nSANE.\nHAMLE.\nNACHASE.\n\nV. EPAGOMENAE. Quarto quoque anno VI erunt.\nANNUS ab incarnatione Saluatoris nostri ibi (millesimus) quingentesimus septuagesimus septimus. Et omnis commixtio (annorum) ab Adam, usque nunc, VII M. D. LXXVII. anni.\n\nFINIS COMPVTI ECCLESIAE AETHIOPICAE.\n\nIN COM-",
+  "pt": "[Nomes dos doze meses etíopes em hebraico, geez e transliteração latina:]\n\nMASCARAM. TIKMITH. CHADAR. THACHSCHASCH. TIR. IACHATHITH. MAGABITH. MIAZIA. GINBOTH. SANE. HAMLE. NACHASE.\n\nV EPAGÔMENOS. A cada quarto ano serão VI. O ano desde a encarnação de nosso Salvador é ali (o milésimo) quingentésimo septuagésimo sétimo. E toda a soma (dos anos) desde Adão até o presente é de 7.577 anos.\n\nFIM DO CÔMPUTO DA IGREJA ETÍOPE.\n\nNO COM[ENTÁRIO]—",
+  "en": "[Names of the twelve Ethiopian months in Hebrew, Ge'ez and Latin transliteration:]\n\nMASCARAM. TIKMITH. CHADAR. THACHSCHASCH. TIR. IACHATHITH. MAGABITH. MIAZIA. GINBOTH. SANE. HAMLE. NACHASE.\n\nV EPAGOMENAE. Every fourth year there will be VI. The year from the incarnation of our Savior is there (one thousand) five hundred seventy-seven. And the whole sum (of years) from Adam up to the present is 7,577 years.\n\nEND OF THE COMPUTATION OF THE ETHIOPIAN CHURCH.\n\nIN COM[MENTARY]—",
+  "tables": [
+    {
+      "caption_pt": "Os doze meses do calendário etíope em hebraico, geez e transliteração latina",
+      "caption_en": "The twelve months of the Ethiopian calendar in Hebrew, Ge'ez, and Latin transliteration",
+      "markdown": "| Hebraico | Geez | Transliteração latina |\n|---|---|---|\n| מַסְכַּרַם | መስከረም። | MASCARAM |\n| תִּקְמְתְּ | ጥቅምት። | TIKMITH |\n| חַדַר | ኀዳር። | CHADAR |\n| תַחְשַׁשׁ | ትኅሣሥ። | THACHSCHASCH |\n| טִר | ጥር። | TIR |\n| יַכְתִּיתְ | የካቲት። | IACHATHITH |\n| מַגְנִּיתְ | መጋቢት። | MAGABITH |\n| מְיָזִי | ሚያዝያ። | MIAZIA |\n| גִּנְבּוֹת | ግንቦት። | GINBOTH |\n| סָנֵי | ሰኔ። | SANE |\n| חַמְלֵי | ሐምሌ። | HAMLE |\n| נַחְסִי | ነሐሴ። | NACHASE |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Os caracteres geez do bloco final (frase sobre os 5 dias epagômenos e o cômputo desde Adão) foram transcritos de forma aproximada; alguns caracteres estão borrados no scan e marcados com [?].",
+    "A transcrição hebraica das últimas linhas (texto corrido) é conjectural em vários pontos devido à nitidez reduzida do scan.",
+    "O número 7.577 anos desde Adão é lido com confiança no texto latino (VII M. D. LXXVII)."
+  ],
+  "notes": "Página conclui a seção sobre o cômputo (calendário) da Igreja Etíope. Apresenta os doze meses etíopes em três sistemas de escrita (hebraico, geez, latim) seguidos da fórmula sobre os cinco dias epagômenos (seis em ano bissexto) e da datação: ano 1577 da Encarnação e 7577 desde Adão. A reclame 'In com-' indica início do próximo bloco, provavelmente 'In commentario' ou 'In computo'.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:10:06Z",
+    "input_tokens": 7748,
+    "output_tokens": 2197
+  }
+}

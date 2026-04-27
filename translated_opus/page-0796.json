@@ -1,0 +1,27 @@
+{
+  "page": 796,
+  "page_type": "table",
+  "latin": "DE EMENDAT. TEMPORVM LIB. VII.\n\n[Tabula calendarii arabico-syriaci cum litteris marginalibus A, B, C. Mensium nomina syriaca: Nisan (نيسان), Adar (اذار), Shebat/Asbat (اسباط), Iyar (ايار), Haziran (حزيران), Kanun thani (كانون ثاني). Numeri in litteris arabicis exarati.]\n\nOoo 3    CHARA-",
+  "pt": "DE EMENDAT. TEMPORUM LIVRO VII.\n\n[Tabela calendárica árabe-siríaca com letras marginais A, B, C. Contém nomes dos meses siríacos (Nisan, Adar, Shebat/Asbat, Iyar, Haziran, Kanun thani) com numerais arábicos. Ver seção tables.]\n\nOoo 3    CHARA-",
+  "en": "DE EMENDAT. TEMPORUM BOOK VII.\n\n[Arabic-Syriac calendrical table with marginal letters A, B, C. Contains Syriac month names (Nisan, Adar, Shebat/Asbat, Iyar, Haziran, Kanun thani) with Arabic numerals. See tables section.]\n\nOoo 3    CHARA-",
+  "tables": [
+    {
+      "caption_pt": "Tabela de correspondência de dias entre meses siríacos (Nisan, Adar, Shebat=Asbat, Iyar, Haziran, Kanun thani), com marcadores alfabéticos A, B, C na margem esquerda. Os números estão em algarismos arábicos orientais.",
+      "caption_en": "Table of day correspondences between Syriac months (Nisan, Adar, Shebat=Asbat, Iyar, Haziran, Kanun thani), with alphabetical markers A, B, C in the left margin. Numbers are in Eastern Arabic numerals.",
+      "markdown": "| marker | col 5 | col 4 | col 3 | col 2 | col 1 |\n|---|---|---|---|---|---|\n| A | ١ نيسان | ١٦ اسباط | ٢٦ ايار | ٦ ايار | ١٦ كانون ثاني |\n| | ٢ نيسان | ١٧ اسباط | ٢٧ ايار | ٧ ايار | ١٧ اسباط |\n| | ٣ نيسان | ١٨ اسباط | ٢٨ ايار | ٨ ايار | ١٨ اسباط |\n| | ٤ نيسان | ١٩ اسباط | ٢٩ ايار | ١ حزيران | ١٩ اسباط |\n| | ٥ نيسان | ٢٠ اسباط | ٣٠ ايار | ٢ حزيران | ٢٠ اسباط |\n| | ١٥ نيسان | ١٠ اسباط | ٢٠ ايار | ٣ حزيران | ٥ اسباط |\n| B | ١٦ نيسان | ١٧ اسباط | ٥ ايار | ٤ حزيران | ٦ اسباط |\n| | ١٧ نيسان | ١٨ اسباط | ٩ ايار | ٥ حزيران | ٧ اسباط |\n| | ١٨ نيسان | ١ اذار | ٧ ايار | ٦ حزيران | ٨ اسباط |\n| | ١٩ نيسان | ٢ اذار | ٨ ايار | ٧ حزيران | ٩ اسباط |\n| | ٢٠ نيسان | ٣ اذار | ٢٩ ايار | ٨ حزيران | ١٠ اسباط |\n| | ٢١ نيسان | ٤ اذار | ٥٠ ايار | ٩ حزيران | ١١ اسباط |\n| C | ٢٢ نيسان | ٥ اذار | ٦ ايار | ١٠ حزيران | ٢ اسباط |\n| | ٢٣ نيسان | ٦ اذار | ١ حزيران | ١١ حزيران | ٣ اسباط |\n| | ٢٤ نيسان | ٧ اذار | ٢ حزيران | ١٢ حزيران | ٤ اسباط |\n| | ٢٥ نيسان | ٨ اذار | ٣ حزيران | ١٣ حزيران | ١٥ اسباط |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Tabela integralmente em escrita árabe com numerais arábicos orientais; vários dígitos e alguns nomes abreviados são de leitura incerta no scan (qualidade variável, pontos diacríticos nem sempre claros). A reconstrução dos valores numéricos da tabela é aproximada — recomenda-se conferência direta com o original por arabista.",
+    "Alguns valores parecem indicar números acima de 30 (p.ex. '٥٠' = 50 em ايار), o que é cronologicamente improvável para dias do mês; pode ser erro tipográfico do original de 1629 ou erro de leitura do scan."
+  ],
+  "notes": "Página composta quase exclusivamente por tabela em escrita árabe/siríaca correlacionando dias de meses siríacos. Título corrente 'DE EMENDAT. TEMPORVM LIB. VII'. Signatura de caderno 'Ooo 3' e reclamo 'CHARA-' (presumivelmente 'CHARACTERES' ou similar na página seguinte). A transcrição exata dos numerais árabes orientais requer verificação paleográfica; a estrutura geral (5 colunas de dados + marcadores A/B/C) foi preservada.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:30:43Z",
+    "input_tokens": 7748,
+    "output_tokens": 2038
+  }
+}

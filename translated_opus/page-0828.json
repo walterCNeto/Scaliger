@@ -1,0 +1,28 @@
+{
+  "page": 828,
+  "page_type": "table",
+  "latin": "DE EMENDAT. TEMPORVM LIB. VII. 543\n\n[Canon regum ex Ptolemaeo, continens nomina regum Graece scripta cum annis regni et annis Nabonassari cumulatis]",
+  "pt": "DE EMENDAÇÃO DOS TEMPOS, LIVRO VII. 543\n\n[Cânone dos reis segundo Ptolomeu: nomes dos soberanos em grego, com os anos de reinado e os anos cumulativos desde Nabonassar. Ver tabela completa na seção 'tables'.]",
+  "en": "ON THE EMENDATION OF TIMES, BOOK VII. 543\n\n[Canon of kings from Ptolemy: names of rulers in Greek, with regnal years and cumulative years from Nabonassar. See full table in the 'tables' section.]",
+  "tables": [
+    {
+      "caption_pt": "Cânone régio (Canon Basileōn) de Ptolomeu: duas colunas de reis, cada uma com nome (grego), anos de reinado, e total cumulativo de anos desde Nabonassar (em numerais gregos alfabéticos com ͵ para milhares). Marcadores laterais A, B, C, D indicam seções (possivelmente: Babilônios/Persas, Macedônios, Ptolomeus/Romanos, Césares).",
+      "caption_en": "Ptolemy's Royal Canon (Canon Basileōn): two columns of kings, each entry giving name (Greek), regnal years, and cumulative years from Nabonassar (in Greek alphabetic numerals with ͵ for thousands). Side markers A, B, C, D indicate sections (likely: Babylonians/Persians, Macedonians, Ptolemies/Romans, Caesars).",
+      "markdown": "| Sec. | Rex (Coluna I) | Anni regni | Anni cumulati | Rex (Coluna II) | Anni regni | Anni cumulati |\n|---|---|---|---|---|---|---|\n| A | Ναβυχοδονοσόρ | κδ′ | ͵αξδ | Μάρκος Ἀντωνῖνος | ιϛ′ | ͵εχογ |\n|  | Οὐαλαμαδαράχ | ε′ | ͵αξθ | Κόμοδος | ιγ′[?] | ͵εχπε |\n|  | Βαλτάσαρ | γ′ | ͵ανβ | Σευῆρος | ιη′ | ͵εψγ |\n|  | Δαρεῖος καὶ Ἀστυάγης | ιζ′ | ͵ανξθ[?] | Ἀντώνιος Καρακάλλα | ζ′ | ͵εψι |\n|  | Κῦρος ὁ Πέρσης | λβ′[?] | ͵ελζ[?] | Ἀντώνιος ἄλλος | δ′ | ͵εψιδ |\n|  | Καμβύσης | η′ | ͵εθ[?] | Ἀλέξανδρος Μαμαίας | ιγ′ | ͵εψκζ |\n|  | Δαρεῖος ὁ Μῆδος | κη′ | κα′[?] | Μαξιμῖνος | γ′ | ͵εψλ |\n|  | Ξέρξης | κα′ | ͵ενη | Γορδιανός | ϛ′ | ͵εψλϛ |\n|  | Ἀρταξέρξης | λγ′ | ͵εϟα | Φίλιππος | ϛ′ | ͵εψμβ |\n|  | Δαρεῖος | ιθ′ | ͵ερι | Δέκιος | α′ | ͵εψμγ |\n|  | Ἀρταξέρξης | λδ′ | ͵ερμδ | Γάλλος καὶ Βολυσιανός | β′ | ͵εψμε |\n| B | Ὦχος | κα′ | ͵ερξε | Οὐαλεριανὸς καὶ Γαλλῖνος | ιε′ | ͵εψξ |\n|  | Ἀρσῆς Ὦχος | β′ | ͵ερξζ | Κλαύδιος | α′ | ͵εψξα |\n|  | Δαρεῖος | ϛ′ | ͵εροδ[?] | Αὐρήλιος | ϛ′ | ͵εψξζ |\n|  | Ἀλέξανδρος ὁ Μακεδών | ιϛ′ | ͵ερπε[?] | Πρόβος | ζ′ | ͵εψοδ |\n|  | Πτολεμαῖος ὁ Αἰγύπτου | κδ′ | ͵εσθ | Κᾶρος καὶ Κᾶρῖνος | β′[?] | ͵εψοϛ |\n|  | Πτολεμαῖος Φιλάδελφος | λ′ | ͵εσλθ | Διοκλητιανός | κ′ | ͵εψϟϛ |\n|  | Πτολεμαῖος Εὐεργέτης | κε′ | ͵εσξδ | Κωνσταντῖνος | λβ′[?] | ͵εωκη |\n|  | Πτολεμαῖος Φιλοπάτωρ | ιζ′ | ͵εσπα | Κωνστάντιος | κδ′ | ͵εωνβ |\n|  | Πτολεμαῖος Ἐπιφανής | κγ′ | ͵επδ[?] | Ἰουλιανός | γ′ | ͵εωνε |\n|  | Πτολεμαῖος Φιλομήτωρ | λε′ | ͵ετλθ | Ἰοβιανός | α′ | ͵εωνϛ |\n|  | Πτολεμαῖος Εὐεργέτης | κθ′ | ͵ετξη | Οὐαλεντινιανός | ι′ | ͵εωξϛ |\n| C | Πτολεμαῖος Φύσκων | ιϛ′ | ͵ετπδ | Οὐάλης | δ′ | ͵εαο[?] |\n|  | Πτολεμαῖος Σιδήτης | θ′ | ͵ετϟγ | Θεοδόσιος | ιϛ′ | ͵εωπϛ |\n|  | Πτολεμαῖος ὁ καὶ Ἀλέξανδρος | γ′ | ͵ετϟϛ | Ἀρκάδιος | ιδ′ | ͵εϟ[?] |\n|  | Πτολεμαῖος ὁ σωτήρ | η′ | ͵ευδ | Θεοδόσιος ὁ νέος | μβ′ | ͵εϟμβ |\n|  | Διονύσιος ὁ νέος | κη′ | ͵ευλβ | Μαρκιανός | ϛ′ | ͵εϟμη |\n|  | Κλεοπάτρα | κβ′ | ͵ευνδ | Λέων | ιη′ | ͵εϟξϛ |\n|  | Γάϊος Ἰούλιος Ῥωμαίων | δ′ | ͵ευνη | Ζήνων | ιζ′ | ͵εϟπγ |\n|  | Καῖσαρ Αὔγουστος | νζ′ | ͵εφιε | Ἀναστάσιος | κζ′ | ͵ϛϟι[?] |\n|  | Τιβέριος | κβ′[?] | ͵εφλζ | Ἰουστῖνος | θ′ | ͵ϛιθ |\n|  | Γάϊος | δ′ | ͵εφμα | Ἰουστινιανός | λη′ | ͵ϛνζ |\n|  | Κλαύδιος | ιδ′ | ͵εφνε | Ἰουστῖνος νέος | ιγ′ | ͵ϛο |\n| D | Νέρων | ιδ′ | ͵εφξθ | Τιβέριος | δ′ | ͵ϛοδ |\n|  | Οὐεσπασιανός | ι′ | ͵εφοθ | Μαυρίκιος | κ′ | ͵ϛϟδ |\n|  | Τίτος | γ′ | ͵εφπβ | Φωκᾶς | η′ | ͵ϛρβ |\n|  | Δομετιανός | ιε′ | ͵εφϟζ | Ἡράκλειος | λα′ | ͵ϛργγ |\n|  | Νέρβας | α′ | ͵εφϟη | Κωνσταντῖνος | α′ | ͵ϛρλδ |\n|  | Τραϊανός | ιθ′ | ͵εχιϛ | Κωνσταντῖνος | κζ′ | ͵ϛρξα |\n|  | Ἁδριανός | κα′ | ͵εχλζ | Κωνσταντῖνος | ιζ′ | ͵ϛροη |\n|  | Ἕλιος Ἀντωνῖνος | κ′[?] | ͵εχνζ | Ἰουστινιανός | ι′ | ͵ϛρπη |\n|  |  |  |  | Λέων |  |  |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Muitos numerais gregos alfabéticos são difíceis de ler com precisão absoluta no scan manuscrito/impresso; valores marcados com [?] indicam incerteza sobre um ou mais dígitos.",
+    "Regnal years de Cyrus (λβ′=32?), Darius Medus (κη′=28?), cumulativo após Cambises, e cumulativos na coluna direita (especialmente Comodos, Anastasios, Valens) foram lidos com cautela.",
+    "Alguns nomes no grego manuscrito têm ligaduras/sinais abreviativos (ex.: Πτολεμαῖος com sinal final) normalizados na transcrição."
+  ],
+  "notes": "Esta página contém integralmente o Canon Basileōn (Cânone Régio) de Ptolomeu, fundamental para a cronologia de Scaliger, listando reis desde Nabucodonosor (Nabonassar) até os imperadores bizantinos do séc. VIII, com anos de reinado e anos cumulativos desde a era de Nabonassar (͵α=1001 etc., com ͵ como sinal de milhar). Os marcadores A, B, C, D na margem esquerda provavelmente correspondem a divisões editoriais de Scaliger. A coluna da esquerda vai de Nabucodonosor até Élio Antonino; a direita continua de Marco Antonino (Aurélio) até Justiniano II (último nome), com 'Λέων' iniciando continuação na página seguinte.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:50:54Z",
+    "input_tokens": 7748,
+    "output_tokens": 3820
+  }
+}

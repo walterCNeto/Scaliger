@@ -1,0 +1,51 @@
+{
+  "page": 374,
+  "page_type": "mixed",
+  "latin": "A quandam iniecit potius, quam certam scientiam professus est, neque ullus alius post eum, ad tempora Thebith filii Corae, de modo illius anni definivit, contenti erimus eo, quem ipse Thebith scivit. Is igitur putat reditum Solis a stella fixa, ad eandem, esse dierum CCCLXV, hor. VI, scrup. 9'. 12\". En tabulam subiecimus προηγήσεως ἰσημερινῆς κ̅τ̅ τόπον, καὶ κ̅τ̅ χρόνον, una cum modo μετεμπτώσεως ἡλιακῆς. Motum sive μετάβασιν aequinoctiorum & Solstitiorum in anteriora κυριολόγως\n\nTABULA ANNORUM TROPICI ET ASTRICI.",
+  "pt": "Lançou antes uma certa conjectura do que professou ciência certa, e nenhum outro depois dele, até os tempos de Thebith filho de Corá, definiu com exatidão a medida daquele ano; contentar-nos-emos, pois, com aquela que o próprio Thebith conheceu. Ele, portanto, considera que o retorno do Sol, a partir de uma estrela fixa, à mesma, é de 365 dias, 6 horas, 9 minutos e 12 segundos. Eis que subjuntamos uma tabela [προηγήσεως ἰσημερινῆς κατὰ τόπον, καὶ κατὰ χρόνον] \"da precessão equinocial segundo o lugar e segundo o tempo\", juntamente com o modo da [μετεμπτώσεως ἡλιακῆς] \"interpolação/retrocesso solar\". O movimento ou [μετάβασιν] \"deslocamento\" dos equinócios e dos solstícios para posições anteriores, falando com propriedade [κυριολόγως]... (Ver tabela)",
+  "en": "He put forth rather a certain conjecture than professed certain knowledge, and no one else after him, down to the times of Thebith son of Corah, defined the measure of that year precisely; we shall therefore be content with that which Thebith himself knew. He, then, reckons the return of the Sun from a fixed star to the same star to be 365 days, 6 hours, 9 minutes, and 12 seconds. We append below a table [προηγήσεως ἰσημερινῆς κατὰ τόπον, καὶ κατὰ χρόνον] \"of the equinoctial precession according to place and according to time,\" together with the method of [μετεμπτώσεως ἡλιακῆς] \"solar intercalation/retrogression.\" The motion or [μετάβασιν] \"shifting\" of the equinoxes and solstices into earlier positions, properly speaking [κυριολόγως]... (See table)",
+  "tables": [
+    {
+      "caption_pt": "Tabela dos anos trópico e sideral (astral): precessão do equinócio segundo o lugar (em graus, minutos, segundos) e segundo o tempo (em dias, horas, minutos, segundos), e intercalação/retrocesso solar, para linhas de anos julianos de 1 a 7000.",
+      "caption_en": "Table of the tropical and sidereal (astral) years: precession of the equinox according to place (in degrees, minutes, seconds) and according to time (in days, hours, minutes, seconds), and solar intercalation/retrogression, for lines of Julian years from 1 to 7000.",
+      "markdown": "| Linea annorum Iulianorum | προήγησις ἰσημερινὴ τοπική gr. | ' | '' | προήγησις ἰσημερινὴ χρονική D. | H. | ' | '' | μετέμπτωσις ἡλιακή D. | H. | ' | '' |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | 0 | 0' | 50'' | 0 | 0 | 10 | 44'' | 0 | 0 | 9' | 12'' |\n| 2 | 0 | 1' | 40'' | 0 | 0 | 21 | 28'' | 0 | 0 | 18' | 24'' |\n| 3 | 0 | 2' | 31'' | 0 | 0 | 32 | 12'' | 0 | 0 | 27' | 36'' |\n| 4 | 0 | 3' | 21'' | 0 | 0 | 42 | 56'' | 0 | 0 | 36' | 48'' |\n| 5 | 0 | 4' | 11'' | 0 | 0 | 53 | 40'' | 0 | 0 | 46' | 0'' |\n| 6 | 0 | 5' | 1'' | 0 | 1 | 4 | 24'' | 0 | 0 | 55' | 12'' |\n| 7 | 0 | 5' | 52'' | 0 | 1 | 15 | 8'' | 0 | 1 | 4' | 24'' |\n| 8 | 0 | 6' | 42'' | 0 | 1 | 25 | 52'' | 0 | 1 | 13' | 36'' |\n| 9 | 0 | 7' | 32'' | 0 | 1 | 36 | 36'' | 0 | 1 | 22' | 48'' |\n| 10 | 0 | 8' | 22'' | 0 | 1 | 47 | 20'' | 0 | 1 | 32' | 0'' |\n| 20 | 0 | 16' | 45'' | 0 | 3 | 34 | 40'' | 0 | 3 | 4' | — |\n| 30 | 0 | 25' | 7'' | 0 | 5 | 22 | 0'' | 0 | 4 | 36' | — |\n| 40 | 0 | 33' | 29'' | 0 | 7 | 9 | 20'' | 0 | 6 | 8' | — |\n| 50 | 0 | 41' | 51'' | 0 | 8 | 56 | 40'' | 0 | 7 | 40' | — |\n| 60 | 0 | 50' | 14'' | 0 | 10 | 44 | 0'' | 0 | 9 | 12' | — |\n| 70 | 0 | 58' | 36'' | 0 | 12 | 31 | 20'' | 0 | 10 | 44' | — |\n| 80 | 1 | 6' | 59'' | 0 | 14 | 18 | 40'' | 1 | 12 | 16' | — |\n| 90 | 1 | 15' | 21'' | 0 | 16 | 6 | 0'' | 0 | 13 | 48' | — |\n| 100 | 1 | 23' | 44'' | 0 | 17 | 53 | 20'' | 0 | 15 | 20' | — |\n| 200 | 2 | 47' | 27'' | 1 | 11 | 46 | 40'' | 1 | 6 | 40' | — |\n| 300 | 4 | 11' | 11'' | 2 | 5 | 40 | 0'' | 1 | 22 | 0' | — |\n| 400 | 5 | 34' | 54'' | 2 | 23 | 33 | 20'' | 2 | 14 | 20' | — |\n| 500 | 6 | 58' | 38'' | 3 | 17 | 26 | 40'' | 3 | 4 | 40' | — |\n| 600 | 8 | 22' | 21'' | 4 | 11 | 20 | 0'' | 3 | 20 | 0' | — |\n| 700 | 9 | 46' | 5'' | 5 | 5 | 13 | 20'' | 4 | 11 | 20' | — |\n| 800 | 11 | 9' | 49'' | 5 | 23 | 6 | 40'' | 5 | 2 | 40' | — |\n| 900 | 12 | 33' | 32'' | 6 | 17 | 0 | 0'' | 5 | 18 | 0' | — |\n| 1000 | 15[?] | 20' | 59'' | 7 | 10 | 53 | 20'' | 6 | 9 | 20' | — |\n| 2000 | 27 | 54' | 32'' | 14 | 21 | 46 | 40'' | 12 | 18 | 40' | — |\n| 3000 | 40 | 51' | 47'' | 22 | 8 | 40 | 0'' | 19 | 4 | 0' | — |\n| 4000 | 55 | 49' | 3'' | 29 | 19 | 33 | 20'' | 25 | 13 | 20' | — |\n| 5000 | 69 | 46' | 19'' | 37 | 6 | 26 | 40'' | 31 | 22 | 40' | — |\n| 6000 | 88[?] | 7' | 18'' | 44 | 17 | 20 | 0'' | 38 | 8 | 0' | — |\n| 7000 | 100 | 28' | 17'' | 52 | 4 | 13 | 20'' | 44 | 17 | 20' | — |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "reditum Solis a stella fixa, ad eandem, esse dierum CCCLXV, hor. VI. scrup. 9'. 12\" (ano sideral segundo Thebith filho de Corá)",
+      "historical_date_as_cited": "tempora Thebith filii Corae",
+      "location": "",
+      "ancient_source": "Thebith filius Corae (Thābit ibn Qurra)"
+    },
+    {
+      "type": "equinox",
+      "description": "Tabula προηγήσεως ἰσημερινῆς κατὰ τόπον καὶ κατὰ χρόνον — tabela da precessão dos equinócios segundo lugar e tempo",
+      "historical_date_as_cited": "tabela perpétua para 1 a 7000 anos julianos",
+      "location": "",
+      "ancient_source": ""
+    },
+    {
+      "type": "solstice",
+      "description": "Motum sive μετάβασιν aequinoctiorum & Solstitiorum in anteriora",
+      "historical_date_as_cited": "",
+      "location": "",
+      "ancient_source": ""
+    }
+  ],
+  "uncertainty_flags": [
+    "Na linha 1000 da coluna de graus, o valor lido '15' parece estar entre 13 e 15; possivelmente 13 (extrapolando de 12°33'32'' em 900 anos), marcado com [?]",
+    "Na linha 6000 da coluna de graus, lê-se '88' mas poderia ser 83 ou 88 — marcado com [?]",
+    "Na coluna μετέμπτωσις ἡλιακή, várias linhas (20 em diante) mostram apenas D. H. e minutos, sem segundos legíveis; marcados com travessão —",
+    "Cabeçalhos em grego manuscrito abreviado: κ̅τ̅ interpretado como κατὰ (segundo)"
+  ],
+  "notes": "Página 291 do impresso (numeração do próprio livro), com assinatura Bb2. Contém a célebre tabela de precessão dos equinócios de Scaliger, baseada no valor do ano sideral de Thābit ibn Qurra (365d 6h 9' 12''). A palavra catchword no pé é 'προη-' (início de προήγησις na página seguinte). Os cabeçalhos gregos em ligadura foram expandidos: προήγησις ἰσημερινὴ τοπική (precessão equinocial local, em graus), προήγησις ἰσημερινὴ χρονική (precessão equinocial temporal, em dias/horas), μετέμπτωσις ἡλιακή (intercalação/retrocesso solar).",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T18:51:52Z",
+    "input_tokens": 7748,
+    "output_tokens": 4090
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "page": 276,
+  "page_type": "mixed",
+  "latin": "DE EMENDAT. TEMPORVM LIB. III. 193\n\nAmum Terminorum. Haec ratio expedita erat, si epactae praecise essent dierum certorum, neque horas & scrupulos appendices haberent. Quo fit, vt dies tantum terminorum, exclusis horis, & scrupulis progressu temporis nouilunij fines non attingant. Nam in 23 periodis Luna anteuertit cyclum anni aequabilis die vno. Itaque castigatio adhibenda, quoties summa annorum Aegyptiorum, aut Armeniorum, aut Persicorum excedit 500 annos, aut paulo amplius. Melius igitur per characterem & feriam diei methodum Lunae tractabis. Cuius rei gratia Tabulas duplices tibi confecimus in mensibus, annis expansis & collectis per periodos suas. Cuius vsus duplex, vt & ipsa duplex. Aut enim per partem anteriorem, aut per posteriorem, operari",
+  "pt": "DA EMENDAÇÃO DOS TEMPOS, LIVRO III. 193\n\n...os Termos. Este método seria expedito, se as epactas fossem precisamente de dias certos, e não tivessem horas e escrúpulos como apêndices. Disso resulta que os dias apenas dos termos, excluídas as horas e os escrúpulos, com o progresso do tempo não atingem os limites do novilúnio. Pois em 23 períodos a Lua antecipa o ciclo do ano uniforme em um dia. Portanto, deve-se aplicar uma correção sempre que a soma dos anos egípcios, ou armênios, ou persas exceder 500 anos, ou um pouco mais. Melhor, pois, tratarás do método da Lua pelo caráter e pela féria do dia. Para isso te preparamos tabelas duplas, em meses, anos expansos e coletos, por seus respectivos períodos. Seu uso é duplo, como ela mesma é dupla. Pois ou se operará pela parte anterior, ou pela posterior.",
+  "en": "ON THE EMENDATION OF TIMES, BOOK III. 193\n\n...of the Terms. This method would be straightforward if the epacts were precisely of whole days and did not have hours and scruples as appendages. Hence it follows that the days alone of the terms, with the hours and scruples excluded, do not over the course of time reach the limits of the new moon. For in 23 periods the Moon anticipates the cycle of the uniform year by one day. Therefore a correction must be applied whenever the sum of Egyptian, Armenian, or Persian years exceeds 500 years, or a little more. It will therefore be better to treat the method of the Moon by means of the character and the feria of the day. For this purpose we have prepared for you double Tables, in months, in expanded and collected years, through their respective periods. Their use is twofold, just as they themselves are twofold. For one may operate either through the anterior part or through the posterior part.",
+  "tables": [
+    {
+      "caption_pt": "Tabela dos Meses — Parte Anterior e Posterior (dias coletos, féria, horas, escrúpulos)",
+      "caption_en": "Table of Months — Anterior and Posterior Part (collected days, feria, hours, scruples)",
+      "markdown": "| # | Dies collecti | Feria | Hor. | Scrup. | Dies | Hor. | Scrup. |\n|---|---|---|---|---|---|---|---|\n| 1 | 29 | 1 | 12 | 793 | 0 | 11 | 287 |\n| 2 | 59 | 3 | 1 | 506 | 0 | 22 | 574 |\n| 3 | 88 | 4 | 14 | 219 | 1 | 9 | 861 |\n| 4 | 118 | 6 | 2 | 1012 | 1 | 21 | 68 |\n| 5 | 147 | 7 | 15 | 725 | 2 | 8 | 355 |\n| 6 | 177 | 2 | 4 | 438 | 2 | 19 | 642 |\n| 7 | 206 | 3 | 17 | 151 | 3 | 6 | 929 |\n| 8 | 236 | 5 | 5 | 944 | 3 | 18 | 136 |\n| 9 | 265 | 6 | 18 | 657 | 4 | 5 | 423 |\n| 10 | 295 | 1 | 7 | 370 | 4 | 16 | 710 |\n| 11 | 324 | 2 | 20 | 83 | 5 | 3 | 997 |\n| 12 | 354 | 4 | 8 | 876 | 5 | 15 | 204 |\n| 13 | 383 | 5 | 21 | 589 | 6 | 2 | 491 |"
+    },
+    {
+      "caption_pt": "Tabela dos Anos Coletos",
+      "caption_en": "Table of Collected Years",
+      "markdown": "| Anni collecti | Dies | Hor. | Scrup. | Feria | Hor. | Scrup. |\n|---|---|---|---|---|---|---|\n| 25 | 0 | 1 | 123 | 3 | 22 | 957 |\n| 50 | 0 | 2 | 246 | 7 | 21 | 834 |\n| 75 | 0 | 3 | 369 | 4 | 20 | 711 |\n| 100 | 0 | 4 | 492 | 1 | 19 | 588 |\n| 125 | 0 | 5 | 615 | 5 | 18 | 465 |\n| 150 | 0 | 6 | 738 | 2 | 17 | 342 |\n| 175 | 0 | 7 | 861 | 6 | 16 | 219 |\n| 200 | 0 | 8 | 984 | 3 | 15 | 96 |\n| 225 | 0 | 10 | 27 | 7 | 13 | 1053 |\n| 250 | 0 | 11 | 150 | 4 | 12 | 930 |\n| 500 | 0 | 22 | 300 | 2 | 1 | 780 |\n| 750 | 1 | 9 | 450 | 6 | 14 | 630 |\n| 1000 | 1 | 20 | 600 | 4 | 3 | 480 |\n| 1250 | 2 | 7 | 750 | 1 | 16 | 330 |\n| 1500 | 2 | 18 | 900 | 6 | 5 | 180 |\n| 1750 | 3 | 5 | 1050 | 3 | 18 | 30 |\n| 2000 | 3 | 17 | 120 | 1 | 6 | 960 |\n| 2250 | 4 | 4 | 270 | 5 | 19 | 810 |\n| 2500 | 4 | 15 | 420 | 3 | 8 | 660 |\n| 5000 | 5 | 2 | 570 | 6 | 17 | 240 |"
+    },
+    {
+      "caption_pt": "Tabela dos Anos Expansos — Epactas e Novilúnios (com indicação de anos embolísmicos)",
+      "caption_en": "Table of Expanded Years — Epacts and New Moons (with indication of embolismic years)",
+      "markdown": "| Anni expansi | Epact. | Hor. | Scrup. | Feria | Hor. | Scrup. | Emb. |\n|---|---|---|---|---|---|---|---|\n| 1 | 10 | 15 | 204 | 4 | 8 | 876 |  |\n| 2 | 21 | 6 | 408 | 1 | 17 | 672 |  |\n| 3 | 2 | 8 | 899 | 7 | 15 | 181 | Emb. |\n| 4 | 13 | 0 | 23 | 4 | 23 | 1057 |  |\n| 5 | 23 | 15 | 227 | 2 | 8 | 853 |  |\n| 6 | 4 | 17 | 718 | 1 | 6 | 362 | Emb. |\n| 7 | 15 | 8 | 922 | 5 | 15 | 158 |  |\n| 8 | 26 | 0 | 46 | 2 | 23 | 1034 |  |\n| 9 | 7 | 2 | 537 | 1 | 21 | 543 | Emb. |\n| 10 | 17 | 17 | 741 | 6 | 6 | 339 |  |\n| 11 | 28 | 8 | 945 | 5 | 3 | 928 | Emb. |\n| 12 | 9 | 11 | 356 | 2 | 12 | 724 |  |\n| 13 | 20 | 2 | 560 | 6 | 21 | 520 |  |\n| 14 | 1 | 4 | 1051 | 5 | 19 | 29 | Emb. |\n| 15 | 11 | 20 | 175 | 3 | 3 | 905 |  |\n| 16 | 22 | 11 | 379 | 7 | 12 | 701 |  |\n| 17 | 3 | 13 | 870 | 6 | 10 | 210 | Emb. |\n| 18 | 14 | 4 | 1074 | 3 | 19 | 6 |  |\n| 19 | 24 | 20 | 198 | 1 | 3 | 882 |  |\n| 20 | 5 | 22 | 689 | 7 | 1 | 391 | Emb. |\n| 21 | 16 | 13 | 893 | 4 | 10 | 187 |  |\n| 22 | 27 | 5 | 17 | 1 | 18 | 1063 |  |\n| 23 | 8 | 7 | 508 | 7 | 16 | 572 | Emb. |\n| 24 | 18 | 22 | 712 | 5 | 1 | 368 |  |\n| 25 | 0 | 1 | 123 | 3 | 22 | 957 | Emb. |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "Nam in 23 periodis Luna anteuertit cyclum anni aequabilis die vno",
+      "historical_date_as_cited": "23 períodos",
+      "location": "",
+      "ancient_source": ""
+    }
+  ],
+  "uncertainty_flags": [
+    "Primeira palavra da página '...Amum Terminorum' é continuação da página anterior; leitura provável 'terminorum' como palavra composta/fragmentada."
+  ],
+  "notes": "Página com três tabelas cronológicas (meses, anos coletos, anos expansos com epactas e novilúnios). Os anos marcados 'Emb.' são embolísmicos (com mês intercalar) no ciclo de 19 anos. Texto latino é breve, introduzindo e concluindo o uso das tabelas.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T17:42:18Z",
+    "input_tokens": 7748,
+    "output_tokens": 3771
+  }
+}

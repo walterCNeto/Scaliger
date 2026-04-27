@@ -1,0 +1,27 @@
+{
+  "page": 855,
+  "page_type": "mixed",
+  "latin": "NEVRVZ GELALÆI.\n\n[Tabula cum annis: 324, 351, 378, 405, 432, 459, 486, 513, 540, 567, 594, 621, et diebus 1-27]\n\nIN TABVLAM GELALÆAM.\n\nÆra Gelalæa hodie ab Arabibus dicitur تاريخ الفلكيين الفارس المتاخرين الذي يسمي ايضا نجومسيه للجلاليه سلطانيه Æra Astrologorum Persidis recentiorum, quæ & ipsa nominatur etiam Astronomica Augusta Imperatoria. Non audeo affirmare, an a Persis periodus ulla ipsius instituta sit. Caussa dubitandi duplex:",
+  "pt": "NEVRUZ GELALEU.\n\n[Tabela com anos: 324, 351, 378, 405, 432, 459, 486, 513, 540, 567, 594, 621, e dias 1-27 — ver campo tables]\n\nSOBRE A TABELA GELALEIA.\n\nA Era Gelaleia é hoje chamada pelos árabes [تاريخ الفلكيين الفارس المتاخرين الذي يسمي ايضا نجومسيه للجلاليه سلطانيه] \"Era dos Astrólogos Persas mais recentes\", a qual também é denominada Astronômica Augusta Imperatória. Não ouso afirmar se algum período foi instituído pelos próprios persas a respeito dela. A razão para duvidar é dupla:",
+  "en": "NEVRUZ OF GELALAEUS.\n\n[Table with years: 324, 351, 378, 405, 432, 459, 486, 513, 540, 567, 594, 621, and days 1-27 — see tables field]\n\nON THE GELALAEAN TABLE.\n\nThe Gelalaean Era is today called by the Arabs [تاريخ الفلكيين الفارس المتاخرين الذي يسمي ايضا نجومسيه للجلاليه سلطانيه] \"Era of the more recent Persian Astrologers,\" which is also named the Astronomical Imperial Augustan [era]. I do not dare affirm whether any period concerning it was instituted by the Persians themselves. The reason for doubt is twofold:",
+  "tables": [
+    {
+      "caption_pt": "Tabela do Neuruz Gelaleu: letras dominicais e epactas(?) para anos 324 a 621 da Era Gelaleia, dias 1-27",
+      "caption_en": "Table of the Gelalaean Nevruz: dominical letters and epacts(?) for years 324 to 621 of the Gelalaean Era, days 1-27",
+      "markdown": "| Dia | 324 | 351 | 378 | 405 | 432 | 459 | 486 | 513 | 540 | 567 | 594 | 621 |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | C 4 | ED 3 | F 1 | A 7 | B 5 | DC 4 | E 2 | F 1 | A 6 | CB 5 | D 3 | E 2 |\n| 2 | B 5 | C 4 | ED 2 | G 1 | A 6 | B 5 | DC 3 | E 2 | G 1 | A 6 | CB 5 | D 3 |\n| 3 | A 6 | B 5 | C 4 | FE 2 | G 1 | A 6 | B 5 | DC 3 | F 2 | G 7 | A 6 | CB 4 |\n| 4 | GF 1 | A 6 | B 5 | D 3 | FE 2 | G 7 | A 6 | B 5 | ED 3 | F 2 | G 7 | A 6 |\n| 5 | E 2 | GF 1 | A 6 | C 5 | D 3 | FE 2 | G 7 | A 6 | C 4 | ED 3 | F 1 | G 7 |\n| 6 | D 3 | E 2 | GF 7 | B 6 | C 4 | D 3 | FE 1 | G 7 | B 6 | C 4 | ED 3 | F 1 |\n| 7 | C 4 | D 3 | E 2 | AG 7 | B 6 | C 4 | D 3 | FE 1 | A 7 | B 5 | C 4 | ED 2 |\n| 8 | BA 6 | C 4 | D 3 | F 1 | AG 7 | B 5 | C 4 | D 2 | GF 1 | A 7 | B 5 | C 4 |\n| 9 | G 7 | BA 5 | C 4 | E 3 | F 1 | AG 7 | B 5 | C 4 | E 2 | GF 1 | A 6 | B 5 |\n| 10 | F 1 | G 7 | BA 5 | D 4 | E 2 | F 1 | AG 6 | B 5 | D 4 | E 2 | GF 1 | A 6 |\n| 11 | E 2 | F 1 | G 7 | CB 5 | D 4 | E 2 | F 1 | AG 6 | C 5 | D 3 | E 2 | GF 7 |\n| 12 | DC 4 | E 2 | F 1 | A 6 | CB 4 | D 3 | E 2 | F 7 | BA 6 | C 5 | D 3 | E 2 |\n| 13 | B 5 | DC 3 | E 2 | G 1 | A 6 | CB 5 | D 3 | E 2 | G 7 | BA 6 | C 4 | D 3 |\n| 14 | A 6 | B 5 | DC 3 | F 2 | G 7 | A 6 | CB 5 | D 3 | F 1 | G 7 | BA 6 | C 4 |\n| 15 | G 7 | A 6 | B 4 | ED 3 | F 2 | G 7 | A 6 | C 4 | E 3 | F 1 | G 7 | BA 5 |\n| 16 | FE 2 | G 7 | A 6 | C 4 | ED 3 | F 1 | G 7 | B 5 | DC 4 | E 3 | F 1 | G 7 |\n| 17 | D 3 | FE 1 | G 7 | B 6 | C 4 | ED 3 | F 1 | A 7 | B 5 | DC 4 | E 2 | F 1 |\n| 18 | C 4 | D 3 | F 1 | A 7 | B 5 | C 4 | ED 2 | G 1 | A 6 | B 5 | DC 4 | E 2 |\n| 19 | B 5 | C 4 | E 2 | GF 1 | A 7 | B 5 | C 4 | FE 2 | G 1 | A 6 | B 5 | DC 3 |\n| 20 | AG 7 | B 5 | D 4 | E 2 | GF 1 | A 6 | B 5 | D 3 | FE 2 | G 7 | A 6 | B 5 |\n| 21 | F 1 | AG 6 | C 5 | D 3 | E 2 | GF 1 | A 6 | C 5 | D 3 | FE 2 | G 7 | A 6 |\n| 22 | E 2 | F 1 | BA 6 | C 5 | D 3 | E 2 | GF 7 | B 6 | C 4 | D 3 | FE 2 | G 7 |\n| 23 | D 3 | E 2 | G 7 | BA 6 | C 4 | D 3 | E 2 | AG 7 | B 6 | C 4 | D 3 | FE 1 |\n| 24 | B 5 | D 3 | F 2 | G 7 | BA 6 | C 4 | D 3 | F 1 | AG 7 | B 5 | C 4 | D 3 |\n| 25 | A 6 | CB 4 | E 3 | F 1 | G 7 | BA 6 | C 4 | E 3 | F 1 | AG 7 | B 5 | C 4 |\n| 26 | G 7 | A 6 | DC 4 | E 3 | F 1 | G 7 | BA 5 | D 4 | E 2 | F 1 | AG 6 | B 5 |\n| 27 | F 1 | G 7 | B 5 | DC 4 | E 2 | F 1 | G 7 | CB 5 | D 4 | E 2 | F 1 | A 6 |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Transcrição do texto árabe feita com cautela; ortografia do manuscrito pode divergir da forma clássica — verificação por arabista recomendada",
+    "Alguns valores numéricos da tabela (especialmente colunas centrais) têm dígitos de legibilidade limitada; os valores transcritos representam a leitura mais plausível"
+  ],
+  "notes": "Página contém tabela dos Nevruz (Ano Novo) da Era Gelaleia (calendário persa reformado por Jalal al-Din Malik-Shah, 1079 d.C.) seguida do início do comentário explicativo 'In Tabulam Gelalaeam'. Os anos cabeçalho (324...621) são anos da era Gelaleia. As letras são provavelmente letras dominicais e os números epactas ou concorrentes.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-25T00:07:58Z",
+    "input_tokens": 7748,
+    "output_tokens": 3274
+  }
+}

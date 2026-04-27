@@ -1,0 +1,113 @@
+{
+  "page": 332,
+  "page_type": "table",
+  "latin": "DE EMENDAT. TEMPORVM LIB. IIII. 249\n\nΛΕΟΝΤΩΝ ἡμέραι λα̅.\n\n[Tabula parapegmatis mensis Leonis, dies 31, cum neomeniis Atticis (Metageitnion, Hecatombaion, Boedromion), signis astronomicis apud Euctemonem, Eudoxum, Callippum, Dositheum, et kalendario Iuliano.]",
+  "pt": "DA EMENDA DOS TEMPOS, LIVRO IV. 249\n\nDOS LEÕES, dias 31.\n\n[Tabela de parapegma do mês do Leão, com 31 dias, correlacionando os dias do zodíaco (coluna esquerda, Α–ΛΑ) com as neomênias do calendário ático (Metagítnion, Hecatombeon, Boedrômion), os fenômenos astronômicos e meteorológicos segundo Eucténom, Eudoxo, Calipo e Dosíteo, e as datas do calendário juliano (coluna direita). Ver campo tables.]",
+  "en": "ON THE EMENDATION OF TIMES, BOOK IV. 249\n\nOF THE LIONS, 31 days.\n\n[Parapegma table for the zodiacal month of Leo (31 days), correlating the days (left column, Α–ΛΑ) with the Attic neomeniae (Metageitnion, Hecatombaion, Boedromion), astronomical and weather phenomena according to Euctemon, Eudoxus, Callippus, and Dositheus, and the Julian calendar dates (right column). See tables field.]",
+  "tables": [
+    {
+      "caption_pt": "Parapegma do mês do Leão (31 dias): correlação entre dias zodiacais, calendário ático, fenômenos astronômicos segundo os antigos astrônomos, e calendário juliano.",
+      "caption_en": "Parapegma of the month of Leo (31 days): correlation between zodiacal days, Attic calendar, astronomical phenomena according to ancient astronomers, and the Julian calendar.",
+      "markdown": "| Dia | Calendário ático | Fenômeno / Autoridade | Calendário juliano |\n|---|---|---|---|\n| Α | ΜΕΤΑΓΕΙΤΝΙΩΝ Α. Κ. ΛΘ. | — | V. KAL. AVG. |\n|  |  | Κύων ἐκφανής. Πνῖγος ὑπόκειται. Ἐπισημαίνει. ΕΥΚΤΗΜΩΝ. |  |\n| Β | ΕΚΑΤΟΜΒΑΙΩΝ ΚΗ. ΜΖ. ΞϚ. | — | IIII. KAL. AVG. |\n| Γ | ΜΕΤΑΓΕΙΤΝΙΩΝ Θ. ΟΔ. | — | III. KAL. AVG. |\n| Δ | ΜΕΤΑΓΕΙΤΝΙΩΝ Ϛ. ΙΖ. ΛϚ. ΝΕ. | — | PRID. KAL. AVG. |\n| Ε | ΜΕΤΑΓΕΙΤΝΙΩΝ ΜΔ. ΞΓ. | — | KAL. AVG. |\n|  |  | Ἀετὸς ἑῷος δύει. ΕΥΔΟΞΟΣ. |  |\n| Ϛ | ΜΕΤΑΓΕΙΤΝΙΩΝ ΚΕ. | — | IIII. NON. AVG. |\n| Ζ | ΜΕΤΑΓΕΙΤΝΙΩΝ ΙΔ. ΛΓ. ΝΒ. ΟΑ. | — | III. NON. AVG. |\n| Η | ΜΕΤΑΓΕΙΤΝΙΩΝ Γ. ΚΒ. | — | PRID. NON. AVG. |\n| Θ | ΜΕΤΑΓΕΙΤΝΙΩΝ ΜΑ. Ξ. ΞΑ. | — | NON. AVG. |\n| Ι | ΜΕΤΑΓΕΙΤΝΙΩΝ ΙΑ. Λ. ΜΘ. | — | VIII. EID. AVG. |\n|  |  | Στέφανος δύει. ΕΥΔΟΞΟΣ. |  |\n| ΙΑ | ΜΕΤΑΓΕΙΤΝΙΩΝ ΙΘ. ΛΗ. | — | VII. EID. AVG. |\n| ΙΒ | ΜΕΤΑΓΕΙΤΝΙΩΝ ΝΖ. ΟϚ. | — | VI. EID. AVG. |\n|  |  | Λέων μέσος ἀνατέλλει. Πνίγη ὑπόκειται. ΚΑΛΙΠΠΟΣ. |  |\n| ΙΓ | ΜΕΤΑΓΕΙΤΝΙΩΝ Η. ΚΖ. ΜϚ. | — | V. EID. AVG. |\n| ΙΔ | ΜΕΤΑΓΕΙΤΝΙΩΝ ΝΒ. ΞΕ. | — | IIII. EID. AVG. |\n|  |  | Πνίγη γίνεται. ΕΥΚΤΗΜΩΝ. |  |\n| ΙΕ | ΜΕΤΑΓΕΙΤΝΙΩΝ ΙϚ. ΛΕ. ΟΓ. | — | III. EID. AVG. |\n| ΙϚ | ΜΕΤΑΓΕΙΤΝΙΩΝ ΚΔ. ΜΓ. ΞΒ. | — | PRID. EID. AVG. |\n|  |  | Ἐπισημαίνει. ΕΥΔΟΞΟΣ. |  |\n| ΙΖ | ΜΕΤΑΓΕΙΤΝΙΩΝ ΕΟ. | — | EID. AVG. |\n|  |  | Λύρα δύεται. Ὑετός. Ἐτησίαι παύονται. Ἵππος ἐπιτέλλει. ΕΥΚΤΗΜΩΝ. |  |\n| ΙΗ | ΜΕΤΑΓΕΙΤΝΙΩΝ ΙΓ. ΛΒ. ΝΑ. | — | XIX. KAL. SEPTEM. |\n|  |  | Δελφὶς ἑῷος δύει. ΕΥΔΟΞΟΣ. Περσεὺς ἀκρόνυχος ἐπιτέλλει. ΔΟΣΙΘΕΟΣ. |  |\n| ΙΘ | ΜΕΤΑΓΕΙΤΝΙΩΝ Β. Μ. ΝΘ. | — | XVIII. KAL. SEPT. |\n| Κ | ΜΕΤΑΓΕΙΤΝΙΩΝ Ι. ΚΑ. | — | XVII. KAL. SEPT. |\n| ΚΑ | ΜΕΤΑΓΕΙΤΝΙΩΝ ΚΘ. ΜΗ. ΞΖ. | — | XVI. KAL. SEPT. |\n| ΚΒ | ΜΕΤΑΓΕΙΤΝΙΩΝ ΙΗ. ΟΕ. | — | XV. KAL. SEPT. |\n|  |  | Λύρα ἑῷος δύει. Ἐπισημαίνει. ΕΥΔΟΞΟΣ. |  |\n| ΚΓ | ΜΕΤΑΓΕΙΤΝΙΩΝ ΛΖ. ΝϚ. | — | XIIII. KAL. SEPTEMB. |\n| ΚΔ | ΜΕΤΑΓΕΙΤΝΙΩΝ Ζ. ΚϚ. ΜΕ. ΞΔ. | — | XIII. KAL. SEPT. |\n| ΚΕ | ΜΕΤΑΓΕΙΤΝΙΩΝ ΙΕ. ΛΔ. | — | XII. KAL. SEPT. |\n| ΚϚ | ΜΕΤΑΓΕΙΤΝΙΩΝ ΝΓ. ΟΒ. | — | XI. KAL. SEPT. |\n| ΚΖ | ΜΕΤΑΓΕΙΤΝΙΩΝ ΚΓ. ΜΒ. | — | X. KAL. SEPT. |\n| ΚΗ | ΜΕΤΑΓΕΙΤΝΙΩΝ Δ. Ν. ΞΑ. | — | IX. KAL. SEPT. |\n| ΚΘ | ΜΕΤΑΓΕΙΤΝΙΩΝ ΙΒ. ΛΑ. ΞΘ. | — | VIII. KAL. SEPT. |\n|  |  | Ἐπισημαίνει. ΕΥΔΟΞΟΣ. Παρθένος ἐπιτέλλει. Ἐπισημαίνει. ΚΑΛΙΠΠΟΣ. |  |\n| Λ | ΒΟΗΔΡΟΜΙΩΝ Κ. ΛΘ. ΝΗ. | — | VII. KAL. SEPT. |\n| ΛΑ | ΒΟΗΔΡΟΜΙΩΝ Α. ΞϚ. | ΠΑΡΘΕ(ΝΟΣ) | VI. KAL. SEPT. |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "Κύων ἐκφανής. Πνῖγος ὑπόκειται. Ἐπισημαίνει.",
+      "historical_date_as_cited": "Dia 1 do signo de Leão = V Kal. Aug. (28 de julho)",
+      "location": "",
+      "ancient_source": "Euctemon"
+    },
+    {
+      "type": "other",
+      "description": "Ἀετὸς ἑῷος δύει (A Águia se põe matutinamente)",
+      "historical_date_as_cited": "Dia 5 de Leão = Kal. Aug. (1 de agosto)",
+      "location": "",
+      "ancient_source": "Eudoxus"
+    },
+    {
+      "type": "other",
+      "description": "Στέφανος δύει (A Coroa se põe)",
+      "historical_date_as_cited": "Dia 10 de Leão = VIII Eid. Aug. (6 de agosto)",
+      "location": "",
+      "ancient_source": "Eudoxus"
+    },
+    {
+      "type": "other",
+      "description": "Λέων μέσος ἀνατέλλει. Πνίγη ὑπόκειται. (O meio do Leão se levanta; sobrevém calor sufocante.)",
+      "historical_date_as_cited": "Dia 12 de Leão = VI Eid. Aug.",
+      "location": "",
+      "ancient_source": "Callippus"
+    },
+    {
+      "type": "other",
+      "description": "Πνίγη γίνεται (ocorre calor sufocante)",
+      "historical_date_as_cited": "Dia 14 de Leão = IIII Eid. Aug.",
+      "location": "",
+      "ancient_source": "Euctemon"
+    },
+    {
+      "type": "other",
+      "description": "Ἐπισημαίνει (há mudança de tempo)",
+      "historical_date_as_cited": "Dia 16 de Leão = Prid. Eid. Aug.",
+      "location": "",
+      "ancient_source": "Eudoxus"
+    },
+    {
+      "type": "other",
+      "description": "Λύρα δύεται. Ὑετός. Ἐτησίαι παύονται. Ἵππος ἐπιτέλλει. (A Lira se põe. Chuva. Cessam os ventos etésios. O Cavalo [Pégaso] se ergue.)",
+      "historical_date_as_cited": "Dia 17 de Leão = Eid. Aug. (13 de agosto)",
+      "location": "",
+      "ancient_source": "Euctemon"
+    },
+    {
+      "type": "other",
+      "description": "Δελφὶς ἑῷος δύει (O Delfim se põe matutinamente)",
+      "historical_date_as_cited": "Dia 18 de Leão = XIX Kal. Sept.",
+      "location": "",
+      "ancient_source": "Eudoxus"
+    },
+    {
+      "type": "other",
+      "description": "Περσεὺς ἀκρόνυχος ἐπιτέλλει (Perseu se ergue ao anoitecer / acronicamente)",
+      "historical_date_as_cited": "Dia 18 de Leão = XIX Kal. Sept.",
+      "location": "",
+      "ancient_source": "Dositheus"
+    },
+    {
+      "type": "other",
+      "description": "Λύρα ἑῷος δύει. Ἐπισημαίνει. (A Lira se põe matutinamente; mudança de tempo.)",
+      "historical_date_as_cited": "Dia 22 de Leão = XV Kal. Sept.",
+      "location": "",
+      "ancient_source": "Eudoxus"
+    },
+    {
+      "type": "other",
+      "description": "Ἐπισημαίνει.",
+      "historical_date_as_cited": "Dia 29 de Leão = VIII Kal. Sept.",
+      "location": "",
+      "ancient_source": "Eudoxus"
+    },
+    {
+      "type": "other",
+      "description": "Παρθένος ἐπιτέλλει. Ἐπισημαίνει. (A Virgem se ergue; mudança de tempo.)",
+      "historical_date_as_cited": "Dia 29 de Leão = VIII Kal. Sept.; início do signo de Virgem no dia 31",
+      "location": "",
+      "ancient_source": "Callippus"
+    }
+  ],
+  "uncertainty_flags": [
+    "Vários números em minúsculas gregas numerais na coluna central do parapegma são de difícil leitura no scan; transcritos conforme melhor interpretação, mas alguns dígitos (p.ex. ΟΔ, ΝΕ, ΞϚ) podem conter erros de OCR.",
+    "A forma ΕΟ no dia ΙΖ (Metageitnion) é atípica e pode representar um numeral composto ou erro do tipógrafo; mantida como impressa.",
+    "A linha final ΠΑΡΘΕ. indica o início do signo de Virgem (Παρθένος), abreviado no original."
+  ],
+  "notes": "Esta página apresenta o parapegma (calendário astrometeorológico) do mês zodiacal do Leão (31 dias), correlacionando quatro sistemas: (1) dia do signo (Α–ΛΑ), (2) neomênias áticas em Hecatombeon/Metagítnion/Boedrômion com frações horárias, (3) fenômenos celestes e meteorológicos atribuídos a Eucténom, Eudoxo, Calipo e Dosíteo, e (4) calendário juliano. As letras laterais A, B, C, D parecem ser marcadores de seção ou referências internas de Scaliger.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T18:17:31Z",
+    "input_tokens": 7748,
+    "output_tokens": 5469
+  }
+}

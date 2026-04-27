@@ -1,0 +1,27 @@
+{
+  "page": 794,
+  "page_type": "table",
+  "latin": "DE EMENDAT. TEMPORVM LIB. VII.",
+  "pt": "Tabela árabe-siríaca perpétua das festas e jejuns móveis da Igreja Oriental (Páscoa, Jejum dos Ninivitas, Pentecostes, Ascensão, Jejum Maior/Quaresma). Ver seção tables.",
+  "en": "Perpetual Arabic-Syriac table of the movable feasts and fasts of the Eastern Church (Easter, Fast of the Ninevites, Pentecost, Ascension, Great Fast/Lent). See tables section.",
+  "tables": [
+    {
+      "caption_pt": "Tabela perpétua das festas e jejuns que recaem sobre o dia da Ressurreição (جدول للأعياد والأصوام يوجد القيامة دائماً). Cabeçalho de colunas (da direita para a esquerda): (1) Festa da Ressurreição / Páscoa e seu mês [عيد القيامة وشهرها]; (2) Jejum Maior / Quaresma e seu mês [صوم الكبير وشهرها]; (3) Ascensão e seu mês [الصعود وشهرها]; (4) Pentecostes e seu mês [البنطيقوسطى وشهرها]; (5) Jejum dos Ninivitas e seu mês [صوم نينوه وشهرها]. Os dias estão marcados em numerais árabes orientais e os nomes dos meses são siríacos: آذار (Adhār = março), نيسان (Nīsān = abril), أسباط/شباط (Shbāṭ = fevereiro), أيار (Iyyār = maio), كانون ثاني (Kānūn Thānī = janeiro).",
+      "caption_en": "Perpetual table of the feasts and fasts that fall with the day of the Resurrection (جدول للأعياد والأصوام يوجد القيامة دائماً). Column headers (right to left): (1) Feast of the Resurrection / Easter and its month [عيد القيامة وشهرها]; (2) Great Fast / Lent and its month [صوم الكبير وشهرها]; (3) Ascension and its month [الصعود وشهرها]; (4) Pentecost and its month [البنطيقوسطى وشهرها]; (5) Fast of the Ninevites and its month [صوم نينوه وشهرها]. Days are given in Eastern Arabic numerals; month names are Syriac: آذار (Adhār = March), نيسان (Nīsān = April), أسباط/شباط (Shbāṭ = February), أيار (Iyyār = May), كانون ثاني (Kānūn Thānī = January).",
+      "markdown": "| Row | Easter (عيد القيامة) | Great Fast (صوم الكبير) | Ascension (الصعود) | Pentecost (البنطيقوسطى) | Fast of Ninevites (صوم نينوه) |\n|---|---|---|---|---|---|\n| A1 | 22 Adhār | 2 Shbāṭ | 30 Nīsān | 10 Iyyār | 4 Kānūn Thānī |\n| A2 | 23 Adhār | 3 Shbāṭ | 1 Iyyār | 11 Iyyār | 5 Kānūn Thānī |\n| A3 | 24 Adhār | 4 Shbāṭ | 2 Iyyār | 12 Iyyār | 6 Kānūn Thānī |\n| B | 25 Adhār | 5 Shbāṭ | 3 Iyyār | 13 Iyyār | 7 Kānūn Thānī |\n| 5 | 26 Adhār | 6 Shbāṭ | 4 Iyyār | 14 Iyyār | 8 Kānūn Thānī |\n| 6 | 27 Adhār | 7 Shbāṭ | 5 Iyyār | 15 Iyyār | 9 Kānūn Thānī |\n| 7 | 28 Adhār | 8 Shbāṭ | 6 Iyyār | 16 Iyyār | 10 Kānūn Thānī |\n| 8 | 29 Adhār | 9 Shbāṭ | 7 Iyyār | 17 Iyyār | 11 Kānūn Thānī |\n| C | 30 Adhār | 10 Shbāṭ | 8 Iyyār | 18 Iyyār | 12 Kānūn Thānī |\n| 10 | 31 Adhār | 11 Shbāṭ | 9 Iyyār | 19 Iyyār | 13 Kānūn Thānī |\n| 11 | 1 Nīsān | 12 Shbāṭ | 10 Iyyār | 20 Iyyār | 14 Kānūn Thānī |\n| 12 | 2 Nīsān | 13 Shbāṭ | 11 Iyyār | 21 Iyyār | 15 Kānūn Thānī |\n| 13 | 3 Nīsān | 14 Shbāṭ | 12 Iyyār | 22 Iyyār | 16 Kānūn Thānī |\n| 14 | 4 Nīsān | 15 Shbāṭ | 13 Iyyār | 23 Iyyār | 17 Kānūn Thānī |\n| D | 5 Nīsān | 16 Shbāṭ | 14 Iyyār | 24 Iyyār | 18 Kānūn Thānī |\n| 16 | 6 Nīsān | 17 Shbāṭ | 15 Iyyār | 25 Iyyār | 19 Kānūn Thānī |\n| 17 | 7 Nīsān | 18 Shbāṭ | 16 Iyyār | 26 Iyyār | 20 Kānūn Thānī |\n| 18 | 8 Nīsān | 19 Shbāṭ | 17 Iyyār | 27 Iyyār | 21 Kānūn Thānī |\n| 19 | 9 Nīsān | 20 Shbāṭ | 18 Iyyār | 28 Iyyār | 22 Kānūn Thānī |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Os numerais árabes na tabela (ortografia oriental manuscrita reproduzida em xilogravura) são de leitura difícil no scan; os valores apresentados na tabela em markdown são a reconstrução mais provável, respeitando a progressão aritmética (Easter 22 Adhār → 9 Nīsān, intervalo de 35 dias; Fast of Ninevites 70 dias antes; Ascension 39 dias depois; Pentecost 49 dias depois; Great Fast 41 dias antes).",
+    "As letras marginais A, B, C, D parecem indicar subseções ou chaves de referência dentro da tabela, não numeração sequencial completa."
+  ],
+  "notes": "Trata-se de uma tabela pascal perpétua na tradição siríaca/melquita, com 19 linhas correspondentes às 19 possíveis datas da Páscoa (22 de março a 25 de abril no calendário juliano, aqui expresso como 22 Adhār a 9 Nīsān). A colocação das cinco festas móveis respeita os intervalos canônicos: Jejum dos Ninivitas (70 dias antes da Páscoa), Quaresma (início 41 dias antes), Ascensão (39 dias depois), Pentecostes (49 dias depois). O custos 'Ooo 2' no pé indica caderno Ooo, fólio 2.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:30:23Z",
+    "input_tokens": 7748,
+    "output_tokens": 2644
+  }
+}

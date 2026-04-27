@@ -1,0 +1,18 @@
+{
+  "page": 979,
+  "page_type": "blank",
+  "latin": "",
+  "pt": "",
+  "en": "",
+  "tables": [],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [],
+  "notes": "Página em branco; apenas marcas de digitalização e marca d'água 'Digitized by Google'.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-27T16:07:23Z",
+    "input_tokens": 7748,
+    "output_tokens": 132
+  }
+}

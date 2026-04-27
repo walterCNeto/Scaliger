@@ -1,0 +1,30 @@
+{
+  "page": 429,
+  "page_type": "table",
+  "latin": "RESIDUUM TABULAE ANNORUM EXPANSORUM.",
+  "pt": "Continuação da Tabela dos Anos Expandidos. (Tabela completa de conversão entre anos juliano-expandidos, trópicos, judaicos, egípcio-armênio-pérsicos e árabe-hagárico-índicos; ver seção tables.)",
+  "en": "Continuation of the Table of Expanded Years. (Complete conversion table between Julian-expanded, tropical, Jewish, Egyptian-Armenian-Persian, and Arabic-Hagarene-Indic years; see tables section.)",
+  "tables": [
+    {
+      "caption_pt": "Continuação (Residuum) da Tabela dos Anos Expandidos, anos 41–76. Colunas: Anos judaico-expansos | Anos Trópicos (Anos, Dies, Horae, Scrupula) | Anos Judaicos (Anos, Dies, Horae, Scrupula de 1080) | Anos Egípcio-Armênio-Pérsicos (Anos, Dies, Horae) | Anos Árabe-Hagarenos-Índicos (Anos, Dies, Scrupula).",
+      "caption_en": "Continuation (Residuum) of the Table of Expanded Years, years 41–76. Columns: Jewish-expanded years | Tropical Years (Years, Days, Hours, Scruples) | Jewish Years (Years, Days, Hours, Scruples of 1080) | Egyptian-Armenian-Persian Years (Years, Days, Hours) | Arabic-Hagarene-Indic Years (Years, Days, Scruples).",
+      "markdown": "| Anni Iudaini expansi | Anni Tropici | Dies | Horae | Scrup. | Anni Iudaici | Dies | Horae | Scrup. 1080 | Anni Aegypt. | Dies | Horae | Anni Arab. | Dies | Scrupula |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 41 | 41 | 0 | 7 | 20 | 41 | 3 | 5 | 781 | 41 | 10 | 6 | 42 | 92 | 13 |\n| 42 | 42 | 0 | 7 | 31 | 42 | 14 | 2 | 993 | 42 | 10 | 12 | 43 | 103 | 6 |\n| 43 | 43 | 0 | 7 | 42 | 43 | 25 | 0 | 117 | 43 | 10 | 18 | 44 | 113 | 59 |\n| 44 | 44 | 0 | 7 | 52 | 44 | 6 | 8 | 608 | 44 | 11 | 0 | 45 | 124 | 52 |\n| 45 | 45 | 0 | 8 | 3 | 45 | 17 | 5 | 812 | 45 | 11 | 6 | 46 | 135 | 45 |\n| 46 | 46 | 0 | 8 | 13 | 46 | 28 | 2 | 1016 | 46 | 11 | 12 | 47 | 146 | 38 |\n| 47 | 47 | 0 | 8 | 24 | 47 | 9 | 11 | 427 | 47 | 11 | 18 | 48 | 157 | 31 |\n| 48 | 48 | 0 | 8 | 35 | 48 | 20 | 8 | 631 | 48 | 12 | 0 | 49 | 168 | 24 |\n| 49 | 49 | 0 | 8 | 46 | 49 | 1 | 20 | 42 | 49 | 12 | 6 | 50 | 179 | 17 |\n| 50 | 50 | 0 | 8 | 57 | 50 | 12 | 14 | 246 | 50 | 12 | 12 | 51 | 190 | 10 |\n| 51 | 51 | 0 | 9 | 7 | 51 | 23 | 11 | 450 | 51 | 12 | 18 | 52 | 201 | 3 |\n| 52 | 52 | 9[?] | 9 | 18 | 52 | 4 | 19 | 941 | 52 | 13 | 0 | 53 | 211 | 56 |\n| 53 | 53 | 0 | 9 | 29 | 53 | 15 | 17 | 65 | 53 | 13 | 6 | 54 | 226 | 49 |\n| 54 | 54 | 0 | 9 | 40 | 54 | 26 | 14 | 269 | 54 | 13 | 12 | 55 | 233 | 42 |\n| 55 | 55 | 0 | 9 | 50 | 55 | 7 | 22 | 760 | 55 | 13 | 18 | 56 | 244 | 35 |\n| 56 | 56 | 0 | 10 | 1 | 56 | 18 | 19 | 964 | 56 | 14 | 0 | 57 | 255 | 28 |\n| 57 | 57 | 0 | 10 | 12 | 57 | 0 | 4 | 375 | 57 | 14 | 6 | 58 | 266 | 21 |\n| 58 | 58 | 0 | 10 | 23 | 58 | 11 | 1 | 579 | 58 | 14 | 12 | 59 | 277 | 14 |\n| 59 | 59 | 0 | 10 | 33 | 59 | 21 | 22 | 783 | 59 | 14 | 18 | 60 | 288 | 7 |\n| 60 | 60 | 0 | 10 | 44 | 60 | 3 | 7 | 194 | 60 | 15 | 0 | 61 | 299 | 0 |\n| 61 | 61 | 0 | 10 | 55 | 61 | 14 | 4 | 398 | 61 | 15 | 6 | 62 | 309 | 53 |\n| 62 | 62 | 0 | 11 | 5 | 62 | 25 | 1 | 602 | 62 | 15 | 12 | 63 | 320[?] | 46 |\n| 63 | 63 | 0 | 11 | 16 | 63 | 6 | 10 | 13 | 63 | 15 | 18 | 64 | 331 | 39 |\n| 64 | 64 | 0 | 11 | 27 | 64 | 17 | 7 | 217 | 64 | 16 | 0 | 65 | 342 | 32 |\n| 65 | 65 | 0 | 11 | 38 | 65 | 28 | 4 | 421 | 65 | 16 | 6 | 66 | 353 | 25 |\n| 66 | 66 | 0 | 11 | 48 | 66 | 9 | 12 | 912 | 66 | 16 | 12 | 68[?] | 9 | 18 |\n| 67 | 67 | 0 | 11 | 59 | 67 | 20 | 10 | 36 | 67 | 16 | 18 | 69 | 20 | 11 |\n| 68 | 68 | 0 | 11[?] | 10 | 68 | 1 | 21 | 527 | 68 | 17 | 0 | 70 | 31 | 4 |\n| 69 | 69 | 0 | 12 | 21 | 69 | 12 | 15 | 735 | 69 | 17 | 6 | 71 | 41 | 57 |\n| 70 | 70 | 0 | 12 | 31 | 70 | 23 | 12 | 935 | 70 | 17 | 12 | 72 | 52 | 50 |\n| 71 | 71 | 0 | 12 | 42 | 71 | 4 | 21 | 346 | 71 | 17 | 18 | 73 | 63 | 43 |\n| 72 | 72 | 0 | 12 | 53 | 72 | 15 | 18 | 550 | 72 | 18 | 0 | 74 | 74 | 36 |\n| 73 | 73 | 0 | 13 | 4 | 73 | 26 | 15 | 754 | 73 | 18 | 6 | 75 | 85 | 29 |\n| 74 | 74 | 0 | 13 | 14 | 74 | 8 | 0 | 165 | 74 | 18 | 12 | 76 | 96 | 22 |\n| 75 | 75 | 0 | 13 | 25 | 75 | 18 | 21 | 369 | 75 | 18 | 18 | 77 | 107 | 15 |\n| 76 | 76 | 0 | 13 | 36 | 76 | 0 | 5 | 860 | 76 | 19 | 0 | 78 | 118 | 8 |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Linha 52 coluna 'Anni Tropici': impresso parece '52 9 9 18' — primeira célula após o ano parece mostrar '9' onde deveria ser '0' (erro tipográfico provável no original).",
+    "Linha 62 coluna Árabe 'Dies': valor impresso parece truncado/borrado, lido como 320 por interpolação com sequência 309, 331.",
+    "Linha 66 coluna Árabe: número do ano impresso como 68 (seria esperado 67 na sequência), possivelmente erro tipográfico do original.",
+    "Linha 68 coluna Horae (Tropici): lido como '11' mas a sequência esperada seria '12' (segue 11 59 e precede 12 21).",
+    "Palavra da coluna 'Anni Iudaini expansi' (cabeçalho vertical) de leitura incerta."
+  ],
+  "notes": "Página de tabela pura (Residuum Tabulae Annorum Expansorum), continuação dos anos 41–76. Reclamo 'TABULA' no rodapé indica continuação na página seguinte. Várias discrepâncias tipográficas aparentes marcadas com [?].",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T19:24:30Z",
+    "input_tokens": 7748,
+    "output_tokens": 3463
+  }
+}

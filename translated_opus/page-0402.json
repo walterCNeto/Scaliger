@@ -1,0 +1,38 @@
+{
+  "page": 402,
+  "page_type": "table",
+  "latin": "De Emendat. Temporum Lib. IIII.\n\nSuperest, ut Hemerologium nostrum Tabula lunari instruamus, ac menses Iudaicos in eo designemus. Construatur igitur Tabula primum ad 76 annos expansos, ut factum est in Solari, deinde in annos collectos, ut patet in exemplo subiecto.\n\nTABULA NOVILUNIORUM ZYGONOS IN ANNIS EXPANSIS.",
+  "pt": "Resta que instruamos nosso Hemerológio com uma Tábua lunar, e nele designemos os meses judaicos. Construa-se, portanto, a Tábua primeiramente para 76 anos expansos, como foi feito na Solar, e depois para anos coletos, como fica evidente no exemplo abaixo.\n\nTÁBUA DOS NOVILÚNIOS ZÍGONOS NOS ANOS EXPANSOS.\n\n(Tabela de 76 anos com novilúnios; ver campo tables.)",
+  "en": "It remains to furnish our Hemerologium with a lunar Table, and therein to designate the Jewish months. Let the Table therefore be constructed first for 76 expanded years, as was done in the Solar one, and then for collected years, as appears in the example below.\n\nTABLE OF ZYGON NEW MOONS IN EXPANDED YEARS.\n\n(Table of 76 years with new moons; see tables field.)",
+  "tables": [
+    {
+      "caption_pt": "Tábua dos novilúnios zígonos nos anos expansos (76 anos). Colunas: Anos expansos | Caráter do novilúnio (Feria, Hora 12, Escrúpulos 1080) | Ciclo Juliano (letras dominicais) | Neomênias nos meses julianos | Epacta Trópica | Epacta Juliana | Ciclo Lunar Judaico. Emb. = ano embolísmico.",
+      "caption_en": "Table of Zygon new moons in expanded years (76 years). Columns: Expanded years | Character of new moon (Feria, Hour 12, Scruples 1080) | Julian Cycle (dominical letters) | Neomenias in Julian months | Tropical Epact | Julian Epact | Jewish Lunar Cycle. Emb. = embolismic year.",
+      "markdown": "| Anni exp. | Feria | Hora 12 | Scrup. 1080 | Cycli ☉ Iuliani | Neomeniae in mensib. Iulianis | Epacta Tropica | Epacta Iuliana | Cyclus ☽ Iudaic. |\n|---|---|---|---|---|---|---|---|---|\n| Emb. 1 | 2 | 5 | 243 | E | 27 Octo. | 29 | 26 | 2 |\n| 2 | 1 | 2 | 832 | DC | 14 Nou. | 11 | 8 | 3 |\n| Emb. 3 | 5 | 11 | 628 | B | 3 Nou. | 22 | 19 | 4 |\n| 4 | 4 | 9 | 137 | A | 22 Nou. | 3 | 29 | 5 |\n| 5 | 1 | 17 | 1013 | G | 11 Nou. | 14 | 11 | 6 |\n| Emb. 6 | 6 | 2 | 809 | FE | 31 Octo. | 25 | 22 | 7 |\n| 7 | 5 | 0 | 318 | DC | 19 Nou. | 6 | 3 | 8 |\n| 8 | 2 | 9 | 114 | C | 8 Nou. | 17 | 14 | 9 |\n| Emb. 9 | 6 | 17 | 990 | B | 28 Octo. | 28 | 25 | 10 |\n| 10 | 5 | 15 | 499 | AG | 15 Nou. | 10 | 7 | 11 |\n| Emb. 11 | 3 | 0 | 295 | F | 5 Nou. | 20 | 17 | 12 |\n| 12 | 1 | 21 | 884 | E | 24 Nou. | 1 | 27 | 13 |\n| 13 | 6 | 6 | 680 | D | 13 Nou. | 12 | 9 | 14 |\n| Emb. 14 | 3 | 15 | 476 | CB | 1 Nou. | 24 | 21 | 15 |\n| 15 | 2 | 12 | 1065 | A | 20 Nou. | 5 | 2 | 16 |\n| 16 | 6 | 21 | 861 | G | 9 Nou. | 16 | 13 | 17 |\n| Emb. 17 | 4 | 6 | 657 | F | 30 Octo. | 26 | 23 | 18 |\n| 18 | 3 | 4 | 166 | ED | 17 Nou. | 8 | 5 | 19 |\n| 19 | 7 | 12 | 1042 | C | 6 Nou. | 19 | 16 | 1 |\n| Emb. 20 | 4 | 21 | 838 | B | 27 Octo. | 0 | 26 | 2 |\n| 21 | 3 | 19 | 347 | A | 15 Nou. | 10 | 7 | 3 |\n| Emb. 22 | 1 | 4 | 143 | GF | 3 Nou. | 22 | 19 | 4 |\n| 23 | 7 | 1 | 732 | E | 22 Nou. | 3 | 0.28 | 5 |\n| 24 | 4 | 10 | 528 | D | 11 Nou. | 14 | 11 | 6 |\n| Emb. 25 | 1 | 19 | 324 | C | 1 Nou. | 24 | 21 | 7 |\n| 26 | 7 | 16 | 913 | BA | 18 Nou. | 7 | 4 | 8 |\n| 27 | 5 | 1 | 709 | G | 8 Nou. | 17 | 14 | 9 |\n| Emb. 28 | 2 | 10 | 505 | F | 28 Octo. | 28 | 25 | 10 |\n| 29 | 1 | 8 | 14 | E | 16 Nou. | 9 | 6 | 11 |\n| Emb. 30 | 5 | 16 | 890 | DC | 4 Nou. | 21 | 18 | 12 |\n| 31 | 4 | 14 | 399 | B | 23 Nou. | 2 | 28 | 13 |\n| 32 | 1 | 23 | 195 | A | 13 Nou. | 12 | 9 | 14 |\n| Emb. 33 | 6 | 7 | 1071 | G | 2 Nou. | 13 | 20 | 15 |\n| 34 | 5 | 5 | 580 | FE | 20 Nou. | 5 | 2 | 16 |\n| 35 | 2 | 14 | 376 | D | 9 Nou. | 16 | 13 | 17 |\n| Emb. 36 | 6 | 23 | 172 | C | 30 Octo. | 26 | 23 | 18 |\n| 37 | 5 | 20 | 761 | B | 18 Nou. | 7 | 4 | 19 |\n| 38 | 3 | 5 | 557 | AG | 6 Nou. | 19 | 16 | 1 |\n| Emb. 39 | 7 | 14 | 353 | F | 26 Octo. | 0 | 27 | 2 |\n| 40 | 6 | 11 | 942 | E | 14 Nou. | 11 | 8 | 3 |\n| Emb. 41 | 3 | 20 | 738 | D | 4 Nou. | 21 | 18 | 4 |\n| 42 | 2 | 18 | 247 | CB | 22 Nou. | 3 | 0.29 | 5 |\n| 43 | 7 | 3 | 43 | A | 11 Nou. | 14 | 11 | 6 |\n| Emb. 44 | 4 | 11 | 919 | G | 30 Octo. | 26 | 23 | 7 |\n| 45 | 3 | 9 | 428 | F | 19 Nou. | 6 | 3 | 8 |\n| 46 | 7 | 18 | 224 | ED | 8 Nou. | 17 | 14 | 9 |\n| Emb. 47 | 5 | 3 | 20 | C | 28 Octo. | 28 | 25 | 10 |\n| 48 | 4 | 0 | 609 | B | 16 Nou. | 9 | 6 | 11 |\n| Emb. 49 | 1 | 9 | 405 | A | 5 Nou. | 20 | 17 | 12 |\n| 50 | 7 | 6 | 994 | GF | 25 Nou. | 0.29 | 26 | 13 |\n| 51 | 4 | 15 | 790 | E | 12 Nou. | 13 | 10 | 14 |\n| Emb. 52 | 2 | 0 | 586 | ED | 2 Nou. | 23 | 20 | 15 |\n| 53 | 7 | 22 | 95 | C | 21 Nou. | 4 | 1 | 16 |\n| 54 | 5 | 6 | 971 | BA | 9 Nou. | 16 | 13 | 17 |\n| Emb. 55 | 2 | 15 | 767 | G | 29 Octo. | 27 | 24 | 18 |\n| 56 | 1 | 13 | 276 | F | 17 Nou. | 8 | 5 | 19 |\n| 57 | 5 | 22 | 71 | E | 7 Nou. | 18 | 15 | 1 |\n| Emb. 58 | 3 | 6 | 948 | DC | 26 Octo. | 0 | 27 | 2 |\n| 59 | 2 | 4 | 457 | B | 14 Nou. | 11 | 8 | 3 |\n| Emb. 60 | 6 | 13 | 253 | A | 3 Nou. | 22 | 19 | 4 |\n| 61 | 5 | 10 | 842 | G | 22 Nou. | 3 | 0.29 | 5 |\n| 62 | 2 | 19 | 638 | FE | 11 Nou. | 14 | 11 | 6 |\n| Emb. 63 | 7 | 4 | 434 | D | 31 Octo. | 25 | 22 | 7 |\n| 64 | 6 | 0 | 1023 | C | 19 Nou. | 6 | 3 | 8 |\n| 65 | 3 | 10 | 819 | B | 8 Nou. | 17 | 14 | 9 |\n| Emb. 66 | 7 | 19 | 615 | AG | 28 Octo. | 28 | 25 | 10 |\n| 67 | 6 | 17 | 124 | F | 16 Nou. | 9 | 6 | 11 |\n| Emb. 68 | 4 | 1 | 1000 | E | 5 Nou. | 20 | 17 | 12 |\n| 69 | 2 | 23 | 509 | D | 24 Nou. | 1 | 27 | 13 |\n| 70 | 7 | 8 | 305 | CB | 12 Nou. | 13 | 10 | 14 |\n| Emb. 71 | 4 | 17 | 101 | A | 1 Nou. | 24 | 21 | 15 |\n| 72 | 3 | 14 | 690 | G | 20 Nou. | 5 | 2 | 16 |\n| 73 | 7 | 23 | 486 | F | 10 Nou. | 15 | 12 | 17 |\n| Emb. 74 | 5 | 8 | 282 | ED | 29 Octo. | 27 | 24 | 18 |\n| 75 | 4 | 5 | 871 | C | 17 Nou. | 8 | 5 | 19 |\n| 76 | 1 | 14 | 667 | B | 6 Nou. | 19 | 16 | 1 |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "Tabula novilúniorum zygonos in annis expansis — tábua completa de conjunções lunares (novilúnios) para 76 anos, com feria, hora, escrúpulos (1/1080 de hora), letras dominicais julianas, datas de neomênias nos meses julianos, epactas trópica e juliana, e posição no ciclo lunar judaico de 19 anos.",
+      "historical_date_as_cited": "76 anos expansos (ciclo calipico/zygon)",
+      "location": "",
+      "ancient_source": ""
+    }
+  ],
+  "uncertainty_flags": [
+    "Ano 23, coluna Epacta Iuliana: leitura '0.28' incerta (pode ser notação especial de Scaliger para epacta próxima de zero).",
+    "Ano 42 e 61, coluna Epacta Iuliana: leitura '0.29' igualmente incerta.",
+    "Ano 50, coluna Epacta Tropica: '0.29' — leitura ambígua no scan.",
+    "Ano 33, coluna Epacta Tropica: leitura '13' incerta; pode ser outro dígito.",
+    "Várias células com dígitos tênues devido à qualidade do scan; transcrição feita conforme a aparência mais provável."
+  ],
+  "notes": "Página apresenta uma tábua astronômica densa dos novilúnios zígonos (conjunções médias) para 76 anos, culminando o tratamento do Hemerológio no Livro IV. O texto introdutório anuncia que a tábua será construída primeiro em anos expansos e depois em anos coletos, paralelamente ao que foi feito para o ciclo solar. 'Scrup. 1080' refere-se aos escrúpulos hebraicos (ḥalaqim) — 1/1080 de hora. Anos embolísmicos marcados 'Emb.' seguem o padrão metônico. Custódio final: 'Dd 4' e reclamo 'TABULA'.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T19:08:13Z",
+    "input_tokens": 7748,
+    "output_tokens": 4941
+  }
+}

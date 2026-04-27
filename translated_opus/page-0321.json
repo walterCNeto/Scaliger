@@ -1,0 +1,33 @@
+{
+  "page": 321,
+  "page_type": "mixed",
+  "latin": "men profitetur Plutarchus se ex Varrone, Varronem ipsum ex L. Tarrutio Firmano summo Mathematico didicisse. Cum igitur Plutarchus menses Aegyptiorum fixos agnoscat, eosdemque apud veterem scriptorem Christianum Clementem Alexandrinum exstare videamus: denique cum constet ab Augusti temporibus fixos fuisse: quam falluntur ij, qui eorum Mensium autorem statuunt Diocletianum! Et cum sint Astronomicarum rerum peritissimi, cur non cogitarunt, Thoth Nabonassari vagum, si anno primo Diocletiani fixus fuisset, non in 29 Augusti, sed in 10 Iulij statui debuisse? Sed omnis orbis Romanus etiam post indictiones Constantinianas, ad tempora usque Iustiniani Imperatoris, annis Diocletiani usus est: qui & hodie in usu sunt Aegyptiis sive Elkupti Christianis. Eorum annorum initium est a Thoth anni Christi Dionysiani 284, cyclo Solis Iuliano XIII, Lunae XIX, cyclo Solis Actiaco VI, feria VI, anno Actiaco 314. Proinde illorum cyclus Solis inci-",
+  "pt": "tudavia Plutarco declara ter aprendido isso de Varrão, e o próprio Varrão, de L. Tarrúcio Firmano, excelso matemático. Visto, pois, que Plutarco reconhece os meses dos egípcios como fixos, e que os vemos assim também no antigo escritor cristão Clemente Alexandrino, e finalmente visto ser certo que foram fixos desde os tempos de Augusto — como se enganam aqueles que estabelecem Diocleciano como autor desses meses! E sendo eles peritíssimos em questões astronômicas, por que não consideraram que o Thoth de Nabonassar é errante, e que, se tivesse sido fixado no primeiro ano de Diocleciano, deveria ter sido estabelecido não em 29 de agosto, mas em 10 de julho? Mas todo o orbe romano, mesmo depois das indicções constantinianas, até os tempos do imperador Justiniano, utilizou os anos de Diocleciano: os quais ainda hoje estão em uso entre os egípcios, ou Elkupti cristãos. O início desses seus anos é a partir do Thoth do ano de Cristo dionisiano 284, no ciclo solar juliano XIII, lunar XIX, ciclo solar Acciaco VI, féria VI, ano Acciaco 314. Por conseguinte, o ciclo solar deles começa-",
+  "en": "nevertheless Plutarch professes that he learned this from Varro, and that Varro himself learned it from L. Tarrutius Firmanus, the eminent mathematician. Since, then, Plutarch recognizes the Egyptian months as fixed, and we see the same in the ancient Christian writer Clement of Alexandria, and finally since it is established that they were fixed from the time of Augustus: how mistaken are those who make Diocletian the author of these months! And since they are most skilled in astronomical matters, why did they not consider that the Thoth of Nabonassar is wandering, and that, had it been fixed in the first year of Diocletian, it ought to have been established not on 29 August but on 10 July? But the whole Roman world, even after the Constantinian indictions, used the years of Diocletian down to the time of the Emperor Justinian: which are even today in use among the Egyptians, or Elkupti Christians. The beginning of their years is from the Thoth of the Dionysian year of Christ 284, in Julian solar cycle XIII, lunar XIX, Actiac solar cycle VI, weekday VI, Actiac year 314. Accordingly their solar cycle begins-",
+  "tables": [
+    {
+      "caption_pt": "Tabela marginal: ciclos solares Elkupti e Juliano, Plinthios, Féria de Thoth (28 linhas)",
+      "caption_en": "Marginal table: Elkupti and Julian Solar Cycles, Plinthios, Thoth weekday (28 rows)",
+      "markdown": "| Cyclus Solaris Elkupti | Cyclus Solaris Iulianus | Plinthios | Feria Thoth |\n|---|---|---|---|\n| 1 | 13 | 3 | 6 |\n| 2 | 14 | 4 | 7 |\n| 3 | 15 | 5 | 1 |\n| 4 | 16 | 7 | 3 |\n| 5 | 17 | 1 | 4 |\n| 6 | 18 | 2 | 5 |\n| 7 | 19 | 3 | 6 |\n| 8 | 20 | 5 | 1 |\n| 9 | 21 | 6 | 2 |\n| 10 | 22 | 7 | 3 |\n| 11 | 23 | 1 | 4 |\n| 12 | 24 | 3 | 6 |\n| 13 | 25 | 4 | 7 |\n| 14 | 26 | 5 | 1 |\n| 15 | 27 | 6 | 2 |\n| 16 | 28 | 1 | 4 |\n| 17 | 1 | 2 | 5 |\n| 18 | 2 | 3 | 6 |\n| 19 | 3 | 4 | 7 |\n| 20 | 4 | 6 | 2 |\n| 21 | 5 | 7 | 3 |\n| 22 | 6 | 1 | 4 |\n| 23 | 7 | 2 | 5 |\n| 24 | 8 | 4 | 7 |\n| 25 | 9 | 5 | 1 |\n| 26 | 10 | 6 | 2 |\n| 27 | 11 | 7 | 3 |\n| 28 | 12 | 2 | 5 |"
+    },
+    {
+      "caption_pt": "LATERCULUS MENSIUM ACTIACORUM — Lista dos meses ácciacos: nomes dos meses egípcios (em árabe, transliteração latina, e copta/grega) e dos meses etíopes (em etiópico e transliteração), com dois caracteres numéricos (Character mensium / Alter character).",
+      "caption_en": "LATERCULUS MENSIUM ACTIACORUM — List of Actiac months: names of the Egyptian months (in Arabic, Latin transliteration, and Coptic/Greek) and of the Ethiopian months (in Ethiopic and transliteration), with two numerical characters (Character mensium / Alter character).",
+      "markdown": "| Arabic | Aegypt. (Lat. translit.) | Coptic | Ethiopic | Aethiop. (Lat. translit.) | Character mensium | Alter character |\n|---|---|---|---|---|---|---|\n| دوت | Tuth | Θωθ | መስከረም | Mascaram | 0 | 3 |\n| بابه | Pape | Παωφι | ጥቅምት | Tikmith | 2 | 5 |\n| هتور | Hathur | Αθυρ | ኅዳር | Hadar | 4 | 7 |\n| كيهك | Chiach | Χοιακ | ታኅሣሥ | Tachsas | 6 | 2 |\n| طوبه | Tube | Τυβι | ጥር | Tir | 1 | 4 |\n| امشير | Amschir | Μεχειρ | የካቲት | Iachathith | 3 | 6 |\n| برمهات | Parmahath | Φαμενωθ | መጋቢት | Magabith | 5 | 1 |\n| برموده | Parmude | Φαρμουθι | ሚያዝያ | Miazia | 7 | 3 |\n| بشنس | Paschnes | Παχων | ግንቦት | Ginboth | 2 | 5 |\n| بونه | Payne | Παυνι | ሰኔ | Sene | 4 | 7 |\n| ابيب | Epip | Επιφι | ሐምሌ | Hamle | 6 | 2 |\n| مسرى | Mesori | Μεσορι | ነሐሴ | Nahase | 1 | 4 |\n| النسي | Nisi | ἐπαγόμεναι | ጳጉሜን | Pagomen | 3 | 6 |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Alguns valores da tabela marginal (Plinthios / Feria Thoth) foram lidos de uma coluna estreita e podem conter pequenos erros de leitura; conferir o original.",
+    "As grafias etiópicas (ge'ez) foram transcritas a partir de caracteres pouco nítidos no scan; representam os nomes convencionais (Mäskäräm, Ṭəqəmt, Ḫədar, etc.) mas os glifos exatos podem diferir ligeiramente.",
+    "A palavra de rodapé 'pit a' (catchword) aparentemente antecipa 'pit a...' (início de 'incipit a...') da página seguinte."
+  ],
+  "notes": "A página discute a fixidez dos meses egípcios desde Augusto (contra a atribuição a Diocleciano), a manutenção dos anos de Diocleciano pelos coptas ('Elkupti Christianis'), e apresenta na parte inferior o 'Laterculus Mensium Actiacorum', tabela quadrilíngue dos meses ácciacos em árabe, copta (transliterado e em grego), e etíope.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T18:10:15Z",
+    "input_tokens": 7748,
+    "output_tokens": 3371
+  }
+}

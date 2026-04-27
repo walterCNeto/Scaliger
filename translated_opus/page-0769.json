@@ -1,0 +1,64 @@
+{
+  "page": 769,
+  "page_type": "table",
+  "latin": "",
+  "pt": "Tabela cronológica correlacionando os meses etíopes (Tir, Iachathith, Magabith, Miazia, Ginboth, Sane, Hamle, Nachase) com os meses egípcios correspondentes (Tybi, Mechir, Phamenoth, Pharmuthi, Pachon, Payni, Epiphi, Mesori) e com o calendário juliano. Ver tabela completa em 'tables'.",
+  "en": "Chronological table correlating the Ethiopic months (Tir, Iachathith, Magabith, Miazia, Ginboth, Sane, Hamle, Nachase) with the corresponding Egyptian months (Tybi, Mechir, Phamenoth, Pharmuthi, Pachon, Payni, Epiphi, Mesori) and with the Julian calendar. See full table in 'tables'.",
+  "tables": [
+    {
+      "caption_pt": "Tir / Tybi — correspondência dos dias com letras dominicais, epactas e dias do mês juliano (janeiro)",
+      "caption_en": "Tir / Tybi — correspondence of days with dominical letters, epacts and Julian month days (January)",
+      "markdown": "| Tir | col2 | col3 | Jul. |\n|---|---|---|---|\n| I | 4 |  | 27 |\n| II | 5 | XVI | 28 |\n| III | 6 | V | 29 |\n| IV | 7 |  | 30 |\n| V | 1 | XIII | 31 |\n| VI | 2 | II | 1 Ian. |\n| VII | 3 |  | 2 |\n| VIII | 4 | X | 3 |\n| IX | 5 |  | 4 |\n| X | 6 | XVIII | 5 |\n| XI | 7 | VII | 6 |\n| XII | 1 |  | 7 |\n| XIII | 2 | XV | 8 |\n| XIV | 3 | IV | 9 |\n| XV | 4 |  | 10 |\n| XVI | 5 | XII | 11 |\n| XVII | 6 | I | 12 |\n| XVIII | 7 |  | 13 |\n| XIX | 1 | IX | 14 |\n| XX | 2 |  | 15 |\n| XXI | 3 | XVII | 16 |\n| XXII | 4 | VI | 17 |\n| XXIII | 5 |  | 18 |\n| XXIV | 6 | XIV | 19 |\n| XXV | 7 | III | 20 |\n| XXVI | 1 |  | 21 |\n| XXVII | 2 | XI | 22 |\n| XXVIII | 3 | XIX | 23 |\n| XXIX | 4 | VIII | 24 |\n| XXX | 5 |  | 25 |"
+    },
+    {
+      "caption_pt": "Iachathith / Mechir — correspondência dos dias",
+      "caption_en": "Iachathith / Mechir — correspondence of days",
+      "markdown": "| Iach. | col2 | col3 | Jul. |\n|---|---|---|---|\n| I | 6 |  | 26 |\n| II | 7 | XVI | 27 |\n| III | 1 | V | 28 |\n| IV | 2 |  | 29 |\n| V | 3 | XIII | 30 |\n| VI | 4 | II | 31 |\n| VII | 5 |  | 1 Feb. |\n| VIII | 6 | X | 2 |\n| IX | 7 |  | 3 |\n| X | 1 | XVIII | 4 |\n| XI | 2 | VII | 5 |\n| XII | 3 |  | 6 |\n| XIII | 4 | XV | 7 |\n| XIV | 5 | IV | 8 |\n| XV | 6 |  | 9 |\n| XVI | 7 | XII | 10 |\n| XVII | 1 | I | 11 |\n| XVIII | 2 |  | 12 |\n| XIX | 3 | IX | 13 |\n| XX | 4 |  | 14 |\n| XXI | 5 | XVII | 15 |\n| XXII | 6 | VI | 16 |\n| XXIII | 7 |  | 17 |\n| XXIV | 1 | XIV | 18 |\n| XXV | 2 | III | 19 |\n| XXVI | 3 |  | 20 |\n| XXVII | 4 | XI | 21 |\n| XXVIII | 5 | XIX | 22 |\n| XXIX | 6 | VIII | 23 |\n| XXX | 7 |  | 24 |"
+    },
+    {
+      "caption_pt": "Magabith / Phamenoth — correspondência dos dias",
+      "caption_en": "Magabith / Phamenoth — correspondence of days",
+      "markdown": "| Mag. | col2 | col3 | Jul. |\n|---|---|---|---|\n| I | 1 | XVI | 25 |\n| II | 2 | V | 26 |\n| III | 3 |  | 27 |\n| IV | 4 | XIII | 28 |\n| V | 5 | II | 1 Mar. |\n| VI | 6 |  | 2 |\n| VII | 7 | X | 3 |\n| VIII | 1 |  | 4 |\n| IX | 2 | XVIII | 5 |\n| X | 3 | VII | 6 |\n| XI | 4 |  | 7 |\n| XII | 5 | XV | 8 |\n| XIII | 6 | IV | 9 |\n| XIV | 7 |  | 10 |\n| XV | 1 | XII | 11 |\n| XVI | 2 | I | 12 |\n| XVII | 3 |  | 13 |\n| XVIII | 4 | IX | 14 |\n| XIX | 5 |  | 15 |\n| XX | 6 | XVII | 16 |\n| XXI | 7 | VI | 17 |\n| XXII | 1 |  | 18 |\n| XXIII | 2 | XIV | 19 |\n| XXIV | 3 | III | 20 |\n| XXV | 4 |  | 21 |\n| XXVI | 5 | XI | 22 |\n| XXVII | 6 | XIX | 23 |\n| XXVIII | 7 | VIII | 24 |\n| XXIX | 1 |  | 25 |\n| XXX | 2 |  | 26 |"
+    },
+    {
+      "caption_pt": "Miazia / Pharmuthi — correspondência dos dias",
+      "caption_en": "Miazia / Pharmuthi — correspondence of days",
+      "markdown": "| Miaz. | col2 | col3 | Jul. |\n|---|---|---|---|\n| I | 3 | XVI | 27 |\n| II | 4 | V | 28 |\n| III | 5 |  | 29 |\n| IV | 6 | XIII | 30 |\n| V | 7 | II | 31 |\n| VI | 1 |  | 1 Apr. |\n| VII | 2 | X | 2 |\n| VIII | 3 |  | 3 |\n| IX | 4 | XVIII | 4 |\n| X | 5 | VII | 5 |\n| XI | 6 |  | 6 |\n| XII | 7 | XV | 7 |\n| XIII | 1 | IV | 8 |\n| XIV | 2 |  | 9 |\n| XV | 3 | XII | 10 |\n| XVI | 4 | I | 11 |\n| XVII | 5 |  | 12 |\n| XVIII | 6 | IX | 13 |\n| XIX | 7 |  | 14 |\n| XX | 1 | XVII | 15 |\n| XXI | 2 | VI | 16 |\n| XXII | 3 |  | 17 |\n| XXIII | 4 | XIV | 18 |\n| XXIV | 5 | III | 19 |\n| XXV | 6 |  | 20 |\n| XXVI | 7 | XI | 21 |\n| XXVII | 1 | XIX | 22 |\n| XXVIII | 2 | VIII | 23 |\n| XXIX | 3 |  | 24 |\n| XXX | 4 |  | 25 |"
+    },
+    {
+      "caption_pt": "Ginboth / Pachon — correspondência dos dias",
+      "caption_en": "Ginboth / Pachon — correspondence of days",
+      "markdown": "| Ginb. | col2 | col3 | Jul. |\n|---|---|---|---|\n| I | 5 | V | 26 |\n| II | 6 |  | 27 |\n| III | 7 | XII | 28 |\n| IV | 1 |  | 29 |\n| V | 2 | II | 30 |\n| VI | 3 | X | 1 Mai. |\n| VII | 4 |  | 2 |\n| VIII | 5 | XVIII | 3 |\n| IX | 6 | VII | 4 |\n| X | 7 |  | 5 |\n| XI | 1 | XV | 6 |\n| XII | 2 | IV | 7 |\n| XIII | 3 |  | 8 |\n| XIV | 4 | XII | 9 |\n| XV | 5 | I | 10 |\n| XVI | 6 |  | 11 |\n| XVII | 7 | IX | 12 |\n| XVIII | 1 |  | 13 |\n| XIX | 2 | XVII | 14 |\n| XX | 3 | VI | 15 |\n| XXI | 4 |  | 16 |\n| XXII | 5 | XIV | 17 |\n| XXIII | 6 | III | 18 |\n| XXIV | 7 |  | 19 |\n| XXV | 1 | XI | 20 |\n| XXVI | 2 | XIX | 21 |\n| XXVII | 3 |  | 22 |\n| XXVIII | 4 | X | 23 |\n| XXIX | 5 |  | 24 |\n| XXX | 6 | XVI | 25 |"
+    },
+    {
+      "caption_pt": "Sane / Payni — correspondência dos dias",
+      "caption_en": "Sane / Payni — correspondence of days",
+      "markdown": "| Sane | col2 | col3 | Jul. |\n|---|---|---|---|\n| I | 7 | V | 26 |\n| II | 1 |  | 27 |\n| III | 2 | XIII | 28 |\n| IV | 3 | II | 29 |\n| V | 4 |  | 30 |\n| VI | 5 | X | 31 |\n| VII | 6 |  | 1 Iuni. |\n| VIII | 7 | XVIII | 2 |\n| IX | 1 | VII | 3 |\n| X | 2 |  | 4 |\n| XI | 3 | XV | 5 |\n| XII | 4 | IV | 6 |\n| XIII | 5 |  | 7 |\n| XIV | 6 | XII | 8 |\n| XV | 7 | I | 9 |\n| XVI | 1 |  | 10 |\n| XVII | 2 | IX | 11 |\n| XVIII | 3 |  | 12 |\n| XIX | 4 | XVII | 13 |\n| XX | 5 | VI | 14 |\n| XXI | 6 | XIV | 15 |\n| XXII | 7 |  | 16 |\n| XXIII | 5 | III | 17 |\n| XXIV | 1 |  | 18 |\n| XXV | 2 | XI | 19 |\n| XXVI | 4 | XIX | 20 |\n| XXVII | 5 |  | 21 |\n| XXVIII | 6 | X | 22 |\n| XXIX | 7 |  | 23 |\n| XXX | 1 | XVI | 24 |"
+    },
+    {
+      "caption_pt": "Hamle / Epiphi — correspondência dos dias",
+      "caption_en": "Hamle / Epiphi — correspondence of days",
+      "markdown": "| Hamle | col2 | col3 | Jul. |\n|---|---|---|---|\n| I | 2 |  | 25 |\n| II | 3 | XIII | 26 |\n| III | 4 | II | 27 |\n| IV | 5 |  | 28 |\n| V | 6 | X | 29 |\n| VI | 7 |  | 30 |\n| VII | 1 | XVIII | 1 Iuli. |\n| VIII | 2 | VII | 2 |\n| IX | 3 |  | 3 |\n| X | 4 | XV | 4 |\n| XI | 5 | IV | 5 |\n| XII | 6 |  | 6 |\n| XIII | 7 | XII | 7 |\n| XIV | 1 | I | 8 |\n| XV | 2 |  | 9 |\n| XVI | 3 | IX | 10 |\n| XVII | 4 |  | 11 |\n| XVIII | 5 | XVII | 12 |\n| XIX | 6 | VI | 13 |\n| XX | 7 |  | 14 |\n| XXI | 1 | XIV | 15 |\n| XXII | 2 | III | 16 |\n| XXIII | 3 |  | 17 |\n| XXIV | 4 | XI | 18 |\n| XXV | 5 | XIX | 19 |\n| XXVI | 6 |  | 20 |\n| XXVII | 7 | X | 21 |\n| XXVIII | 1 |  | 22 |\n| XXIX | 2 | XVI | 23 |\n| XXX | 3 |  | 24 |"
+    },
+    {
+      "caption_pt": "Nachase / Mesori — correspondência dos dias",
+      "caption_en": "Nachase / Mesori — correspondence of days",
+      "markdown": "| Nach. | col2 | col3 | Jul. |\n|---|---|---|---|\n| I | 4 |  | 25 |\n| II | 5 | XIII | 26 |\n| III | 6 | II | 27 |\n| IV | 7 |  | 28 |\n| V | 1 | X | 29 |\n| VI | 2 |  | 30 |\n| VII | 3 | XVIII | 31 |\n| VIII | 4 | VII | 1 Aug. |\n| IX | 5 |  | 2 |\n| X | 6 | XV | 3 |\n| XI | 7 | IV | 4 |\n| XII | 1 |  | 5 |\n| XIII | 2 | XII | 6 |\n| XIV | 3 | I | 7 |\n| XV | 4 |  | 8 |\n| XVI | 5 | IX | 9 |\n| XVII | 6 |  | 10 |\n| XVIII | 7 | XVII | 11 |\n| XIX | 1 | VI | 12 |\n| XX | 2 |  | 13 |\n| XXI | 3 | XIV | 14 |\n| XXII | 4 | III | 15 |\n| XXIII | 5 |  | 16 |\n| XXIV | 6 | XI | 17 |\n| XXV | 7 | XIX | 18 |\n| XXVI | 1 |  | 19 |\n| XXVII | 2 | X | 20 |\n| XXVIII | 3 |  | 21 |\n| XXIX | 4 | XVI | 22 |\n| XXX | 5 |  | 23 |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Página com marca d'água 'Digitized by Google' e borda escura à esquerda dificultando leitura de alguns dígitos das colunas de letras dominicais.",
+    "Número da página lido como 686 na parte superior (impressão original), embora a numeração do PDF seja 769.",
+    "Indicação 'PLIN-' no canto inferior direito sugere cabeçalho da seção seguinte (provavelmente relativa a Plínio).",
+    "Coluna Sane, linhas XXI-XXIII e XXVI apresentam leitura incerta das letras dominicais (valores 6, 7, 5, 1, 2, 4 podem conter erro de impressão ou de leitura)."
+  ],
+  "notes": "Página inteiramente tabular: oito subtabelas organizadas em duas faixas (quatro meses cada), correlacionando meses etíopes (Tir, Iachathith, Magabith, Miazia, Ginboth, Sane, Hamle, Nachase) com os meses egípcios equivalentes (Tybi, Mechir, Phamenoth, Pharmuthi, Pachon, Payni, Epiphi, Mesori) e com o calendário juliano. As três colunas de cada tabela parecem representar: (1) dia do mês etíope/egípcio; (2) letra dominical / concurrens; (3) epacta lunar (quando presente); (4) dia correspondente no calendário juliano. Marcadores laterais A, B, C, D indicam subdivisões da página.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:16:20Z",
+    "input_tokens": 7748,
+    "output_tokens": 5940
+  }
+}

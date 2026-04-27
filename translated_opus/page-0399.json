@@ -1,0 +1,52 @@
+{
+  "page": 399,
+  "page_type": "table",
+  "latin": "HEMEROLOGIUM CAELESTE\n\n316\n\nZYGON ♎ DIES XXX.    TOXON ♐ DIES XXIX.\n\nSCORPION ♏ DIES XXX.    AEGON ♑ DIES XXIX.",
+  "pt": "HEMEROLÓGIO CELESTE. Página 316. Tabela de quatro signos zodiacais: Balança (Zygon ♎, 30 dias), Sagitário (Toxon ♐, 29 dias), Escorpião (Scorpion ♏, 30 dias) e Capricórnio (Aegon ♑, 29 dias). Cada quadrante apresenta, para cada dia do signo: Dia do signo, Característica (número de 1 a 7, provavelmente letra dominical/feria), Epacta, Ciclo Lunar judaico, Meses Judaicos (Marchesvvan, Caslev, Tebeth, Sebat, Adar Prior, Adar), data juliana correspondente (com mudança de mês: Outubro/Novembro para Zygon; Dezembro/Janeiro para Toxon; Novembro/Dezembro para Scorpion; Janeiro/Fevereiro para Aegon) e Epacta Juliana. Ver tabela completa na seção tables.",
+  "en": "CELESTIAL HEMEROLOGY. Page 316. Table of four zodiacal signs: Libra (Zygon ♎, 30 days), Sagittarius (Toxon ♐, 29 days), Scorpio (Scorpion ♏, 30 days), and Capricorn (Aegon ♑, 29 days). Each quadrant provides, for each day of the sign: day of sign, Character (number 1–7, likely dominical/weekday marker), Epact, Jewish Lunar Cycle, Jewish Months (Marchesvvan, Caslev, Tebeth, Sebat, Adar Prior, Adar), corresponding Julian date (with month transitions: October/November for Zygon; December/January for Toxon; November/December for Scorpion; January/February for Aegon), and Julian Epact. See full table in tables section.",
+  "tables": [
+    {
+      "caption_pt": "ZYGON ♎ DIES XXX (Balança, 30 dias)",
+      "caption_en": "ZYGON ♎ DIES XXX (Libra, 30 days)",
+      "markdown": "| Dies Zygonoc. | Character | Epacta | Cyclus Iud. | Menses Iudaici | Data Iuliana | Epacta Iulianae |\n|---|---|---|---|---|---|---|\n| 1 | 7 | 0 |  |  | 26 Octo. | XXVII |\n| 2 | 1 | 29 | II | MARCHESVVAN | 27 | XXVI |\n| 3 | 2 | 28 | X | MARCHESVVAN | 28 | XXV |\n| 4 | 3 | 27 |  |  | 29 | XXIIII |\n| 5 | 4 | 26 | XVIII | MARCHESVVAN | 30 | XXIII |\n| 6 | 5 | 25 | VII | MARCHESVVAN | 31 | XXII |\n| 7 | 6 | 24 | XV | MARCHESVVAN | 1 Nou. | XXI |\n| 8 | 7 | 23 |  |  | 2 | XX |\n| 9 | 1 | 22 | IIII | MARCHESVVAN | 3 | XIX |\n| 10 | 2 | 21 |  |  | 4 | XVIII |\n| 11 | 3 | 20 | XII | MARCHESVVAN | 5 | XVII |\n| 12 | 4 | 19 | I | MARCHESVVAN | 6 | XVI |\n| 13 | 5 | 18 |  |  | 7 | XV |\n| 14 | 6 | 17 | IX | MARCHESVVAN | 8 | XIIII |\n| 15 | 7 | 16 | XVII | CASLEV | 9 | XIII |\n| 16 | 1 | 15 |  | CASLEV | 10 | XII |\n| 17 | 2 | 14 | VI | CASLEV | 11 | XI |\n| 18 | 3 | 13 |  |  | 12 | X |\n| 19 | 4 | 12 | XIIII | CASLEV | 13 | IX |\n| 20 | 5 | 11 | III | CASLEV | 14 | VIII |\n| 21 | 6 | 10 | XI | CASLEV | 15 | VII |\n| 22 | 7 | 9 |  |  | 16 | VI |\n| 23 | 1 | 8 | XIX | CASLEV | 17 | V |\n| 24 | 2 | 7 |  |  | 18 | IIII |\n| 25 | 3 | 6 | VIII | CASLEV | 19 | III |\n| 26 | 4 | 5 | XVI | CASLEV | 20 | II |\n| 27 | 5 | 4 |  |  | 21 | I |\n| 28 | 6 | 3 | V | CASLEV | 22 | O.XXIX |\n| 29 | 7 | 2 |  |  | 23 | XXVIII |\n| 30 | 1 | 1 | XIII | CASLEV | 24 | XXVII |"
+    },
+    {
+      "caption_pt": "TOXON ♐ DIES XXIX (Sagitário, 29 dias)",
+      "caption_en": "TOXON ♐ DIES XXIX (Sagittarius, 29 days)",
+      "markdown": "| Dies Toxonos. | Character | Epacta | Cyclus Iud. | Menses Iudaici | Data Iuliana | Epacta Iulianae |\n|---|---|---|---|---|---|---|\n| 1 |  | 4 | 29 | II | TEBETH | 25 Dec. | XXVI |\n| 2 | 5 | 28 | X | TEBETH | 26 | XXV |\n| 3 | 6 | 27 |  |  | 27 | XXIIII |\n| 4 | 7 | 26 | XVIII | TEBETH | 28 | XXIII |\n| 5 | 1 | 25 | VII | TEBETH | 29 | XXII |\n| 6 | 2 | 24 | XV | TEBETH | 30 | XXI |\n| 7 | 3 | 23 |  |  | 31 | XX |\n| 8 | 4 | 22 | IIII | TEBETH | 1 Ianuar. | XIX |\n| 9 | 5 | 21 |  |  | 2 | XVIII |\n| 10 | 6 | 20 | XII | TEBETH | 3 | XVII |\n| 11 | 7 | 19 | I | TEBETH | 4 | XVI |\n| 12 | 1 | 18 |  |  | 5 | XV |\n| 13 | 2 | 17 | IX | TEBETH | 6 | XIIII |\n| 14 | 3 | 16 | XVII | SEBAT | 7 | XIII |\n| 15 | 4 | 15 |  |  | 8 | XII |\n| 16 | 5 | 14 | VI | SEBAT | 9 | XI |\n| 17 | 6 | 13 |  |  | 10 | X |\n| 18 | 7 | 12 | XIIII | SEBAT | 11 | IX |\n| 19 | 1 | 11 | III | SEBAT | 12 | VIII |\n| 20 | 2 | 10 | XI | SEBAT | 13 | VII |\n| 21 | 3 | 9 |  |  | 14 | VI |\n| 22 | 4 | 8 | XIX | SEBAT | 15 | V |\n| 23 | 5 | 7 |  |  | 16 | IIII |\n| 24 | 6 | 6 | VIII | SEBAT | 17 | III |\n| 25 | 7 | 5 | XVI | SEBAT | 18 | II |\n| 26 | 1 | 4 |  |  | 19 | I |\n| 27 | 2 | 3 | V | SEBAT | 20 | O.XXIX |\n| 28 | 3 | 2 |  |  | 21 | XXVIII |\n| 29 | 4 | 1 | XIII | SEBAT | 22 | XXVII |"
+    },
+    {
+      "caption_pt": "SCORPION ♏ DIES XXX (Escorpião, 30 dias)",
+      "caption_en": "SCORPION ♏ DIES XXX (Scorpio, 30 days)",
+      "markdown": "| Dies Scorpionos. | Character | Epacta | Cyclus Iud. | Menses Iudaici | Data Iuliana | Epacta Iulianae |\n|---|---|---|---|---|---|---|\n| 1 | 2 | O.29 | II | CASLEV | 25 Nou. | XXVI |\n| 2 | 3 | 28 | X | CASLEV | 26 | XXV |\n| 3 | 4 | 27 |  |  | 27 | XXIIII |\n| 4 | 5 | 26 | XVIII | CASLEV | 28 | XXIII |\n| 5 | 6 | 25 | VII | CASLEV | 29 | XXII |\n| 6 | 7 | 24 | XV | CASLEV | 30 | XXI |\n| 7 | 1 | 23 |  |  | 1 Decem. | XX |\n| 8 | 2 | 22 | IIII | CASLEV | 2 | XIX |\n| 9 | 3 | 21 |  |  | 3 | XVIII |\n| 10 | 4 | 20 | XII | CASLEV | 4 | XVII |\n| 11 | 5 | 19 | I | CASLEV | 5 | XVI |\n| 12 | 6 | 18 |  |  | 6 | XV |\n| 13 | 7 | 17 | IX | CASLEV | 7 | XIIII |\n| 14 | 1 | 16 | XVII | TEBETH | 8 | XIII |\n| 15 | 2 | 15 |  |  | 9 | XII |\n| 16 | 3 | 14 | VI | TEBETH | 10 | XI |\n| 17 | 4 | 13 |  |  | 11 | X |\n| 18 | 5 | 12 | XIIII | TEBETH | 12 | IX |\n| 19 | 6 | 11 | III | TEBETH | 13 | VIII |\n| 20 | 7 | 10 | XI | TEBETH | 14 | VII |\n| 21 | 1 | 9 |  |  | 15 | VI |\n| 22 | 2 | 8 | XIX | TEBETH | 16 | V |\n| 23 | 3 | 7 |  |  | 17 | IIII |\n| 24 | 4 | 6 | VIII | TEBETH | 18 | III |\n| 25 | 5 | 5 | XVI | TEBETH | 19 | II |\n| 26 | 6 | 4 |  |  | 20 | I |\n| 27 | 7 | 3 | V | TEBETH | 21 | O |\n| 28 | 1 | 2 |  |  | 22 | XXIX |\n| 29 | 2 | 1 | XIII | TEBETH | 23 | XXVIII |\n| 30 | 3 | 0 |  |  | 24 | XXVII |"
+    },
+    {
+      "caption_pt": "AEGON ♑ DIES XXIX (Capricórnio, 29 dias)",
+      "caption_en": "AEGON ♑ DIES XXIX (Capricorn, 29 days)",
+      "markdown": "| Dies Aegonos. | Character | Epacta | Cyclus Iud. | Menses Iudaici | Data Iuliana | Epacta Iulianae |\n|---|---|---|---|---|---|---|\n| 1 | 5 | O.29 | II | SEBAT | 23 Ian. | XXVI |\n| 2 | 6 | 28 | X | SEBAT | 24 | XXV |\n| 3 | 7 | 27 |  |  | 25 | XXIIII |\n| 4 | 1 | 26 | XVI | SEBAT | 26 | XXIII |\n| 5 | 2 | 25 | VII | SEBAT | 27 | XXII |\n| 6 | 3 | 24 | XV | SEBAT | 28 | XXI |\n| 7 | 4 | 23 |  |  | 29 | XX |\n| 8 | 5 | 22 | IIII | SEBAT | 30 | XIX |\n| 9 | 6 | 21 |  |  | 31 | XVIII |\n| 10 | 7 | 20 | XII | SEBAT | 1 Febr. | XVII |\n| 11 | 1 | 19 | I | SEBAT | 2 | XVI |\n| 12 | 2 | 18 |  |  | 3 | XV |\n| 13 | 3 | 17 | IX | SEBAT | 4 | XIIII |\n| 14 | 4 | 16 | XVII | ADAR PRIOR | 5 | XIII |\n| 15 | 5 | 15 |  |  | 6 | XII |\n| 16 | 6 | 14 | VI | ADAR PRIOR | 7 | XI |\n| 17 | 7 | 13 |  |  | 8 | X |\n| 18 | 1 | 12 | XIIII | ADAR PRIOR | 9 | IX |\n| 19 | 2 | 11 | III | ADAR PRIOR | 10 | VIII |\n| 20 | 3 | 10 | XI | ADAR PRIOR | 11 | VII |\n| 21 | 4 | 9 |  |  | 12 | VI |\n| 22 | 5 | 8 | XIX | ADAR PRIOR | 13 | V |\n| 23 | 6 | 7 |  |  | 14 | IIII |\n| 24 | 7 | 6 | VIII | ADAR PRIOR | 15 | III |\n| 25 | 1 | 5 | XVI | ADAR | 16 | II |\n| 26 | 2 | 4 |  |  | 17 | I |\n| 27 | 3 | 3 | V | ADAR | 18 | O |\n| 28 | 4 | 2 |  |  | 19 | XXIX |\n| 29 | 5 | 1 | XIII | ADAR | 20 | XXVIII |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "Hemerologium Caeleste: tabela sinóptica correlacionando os signos zodiacais Zygon (Libra), Toxon (Sagittarius), Scorpion (Scorpio) e Aegon (Capricornus) com meses lunares judaicos (Marchesvvan, Caslev, Tebeth, Sebat, Adar Prior, Adar), ciclo lunar judaico, epactas e datas do calendário juliano.",
+      "historical_date_as_cited": "",
+      "location": "",
+      "ancient_source": ""
+    }
+  ],
+  "uncertainty_flags": [
+    "Coluna 'Character' na tabela de Toxon: primeira linha apresenta tanto '4' quanto aparentemente um valor adicional — interpretado como 4.",
+    "Em Aegon dia 4, Ciclo Iud. lido como XVI (na imagem pode-se ler XVI ou XVIII); padrão cíclico sugeriria XVIII, mas transcrevi o que aparece mais claro como XVI.",
+    "Última linha da tabela Toxon: epacta juliana final 'XXVII' — legível mas próxima ao corte da página.",
+    "Marca 'H Y-' no canto inferior direito: provavelmente custódio de página (catchword) indicando início da próxima página."
+  ],
+  "notes": "Página de tabela astronômico-calendárica (Hemerologium Caeleste) pertencente ao aparato de correspondência entre o zodíaco sideral, o calendário lunar hebraico e o calendário juliano. A paginação impressa (316) difere da paginação do PDF (399). As letras A, B, C, D na margem direita são marcas de quadrante para referência cruzada. O símbolo 'O' em algumas epactas indica zero/ponto de viragem.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T19:07:09Z",
+    "input_tokens": 7748,
+    "output_tokens": 5746
+  }
+}

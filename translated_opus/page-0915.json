@@ -1,0 +1,18 @@
+{
+  "page": 915,
+  "page_type": "frontmatter",
+  "latin": "OPERIS DE EMENDATIONE TEMPORUM Finis.",
+  "pt": "Fim da Obra Sobre a Emendação dos Tempos.",
+  "en": "End of the Work On the Emendation of Times.",
+  "tables": [],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [],
+  "notes": "Página de colofão marcando o fim da obra principal (antes de eventuais índices ou apêndices).",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-27T14:23:29Z",
+    "input_tokens": 7748,
+    "output_tokens": 200
+  }
+}

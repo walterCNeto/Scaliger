@@ -1,0 +1,18 @@
+{
+  "page": 790,
+  "page_type": "frontmatter",
+  "latin": "COMPVTVS ARABICVS ECCLESIAE ANTIOCHENAE.",
+  "pt": "CÔMPUTO ÁRABE DA IGREJA DE ANTIOQUIA.",
+  "en": "ARABIC COMPUTUS OF THE CHURCH OF ANTIOCH.",
+  "tables": [],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [],
+  "notes": "Página de rosto interna, anunciando a seção sobre o cômputo eclesiástico árabe da Igreja de Antioquia.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:28:39Z",
+    "input_tokens": 7748,
+    "output_tokens": 242
+  }
+}

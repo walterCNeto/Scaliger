@@ -1,0 +1,21 @@
+{
+  "page": 805,
+  "page_type": "text",
+  "latin": "720  IOSEPHI SCALIGERI\n\nTransfiguratio.) In Arabismo est Revelatio التجلي quia in ea in maiestate ostenderit se discipulis tribus, Petro, Iohanni, Iacobo. celebratur autem VI Augusti, vel Aab.\n\nAssumptio) In Arabismo est Translatio. XV Augusti.\n\nFestum crucis.) In Kalendario Elkupti dicitur وجود الصليب Inventio crucis, XIV Septemb. Aut me fugit memoria, aut ea est Exaltatio aliis Ecclesiis. At in Kalendario horum nostrorum Surianorum ita legitur ad XIIII Ilul ܫܟܚܬܐ ܕܣܠܝܒܐ ܕܡܚܐ εὕρεσις τοῦ ἁγίου σταυροῦ: quemadmodum in Koptitarum etiam Kalendario.\n\nLINEA COGNOSCENDI QUOTA FERIA) ܫܘܝܘ proprie Graece ποσταία: non utique ποσταία τοῦ μηνός, sed τῆς ἑβδομάδος. Id enim est feria. Lineam vocant τὸν πίνακα, Tabulam, Indicem.\n\nBoni consule, optime Lector, si plus praestare non potuimus. quod certe facies, si candidum animum non opellam nostram ad examen revocabis.\n\nHIPPO-",
+  "pt": "720  DE JOSÉ SCALIGERO\n\n*Transfiguratio* (Transfiguração).) Em árabe é *Revelatio* (Revelação), التجلي, porque nela Ele mostrou-se em majestade a três discípulos, Pedro, João, Tiago. Celebra-se no dia 6 de agosto, ou de Aab.\n\n*Assumptio* (Assunção).) Em árabe é *Translatio* (Trasladação). Dia 15 de agosto.\n\n*Festum crucis* (Festa da cruz).) No Calendário Cóptico chama-se وجود الصليب, *Invenção da Cruz*, 14 de setembro. Ou me falha a memória, ou esta é a Exaltação em outras Igrejas. Mas no Calendário destes nossos Sírios lê-se assim no dia 14 de Ilul: [ܫܟܚܬܐ ܕܣܠܝܒܐ ܕܡܚܐ] [εὕρεσις τοῦ ἁγίου σταυροῦ] \"descoberta da santa cruz\"; como também no Calendário dos Coptas.\n\n*LINHA PARA CONHECER QUAL DIA DA SEMANA*.) [ܫܘܝܘ] propriamente em grego [ποσταία]: não, porém, [ποσταία τοῦ μηνός], mas [τῆς ἑβδομάδος]. Isso é que é *feria* (dia da semana). Chamam *Linha* a [τὸν πίνακα], Tabela, Índice.\n\nLeva a bem, ótimo Leitor, se não pudemos prestar mais. E certamente assim farás, se chamares a exame nosso trabalhinho com ânimo sincero, e não com má vontade.\n\nHIPO-",
+  "en": "720  OF JOSEPH SCALIGER\n\n*Transfiguratio* (Transfiguration).) In Arabic it is *Revelatio* (Revelation), التجلي, because on that occasion He showed Himself in majesty to three disciples, Peter, John, James. It is celebrated on August 6, or of Aab.\n\n*Assumptio* (Assumption).) In Arabic it is *Translatio* (Translation). August 15.\n\n*Festum crucis* (Feast of the Cross).) In the Coptic Calendar it is called وجود الصليب, *Finding of the Cross*, September 14. Either my memory fails me, or this is the Exaltation in other Churches. But in the Calendar of our Syrians it is read thus on the 14th of Ilul: [ܫܟܚܬܐ ܕܣܠܝܒܐ ܕܡܚܐ] [εὕρεσις τοῦ ἁγίου σταυροῦ] \"finding of the holy cross\"; just as in the Calendar of the Copts as well.\n\n*LINE FOR DETERMINING WHICH DAY OF THE WEEK*.) [ܫܘܝܘ] properly in Greek [ποσταία]: not, however, [ποσταία τοῦ μηνός], but [τῆς ἑβδομάδος]. That is what *feria* means. They call *Line* [τὸν πίνακα], Table, Index.\n\nTake in good part, excellent Reader, if we could not accomplish more—which indeed you will do, if you submit our little work to examination with a candid mind and not ill will.\n\nHIPPO-",
+  "tables": [],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Transliteração exata do árabe التجلي e وجود الصليب conforme legível no scan",
+    "Transliteração exata do siríaco ܫܟܚܬܐ ܕܣܠܝܒܐ ܕܡܚܐ e ܫܘܝܘ aproximada; caracteres individuais podem variar"
+  ],
+  "notes": "Página conclui uma seção de notas sobre festas litúrgicas no calendário siríaco/copta/árabe. Palavra final 'HIPPO-' é catchword/reclamo para próxima página (provavelmente início de seção sobre Hipólito/Hipparco).",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:34:31Z",
+    "input_tokens": 7748,
+    "output_tokens": 2004
+  }
+}

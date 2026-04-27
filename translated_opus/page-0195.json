@@ -1,0 +1,27 @@
+{
+  "page": 195,
+  "page_type": "table",
+  "latin": "TABULA PERIODI MAGNAE HAGARENORUM.\n\nRESI-",
+  "pt": "TÁBUA DO GRANDE PERÍODO DOS HAGARENOS (ISMAELITAS/MUÇULMANOS).\n\n[Tabela completa dos 38 primeiros anos do grande período muçulmano; ver seção tables. Custódio de página: RESI-]",
+  "en": "TABLE OF THE GREAT PERIOD OF THE HAGARENES (ISMAELITES/MUSLIMS).\n\n[Complete table of the first 38 years of the Muslim great period; see tables section. Catchword: RESI-]",
+  "tables": [
+    {
+      "caption_pt": "Tábua do Grande Período dos Hagarenos (muçulmanos): para cada ano do período (1–38) são dados o ciclo lunar, o caractere do ano (letra dominical), o ciclo solar, a data juliana do início (em março/abril), e os meses lunares muçulmanos que iniciam nas três períodas (prima, secunda, tertia). Anos embolísmicos marcados ἐμβόλ.",
+      "caption_en": "Table of the Great Period of the Hagarenes (Muslims): for each year of the period (1–38) are given the lunar cycle, the character of the year (dominical letter), the solar cycle, the Julian starting date (in March/April), and the Muslim lunar months beginning in the three periods (first, second, third). Embolismic years marked ἐμβόλ.",
+      "markdown": "| | Anni periodi | Cyclus Lunae | Character anni | Cyclus Solis | Dies | Periodus prima | Periodus secunda | Periodus tertia | |\n|---|---|---|---|---|---|---|---|---|---|\n| | 1 | 14 | 1 | F | 31 Martij | Sephar | Giumadi posterior | Scewal | |\n| | 2 | 15 | 5 | E | 20 Martij | Sephar | Giumadi posterior | Scewal | ἰωσήφ |\n| ἐμβόλ. | 3 | 16 | 3 | D C | 9 Martij | Sephar | Giumadi posterior | Scewal | |\n| | 4 | 17 | 2 | B | 28 Martij | Rabie prior | Regeb | Dulkaidathi | |\n| | 5 | 18 | 6 | A | 17 Martij | Rabie prior | Regeb | Dulkaidathi | |\n| ἐμβόλ. | 6 | 19 | 3 | G | 6 Martij | Rabie prior | Regeb | Dulkaidathi | |\n| | 7 | 1 | 2 | F E | 24 Martij | Rabie posterior | Sahaben | Dulchagiathi | |\n| ἐμβόλ. | 8 | 2 | 6 | D | 13 Martij | Rabie posterior | Sahaben | Dulchagiathi | |\n| | 9 | 3 | 5 | C | 1 April. | Giumadi prior | Ramadhan | Muharam | ἰωσήφ |\n| | 10 | 4 | 3 | B | 22 Martij | Giumadi prior | Ramadhan | Muharam | |\n| ἐμβόλ. | 11 | 5 | 7 | A G | 10 Martij | Giumadi prior | Ramadhan | Muharam | |\n| | 12 | 6 | 6 | F | 29 Martij | Giumadi posterior | Scewal | Sephar | |\n| | 13 | 7 | 3 | E | 18 Martij | Giumadi posterior | Scewal | Sephar | ἰωσήφ |\n| ἐμβόλ. | 14 | 8 | 1 | D | 8 Martij | Giumadi posterior | Scewal | Sephar | |\n| | 15 | 9 | 7 | C B | 26 Martij | Regeb | Dulkaidathi | Rabie prior | |\n| ἐμβόλ. | 16 | 10 | 4 | A | 15 Martij | Regeb | Dulkaidathi | Rabie prior | |\n| | 17 | 11 | 3 | G | 3 April. | Sahaben | Dulchagiathi | Rabie posterior | |\n| | 18 | 12 | 7 | F | 23 Martij | Sahaben | Dulchagiathi | Rabie posterior | ἰωσήφ |\n| ἐμβόλ. | 19 | 13 | 5 | E D | 12 Martij | Sahaben | Dulchagiathi | Rabie posterior | |\n| | 20 | 14 | 4 | C | 31 Martij | Ramadhan | Muharam | Giumadi prior | |\n| | 21 | 15 | 1 | B | 20 Martij | Ramadhan | Muharam | Giumadi prior | |\n| ἐμβόλ. | 22 | 16 | 5 | A | 9 Martij | Ramadhan | Muharam | Giumadi prior | |\n| | 23 | 17 | 4 | G F | 27 Martij | Scewal | Sephar | Giumadi posterior | ἰωσήφ |\n| | 24 | 18 | 2 | E | 17 Martij | Scewal | Sephar | Giumadi posterior | |\n| ἐμβόλ. | 25 | 19 | 6 | D | 6 Martij | Scewal | Sephar | Giumadi posterior | |\n| | 26 | 1 | 5 | C | 25 Martij | Dulkaidathi | Rabie prior | Regeb | |\n| ἐμβόλ. | 27 | 2 | 2 | B A | 13 Martij | Dulkaidathi | Rabie prior | Regeb | |\n| | 28 | 3 | 1 | G | 1 April. | Dulchagiathi | Rabie posterior | Sahaben | |\n| | 29 | 4 | 5 | F | 21 Martij | Dulchagiathi | Rabie posterior | Sahaben | ἰωσήφ |\n| ἐμβόλ. | 30 | 5 | 3 | E | 11 Martij | Dulchagiathi | Rabie posterior | Sahaben | |\n| | 31 | 6 | 2 | D C | 29 Martij | Muharam | Giumadi prior | Ramadhan | |\n| | 32 | 7 | 6 | B | 18 Martij | Muharam | Giumadi prior | Ramadhan | |\n| ἐμβόλ. | 33 | 8 | 3 | A | 7 Martij | Muharam | Giumadi prior | Ramadhan | |\n| | 34 | 9 | 3 | G | 27 Martij | Sephar | Giumadi posterior | Scewal | ἰωσήφ |\n| ἐμβόλ. | 35 | 10 | 7 | F E | 15 Martij | Sephar | Giumadi posterior | Scewal | |\n| | 36 | 11 | 6 | D | 2 April. | Rabie prior | Regeb | Dulkaidathi | |\n| | 37 | 12 | 3 | C | 23 Martij | Rabie prior | Regeb | Dulkaidathi | |\n| ἐμβόλ. | 38 | 13 | 7 | B | 12 Martij | Rabie prior | Regeb | Dulkaidathi | |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Marca lateral grega à direita de várias linhas lida como ἰωσήφ (Ioseph); grafia no original um tanto apagada, pode tratar-se de abreviação marginal diferente.",
+    "Na coluna Character anni o valor '1' na linha 1 foi lido como '1'; algumas células da mesma coluna são difíceis de distinguir entre 1 e 7."
+  ],
+  "notes": "Página inteiramente tomada pela Tabula Periodi Magnae Hagarenorum (tábua do grande ciclo muçulmano). Colunas: anno do período, ciclo lunar (1–19), caractere do ano (letra dominical, com duplas nos bissextos), ciclo solar, data juliana de início do ano hégirico, e nomes dos meses muçulmanos que começam nas três 'periodi' (terças partes do ciclo). Anos embolísmicos (lunares de 13 meses) marcados à esquerda com ἐμβόλ. Custódio no pé: RESI-, apontando para a continuação (provavelmente 'RESI-duum' ou início da próxima seção).",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T16:49:58Z",
+    "input_tokens": 7748,
+    "output_tokens": 3028
+  }
+}

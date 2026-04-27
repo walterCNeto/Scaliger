@@ -1,0 +1,39 @@
+{
+  "page": 121,
+  "page_type": "mixed",
+  "latin": "38 IOSEPHI SCALIGERI\n\nOlympici, neomenia est in IX Iulii post Solstitium, quod statuebatur in VIII, ita ut IX sit prima & citima neomenia, non autem Solstitium. Construatur igitur Tabula primi mensis Elidensium in annis totius periodi expansis. Primus ordo habeat numerum annorum periodi expan-\n\nTABULA NEOMENIARUM PRIMI MENSIS ELIDENSIS IN ANNIS PERIODI OLYMPICAE.\n\n[Tabula: vide sectionem tables]\n\nforum",
+  "pt": "Olímpico, a neomênia cai em 9 de julho depois do solstício, o qual se estabelecia em 8, de modo que 9 é a primeira neomênia mais próxima, e não o solstício. Construa-se, portanto, a Tabela do primeiro mês dos Elidenses para todos os anos do período expandidos. A primeira coluna contenha o número dos anos do período expan-\n\nTABELA DAS NEOMÊNIAS DO PRIMEIRO MÊS ELIDENSE NOS ANOS DO PERÍODO OLÍMPICO.\n\n[Tabela: ver seção tables]",
+  "en": "Olympic, the new moon falls on 9 July after the solstice, which was fixed on the 8th, so that the 9th is the first and nearest new moon, not the solstice itself. Therefore let a Table of the first month of the Eleans be constructed for all the years of the whole period expanded. Let the first column contain the number of the years of the period expan-\n\nTABLE OF NEW MOONS OF THE FIRST ELEAN MONTH IN THE YEARS OF THE OLYMPIC PERIOD.\n\n[Table: see tables section]",
+  "tables": [
+    {
+      "caption_pt": "Tabela das neomênias do primeiro mês Elidense (Elense) nos anos do Período Olímpico — anos 1 a 76. Colunas: Ano do período | Ciclo lunar | Dias coletados | Neomênia do 1º mês | (coluna final, provavelmente epacta/feria); marginália grega indica ἐξαίρ(εσις) [exairesis/subtração] e ἐμβολ(ιμος) [embolimos/intercalar], e Δοιξ / Δοιζ (possivelmente δοιός/abreviatura).",
+      "caption_en": "Table of new moons of the first Elean month in the years of the Olympic Period — years 1 to 76. Columns: Year of period | Lunar cycle | Days collected | New moon of 1st month | (final column, probably epact/feria); Greek marginalia indicate ἐξαίρ(εσις) [exairesis/subtraction] and ἐμβολ(ιμος) [embolimos/intercalary], and Δοιξ / Δοιζ (possibly abbreviation of δοιός).",
+      "markdown": "| marg. | Anni periodi | Cyclus Lunæ | Dies collecti | Neomenia 1. mensis | (col.) |\n|---|---|---|---|---|---|\n|  | 1 | 5 | 392 | 9 Iulii | 0 |\n|  | 2 | 6 | 754 | 5 Aug. | 27 |\n|  | 3 | 7 | 1116 | 2 Aug. | 24 |\n| Δοιξαιρ. | 4 | 8 | 1476 | 29 Iul. | 20 |\n|  | 5 | 9 | 1838 | 24 Iul. | 15 |\n|  | 6 | 10 | 2200 | 21 Iul. | 12 |\n|  | 7 | 11 | 2562 | 18 Iul. | 9 |\n| ἐξαιρ. | 8 | 12 | 2923 | 14 Iul. | 5 |\n| ἐμβολ. | 9 | 13 | 3315 | 10 Iul. | 1 |\n|  | 10 | 14 | 3677 | 6 Aug. | 28 |\n|  | 11 | 15 | 4039 | 3 Aug. | 25 |\n| ἐξαιρ. | 12 | 16 | 4400 | 30 Iul. | 21 |\n|  | 13 | 17 | 4762 | 26 Iul. | 17 |\n|  | 14 | 18 | 5124 | 23 Iul. | 14 |\n|  | 15 | 19 | 5486 | 20 Iul. | 11 |\n| ἐξαιρ. | 16 | 1 | 5846 | 16 Iul. | 7 |\n|  | 17 | 2 | 6208 | 12 Iul. | 3 |\n| ἐμβολ. | 18 | 3 | 6600 | 9 Iul. | 0 |\n|  | 19 | 4 | 6962 | 5 Aug. | 27 |\n| Δοιξ. | 20 | 5 | 7322 | 1 Aug. | 23 |\n|  | 21 | 6 | 7686 | 27 Iul. | 18 |\n|  | 22 | 7 | 8047 | 24 Iul. | 15 |\n|  | 23 | 8 | 8409 | 21 Iul. | 12 |\n| ἐξαιρ. | 24 | 9 | 8770 | 17 Iul. | 8 |\n|  | 25 | 10 | 9133 | 13 Iul. | 4 |\n| ἐμβολ. | 26 | 11 | 9524 | 10 Iul. | 1 |\n|  | 27 | 12 | 9886 | 6 Aug. | 28 |\n| ἐξαιρ. | 28 | 13 | 10247 | 2 Aug. | 24 |\n|  | 29 | 14 | 10609 | 29 Iul. | 20 |\n|  | 30 | 15 | 10971 | 26 Iul. | 17 |\n|  | 31 | 16 | 11333 | 23 Iul. | 14 |\n| ἐξαιρ. | 32 | 17 | 11694 | 19 Iul. | 10 |\n|  | 33 | 18 | 12056 | 15 Iul. | 6 |\n|  | 34 | 19 | 12418 | 12 Iul. | 3 |\n| ἐμβολ. | 35 | 1 | 12810 | 9 Iul. | 0 |\n| ἐξαιρ. | 36 | 2 | 13171 | 4 Aug. | 26 |\n|  | 37 | 3 | 13533 | 31 Iul. | 22 |\n|  | 38 | 4 | 13895 | 28 Iul. | 19 |\n| Δοιξ. | 39 | 5 | 14257 | 25 Iul. | 16 |\n|  | 40 | 6 | 14617 | 21 Iul. | 12 |\n|  | 41 | 7 | 14979 | 16 Iul. | 7 |\n|  | 42 | 8 | 15341 | 13 Iul. | 4 |\n| ἐμβολ. | 43 | 9 | 15733[?] | 10 Iul. | 1 |\n| ἐξαιρ. | 44 | 10 | 16094 | 5 Aug. | 27 |\n|  | 45 | 11 | 16456 | 1 Aug. | 23 |\n|  | 46 | 12 | 16818 | 29 Iul. | 20 |\n|  | 47 | 13 | 17180 | 26 Iul. | 17 |\n| ἐξαιρ. | 48 | 14 | 17541 | 22 Iul. | 13 |\n|  | 49 | 15 | 17903 | 18 Iul. | 9 |\n|  | 50 | 16 | 18265 | 15 Iul. | 6 |\n| ἐμβολ. | 51 | 17 | 18627 | 12 Iul. | 3 |\n| ἐξαιρ. | 52 | 18 | 19017[?] | 7 Aug. | 29 |\n|  | 53 | 19 | 19379 | 3 Aug. | 25 |\n|  | 54 | 1 | 19741 | 31 Iul. | 22 |\n|  | 55 | 2 | 20103 | 28 Iul. | 19 |\n| ἐξαιρ. | 56 | 3 | 20464 | 24 Iul. | 14 |\n|  | 57 | 4 | 20826 | 20 Iul. | 11 |\n|  | 58 | 5 | 21188 | 17 Iul. | 8 |\n|  | 59 | 6 | 21550 | 14 Iul. | 5 |\n| Δοιξ./ἐμβολ. | 60 | 7 | 21940[?] | 10 Iul. | 1 |\n|  | 61 | 8 | 22302 | 4 Aug. | 26 |\n|  | 62 | 9 | 22664 | 1 Aug. | 23 |\n|  | 63 | 10 | 23026 | 29 Iul. | 20 |\n| ἐξαιρ. | 64 | 11 | 23388 | 25 Iul. | 16 |\n|  | 65 | 12 | 23750 | 21 Iul. | 12 |\n|  | 66 | 13 | 24112 | 18 Iul. | 9 |\n|  | 67 | 14 | 24474 | 15 Iul. | 6 |\n| ἐξαιρ./ἐμβολ. | 68 | 15 | 24865[?] | 11 Iul. | 2 |\n|  | 69 | 16 | 25227 | 6 Aug. | 28 |\n|  | 70 | 17 | 25589 | 3 Aug. | 25 |\n|  | 71 | 18 | 25951 | 31 Iul. | 22 |\n| ἐξαιρ. | 72 | 19 | 26312 | 27 Iul. | 18 |\n|  | 73 | 1 | 26674 | 23 Iul. | 14 |\n|  | 74 | 2 | 27036 | 20 Iul. | 11 |\n|  | 75 | 3 | 27398 | 17 Iul. | 8 |\n| ἐξαιρ. | 76 | 4 | 27759 | 13 Iul. | 4 |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "solstice",
+      "description": "neomenia est in IX Iulii post Solstitium, quod statuebatur in VIII, ita ut IX sit prima & citima neomenia, non autem Solstitium",
+      "historical_date_as_cited": "Solstício fixado em 8 de julho; neomênia subsequente em 9 de julho (ano 1 do Período Olímpico)",
+      "location": "Élida (calendário eleu / Olímpico)",
+      "ancient_source": ""
+    }
+  ],
+  "uncertainty_flags": [
+    "Marginália grega abreviada: leituras alternativas entre ἐξαίρ(εσις), ἐμβολ(ιμος) e formas Δοιξ/Δοιζ; transcrição aproximada.",
+    "Linha 43: 'Dies collecti' lido como 15733; dígito final ambíguo.",
+    "Linha 52: 'Dies collecti' 19017 — dígito incerto.",
+    "Linha 60: 21940 — último dígito possivelmente 0.",
+    "Linha 68: 24865 — último dígito 5 incerto.",
+    "Coluna final sem cabeçalho visível (provavelmente epactas ou ferias); interpretada como valores numéricos do scan."
+  ],
+  "notes": "Página mostra a primeira metade da Tabela das Neomênias do primeiro mês Elense (Parthenios/Apollonios) ao longo dos 76 anos da Tetraeteris/periodo Olímpico expandido por ciclo. As siglas marginais gregas (ἐξαίρ. = subtração de um dia; ἐμβόλ. = mês embolímico) indicam os anos de ajuste. O texto inicial justifica o início do mês em 9 de julho, por ser esta a neomênia mais próxima ao solstício (8 de julho), não o solstício em si.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T15:58:28Z",
+    "input_tokens": 7748,
+    "output_tokens": 4283
+  }
+}

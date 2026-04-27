@@ -1,0 +1,29 @@
+{
+  "page": 743,
+  "page_type": "mixed",
+  "latin": "בְּמִשְׁכָּן אַלְפַּיִם שָׁנָה וּמָאתַיִם שָׁנָה וַחֲמִשָּׁה עָשָׂר שָׁנִים יִהְיֶה סֵדֶר הַמִּסְפָּר חֲמֵשֶׁת אֲלָפִים שָׁנָה שִׁבְעָה וְאַרְבָּעִים שָׁנָה עַד יוֹם הַנִּירָא מָשׁוּעַ\n\nאֱלוּל\nתִּשְׁרִי\nמַרְחֶשְׁוָן\nכִּסְלֵיו\nטֵבֵת\nשְׁבָט\nאֲדָר\nנִיסָן\nאִיָּר\nסִיוָן\nתַּמּוּז\nאָב\nאֲדָר שֵׁנִי\n\nin Tabernaculo, bis mille, ducenti quindecim anni. Fit series summae, quinquies mille quadraginta septem anni, ad diem fanatici impostoris.\n\nIlul\nTisri\nMarcheschban\nCaslim\nTebith\nSchebat\nAdar\nNisan\nIjar\nSebin\nTamuz\nAb\nAdar alter.\n\nIN SA-",
+  "pt": "[texto hebraico à direita, com equivalente em caracteres samaritanos à esquerda]: \"No Tabernáculo, dois mil duzentos e quinze anos. Resultará a soma da série: cinco mil e quarenta e sete anos, até o dia do fanático impostor.\"\n\n[Lista dos meses do calendário hebraico, em hebraico à direita e em caracteres samaritanos à esquerda, com transliteração latina abaixo]:\nElul\nTisri\nMarcheschvan\nCaslim (Kislev)\nTebith (Tevet)\nSchebat (Shevat)\nAdar\nNisan\nIjar (Iyar)\nSebin (Sivan)\nTamuz\nAb (Av)\nAdar segundo (Adar II)\n\nEM SA-[maria / sábado — continua na próxima página]",
+  "en": "[Hebrew text on the right, with Samaritan-script equivalent on the left]: \"In the Tabernacle, two thousand two hundred and fifteen years. The sum of the series amounts to: five thousand and forty-seven years, up to the day of the fanatical impostor.\"\n\n[List of the months of the Hebrew calendar, in Hebrew on the right and in Samaritan characters on the left, with Latin transliteration below]:\nElul\nTisri\nMarcheshvan\nCaslim (Kislev)\nTebith (Tevet)\nSchebat (Shevat)\nAdar\nNisan\nIjar (Iyar)\nSebin (Sivan)\nTamuz\nAb (Av)\nAdar the second (Adar II)\n\nIN SA-[maria / Sabbath — continues on next page]",
+  "tables": [
+    {
+      "caption_pt": "Lista dos meses do calendário hebraico, em três colunas: caracteres samaritanos (esquerda), hebraico quadrático vocalizado (centro-direita), transliteração latina (abaixo).",
+      "caption_en": "List of the months of the Hebrew calendar in three columns: Samaritan script (left), vocalized square Hebrew (center-right), Latin transliteration (below).",
+      "markdown": "| Samaritano | Hebraico | Transliteração latina |\n|---|---|---|\n| [caracteres samaritanos] | אֱלוּל | Ilul |\n| [caracteres samaritanos] | תִּשְׁרִי | Tisri |\n| [caracteres samaritanos] | מַרְחֶשְׁוָן | Marcheschban |\n| [caracteres samaritanos] | כִּסְלֵיו | Caslim |\n| [caracteres samaritanos] | טֵבֵת | Tebith |\n| [caracteres samaritanos] | שְׁבָט | Schebat |\n| [caracteres samaritanos] | אֲדָר | Adar |\n| [caracteres samaritanos] | נִיסָן | Nisan |\n| [caracteres samaritanos] | אִיָּר | Ijar |\n| [caracteres samaritanos] | סִיוָן | Sebin |\n| [caracteres samaritanos] | תַּמּוּז | Tamuz |\n| [caracteres samaritanos] | אָב | Ab |\n| [caracteres samaritanos] | אֲדָר שֵׁנִי | Adar alter |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "A transcrição dos caracteres samaritanos não foi reproduzida em Unicode samaritano (U+0800–U+083F) por limitação de reconhecimento fiel; apenas indicada como '[caracteres samaritanos]' na tabela.",
+    "A leitura do hebraico vocalizado foi feita com base no texto visível, mas algumas vogais/pontuações podem conter pequenas imprecisões devido à qualidade do scan.",
+    "A palavra final da linha hebraica, lida como 'הַנִּירָא מָשׁוּעַ' ('o temido/o execrável [impostor]'), é incerta; Scaliger a traduz como 'fanatici impostoris' — referência polêmica habitual a Maomé nos humanistas protestantes do séc. XVI–XVII.",
+    "Números: 2215 anos (bis mille ducenti quindecim) e 5047 anos (quinquies mille quadraginta septem) — conferidos duas vezes contra o hebraico correspondente."
+  ],
+  "notes": "Página do livro sobre a cronologia samaritana. Scaliger apresenta em colunas paralelas um texto cronológico em escrita samaritana e sua versão em hebraico quadrático, seguido pela tradução/paráfrase latina ('in Tabernaculo... ad diem fanatici impostoris'), que totaliza 5047 anos desde a Criação até 'o dia do fanático impostor' (provavelmente alusão polêmica a Maomé, fórmula corrente em Scaliger). A seguir, a lista dos doze meses mais Adar II, nas três escritas. O reclame 'IN SA-' no pé da página antecipa 'IN SAMARITANA' (ou 'IN SABBATO') da página seguinte.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:01:12Z",
+    "input_tokens": 7748,
+    "output_tokens": 2310
+  }
+}

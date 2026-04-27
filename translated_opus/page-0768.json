@@ -1,0 +1,28 @@
+{
+  "page": 768,
+  "page_type": "mixed",
+  "latin": "amor, & tanti laboris sensus perueniet. Antequam vero ad alia pergamus, Kalendarium anni Æthiopici, & alia, quæ facem his tenebris allucent, præmittemus.\n\nKALENDARIUM ECCLESIÆ ÆTHIOPICÆ.\n\n[Tabula: vide sectionem tables]\n\nMmm TIR",
+  "pt": "amor, e o sentido de tão grande trabalho chegará. Antes, porém, de passarmos a outros assuntos, apresentaremos o Calendário do ano Etíope e outras coisas que lancem luz sobre estas trevas.\n\nCALENDÁRIO DA IGREJA ETÍOPE.\n\n[Tabela: ver seção tables]",
+  "en": "love, and the sense of such great labor will arrive. But before we proceed to other matters, we shall set forth the Calendar of the Ethiopian year, and other things which may shed light upon these obscurities.\n\nCALENDAR OF THE ETHIOPIAN CHURCH.\n\n[Table: see tables section]",
+  "tables": [
+    {
+      "caption_pt": "Calendário da Igreja Etíope — primeiros quatro meses: Mascaram (Thoth), Tikmith (Paophi), Chadar (Athyr), Thachschasch (Choeac). Para cada dia: número do dia, letra dominical/ciclo semanal, epacta/áureo número, e correspondência no calendário juliano (setembro, outubro, novembro, dezembro).",
+      "caption_en": "Calendar of the Ethiopian Church — first four months: Mascaram (Thoth), Tikmith (Paophi), Chadar (Athyr), Thachschasch (Choeac). For each day: day number, dominical letter/weekday cycle, epact/golden number, and correspondence in the Julian calendar (September, October, November, December).",
+      "markdown": "| MASCARAM (THOTH) | | | | TIKMITH (PAOPHI) | | | | CHADAR (ATHYR) | | | | THACHSCHASCH (CHOEAC) | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| I | 3 |  | 29 | I | 5 |  | 28 | I | 7 | VIII | 28 | I | 2 | VIII | 27 |\n| II | 4 | VII | 30 | II | 6 | VIII | 29 | II | 1 |  | 29 | II | 3 |  | 28 |\n| III | 5 |  | 31 | III | 7 |  | 30 | III | 2 | XVI | 30 | III | 4 | XVI | 29 |\n| IV | 6 | XVI | 1 Sept. | IV | 1 | XVI | 1 Oct. | IV | 3 | V | 31 | IV | 5 | V | 30 |\n| V | 7 | V | 2 | V | 2 | V | 2 | V | 4 |  | 1 Nou. | V | 6 |  | 1 Dec. |\n| VI | 1 |  | 3 | VI | 3 |  | 3 | VI | 5 | XIII | 2 | VI | 7 | XIII | 2 |\n| VII | 2 | XIII | 4 | VII | 4 | XIII | 4 | VII | 6 | II | 3 | VII | 1 | II | 3 |\n| VIII | 3 | II | 5 | VIII | 5 | II | 5 | VIII | 7 |  | 4 | VIII | 2 |  | 4 |\n| IX | 4 |  | 6 | IX | 6 |  | 6 | IX | 1 | X | 5 | IX | 3 | X | 5 |\n| X | 5 | X | 7 | X | 7 | X | 7 | X | 2 |  | 6 | X | 4 |  | 6 |\n| XI | 6 |  | 8 | XI | 1 |  | 8 | XI | 3 | XVIII | 7 | XI | 5 | XVIII | 7 |\n| XII | 7 | XVIII | 9 | XII | 2 | XVIII | 9 | XII | 4 | VII | 8 | XII | 6 | VII | 8 |\n| XIII | 1 | VII | 10 | XIII | 3 | VII | 10 | XIII | 5 |  | 9 | XIII | 7 |  | 9 |\n| XIV | 2 |  | 11 | XIV | 4 |  | 11 | XIV | 6 | XV | 10 | XIV | 1 | XV | 10 |\n| XV | 3 | XV | 12 | XV | 5 | XV | 12 | XV | 7 | IV | 11 | XV | 2 | IV | 11 |\n| XVI | 4 | IV | 13 | XVI | 6 | IV | 13 | XVI | 1 |  | 12 | XVI | 3 |  | 12 |\n| XVII | 5 |  | 14 | XVII | 7 |  | 14 | XVII | 2 | XII | 13 | XVII | 4 | XII | 13 |\n| XVIII | 6 | XII | 15 | XVIII | 1 | XII | 15 | XVIII | 3 | I | 14 | XVIII | 5 | I | 14 |\n| XIX | 7 | I | 16 | XIX | 2 | I | 16 | XIX | 4 |  | 15 | XIX | 6 |  | 15 |\n| XX | 1 |  | 17 | XX | 3 |  | 17 | XX | 5 | IX | 16 | XX | 7 | IX | 16 |\n| XXI | 2 | IX | 18 | XXI | 4 | IX | 18 | XXI | 6 |  | 17 | XXI | 1 |  | 17 |\n| XXII | 3 |  | 19 | XXII | 5 |  | 19 | XXII | 7 | XVII | 18 | XXII | 2 | XVII | 18 |\n| XXIII | 4 | XVII | 20 | XXIII | 6 | XVII | 20 | XXIII | 1 | VI | 19 | XXIII | 3 | VI | 19 |\n| XXIV | 5 | VI | 21 | XXIV | 7 | VI | 21 | XXIV | 2 |  | 20 | XXIV | 4 |  | 20 |\n| XXV | 6 |  | 22 | XXV | 1 |  | 22 | XXV | 3 | XIV | 21 | XXV | 5 | XIV | 21 |\n| XXVI | 7 | XIV | 23 | XXVI | 2 | XIV | 23 | XXVI | 4 | III | 22 | XXVI | 6 | III | 22 |\n| XXVII | 1 | III | 24 | XXVII | 3 | III | 24 | XXVII | 5 |  | 23 | XXVII | 7 |  | 23 |\n| XXVIII | 2 |  | 25 | XXVIII | 4 |  | 25 | XXVIII | 6 | XI | 24 | XXVIII | 1 | XI | 24 |\n| XXIX | 3 | XI | 26 | XXIX | 5 | XI | 26 | XXIX | 7 | XIX | 25 | XXIX | 2 | XIX | 25 |\n| XXX | 4 | XIX | 27 | XXX | 6 | XIX | 27 | XXX | 1 |  | 26 | XXX | 3 |  | 26 |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Na tabela de CHADAR (Athyr), linha I, última coluna: lido como '28' mas pode ser '23' devido à qualidade do scan.",
+    "Catchword 'TIR' no rodapé indica o início do próximo mês etíope (Tir) na página seguinte.",
+    "Algumas células vazias em colunas de áureo número foram deixadas em branco conforme o original."
+  ],
+  "notes": "Página apresenta o calendário eclesiástico etíope, organizado em quatro colunas para os primeiros quatro meses: Mascaram (≈Thoth copta), Tikmith (Paophi), Chadar (Athyr) e Thachschasch (Choeac). Cada mês tem subcolunas: dia do mês (romano), ciclo semanal de 7 (dominicais), áureo número/epacta (romano), e equivalência no calendário juliano. Signature 'Mmm' e reclamo 'TIR' (próximo mês) no rodapé.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:15:23Z",
+    "input_tokens": 7748,
+    "output_tokens": 3016
+  }
+}

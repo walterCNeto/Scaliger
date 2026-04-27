@@ -1,0 +1,33 @@
+{
+  "page": 846,
+  "page_type": "mixed",
+  "latin": "DE EMENDAT. TEMPORUM LIB. VII.\n\nTABULA INGREDIENDI AD CHARACTERES ANNORUM ARABUM.\n\nDiagramma periochae characterum annorum Arabum exactissimorum. Id vero est, ut cognoscas, quotus sit annus Arabum ex Tabula Aerarum Gentium. Praeterea abiice summam omnium ducentorum & decem. Cum residuo, quod quidem non sit maius ducentis & decem, aut minus quam illa, ingredere in hanc Tabulam. Accipe collectos (annos) a latitudine, expansos autem a longitudine, siquidem residuum fuerit collectorum & expansorum: sin minus, cum expansis. Accipe ea. Quicquid inuentum fuerit in cella, in qua in numeros incidisti, ipse est character illius anni. Aggrega eum cum charactere mensis, quencunque vis. Quod si fuerit amplius, quam septem, abiice ab eo septem. Residuum, siquidem fuerit septem, aut minus, ipsa est feria introitus mensis.\n\nTABULA DIAGRAMMATIS CHARACTERUM MENSIUM ARABUM.\n\n[Muharramu *; Tzepharu II; Rabie prior III; Rabie poster. V; Giumadiju pr. VI; Giumadiju poste. I; Regebu II; Sahabanu IIII; Ramadhanu V; Schevvalu VII; Dhulkaadathi I; Dhulhagiathi III]",
+  "pt": "SOBRE A EMENDA DOS TEMPOS, LIVRO VII.\n\nTabela para ingresso nos caracteres dos anos dos Árabes.\n\nDiagrama da perioca dos caracteres dos anos árabes mais exatos. O objetivo é que conheças qual seja o ano dos Árabes a partir da Tabela das Eras das Nações. Além disso, rejeita a soma de todos os duzentos e dez. Com o resíduo, desde que não seja maior que duzentos e dez, nem menor que isso, entra nesta Tabela. Toma os (anos) coligidos pela latitude, e os expansos pela longitude, caso o resíduo for dos coligidos e expansos; se não, com os expansos. Toma-os. O que quer que for encontrado na cela em que incidiste nos números, esse mesmo é o caráter daquele ano. Ajunta-o ao caráter do mês que quiseres. Se for mais que sete, retira dele sete. O resíduo, caso for sete ou menos, é a própria féria (dia da semana) do início do mês.\n\nTabela do diagrama dos caracteres dos meses árabes: Muharram *, Safar 2, Rabi' I 3, Rabi' II 5, Jumada I 6, Jumada II 1, Rajab 2, Sha'ban 4, Ramadan 5, Shawwal 7, Dhu al-Qa'da 1, Dhu al-Hijja 3.",
+  "en": "ON THE EMENDATION OF TIMES, BOOK VII.\n\nTable for entering into the characters of the years of the Arabs.\n\nA diagram of the periocha of the characters of the most exact years of the Arabs. Its purpose is that you may know which year of the Arabs it is, from the Table of the Eras of the Nations. Moreover, cast away the sum of all two hundred and ten. With the remainder—provided it is not greater than two hundred and ten, nor less than that—enter into this Table. Take the collected (years) along the latitude, but the expanded ones along the longitude, if the remainder is of collected and expanded years; if not, with the expanded ones. Take them. Whatever is found in the cell at which you strike the numbers, that is itself the character of that year. Add it to the character of whichever month you wish. If it is greater than seven, cast away seven from it. The remainder, if it is seven or less, is itself the weekday (feria) of the beginning of the month.\n\nTable of the diagram of characters of the Arabic months: Muharram *, Safar 2, Rabi' I 3, Rabi' II 5, Jumada I 6, Jumada II 1, Rajab 2, Sha'ban 4, Ramadan 5, Shawwal 7, Dhu al-Qa'da 1, Dhu al-Hijja 3.",
+  "tables": [
+    {
+      "caption_pt": "Tabela de ingresso nos caracteres dos anos árabes (cela de 30 linhas × 7 colunas, cabeçalhos 0, 30, 60, 90, 120, 150, 180).",
+      "caption_en": "Table for entering the characters of Arabic years (30 rows × 7 columns, headers 0, 30, 60, 90, 120, 150, 180).",
+      "markdown": "| Numeri | 0 | XXX | LX | XC | CXX | CL | CLXXX |\n|---|---|---|---|---|---|---|---|\n| I | 6 | 4 | 2 | 7 | 5 | 3 | 1 |\n| II | 3 | 1 | 6 | 4 | 2 | 7 | 5 |\n| III | 1 | 6 | 4 | 2 | 7 | 5 | 3 |\n| IIII | 5 | 3 | 1 | 6 | 4 | 2 | 7 |\n| V | 2 | 7 | 5 | 3 | 1 | 6 | 4 |\n| VI | 7 | 5 | 3 | 1 | 6 | 4 | 2 |\n| VII | 4 | 2 | 7 | 5 | 3 | 1 | 6 |\n| VIII | 1 | 6 | 4 | 2 | 7 | 5 | 3 |\n| IX | 6 | 4 | 2 | 7 | 5 | 3 | 1 |\n| X | 3 | 1 | 6 | 4 | 2 | 7 | 5 |\n| XI | 7 | 5 | 3 | 1 | 6 | 4 | 2 |\n| XII | 5 | 3 | 1 | 6 | 4 | 2 | 7 |\n| XIII | 2 | 7 | 5 | 3 | 1 | 6 | 4 |\n| XIIII | 7 | 5 | 3 | 1 | 6 | 4 | 2 |\n| XV | 4 | 2 | 7 | 5 | 3 | 1 | 6 |\n| XVI | 1 | 6 | 4 | 2 | 7 | 5 | 3 |\n| XVII | 6 | 4 | 2 | 7 | 5 | 3 | 1 |\n| XVIII | 3 | 1 | 6 | 4 | 2 | 7 | 5 |\n| XIX | 7 | 5 | 4[?] | 1 | 6 | 4 | 2 |\n| XX | 5 | 3 | 1 | 6 | 4 | 2 | 7 |\n| XXI | 2 | 7 | 5 | 3 | 1 | 6 | 4 |\n| XXII | 7 | 5 | 3 | 1 | 6 | 4 | 2 |\n| XXIII | 4 | 2 | 7 | 5 | 3 | 1 | 6 |\n| XXIV | 1 | 6 | 4 | 2 | 7 | 5 | 3 |\n| XXV | 6 | 4 | 2 | 7 | 5 | 3 | 1 |\n| XXVI | 3 | 1 | 6 | 4 | 2 | 7 | 5 |\n| XXVII | 7 | 5 | 3 | 1 | 6 | 4 | 2 |\n| XXVIII | 5 | 3 | 1 | 6 | 4 | 2 | 7 |\n| XXIX | 2 | 7 | 5 | 3 | 1 | 6 | 4 |\n| XXX | 6 | 4 | 2 | 7 | 5 | 3 | 1 |"
+    },
+    {
+      "caption_pt": "Tabela do diagrama dos caracteres dos meses árabes.",
+      "caption_en": "Table of the diagram of characters of the Arabic months.",
+      "markdown": "| Mês | Caráter | Mês | Caráter | Mês | Caráter |\n|---|---|---|---|---|---|\n| Muharramu | * | Tzepharu | II | Rabie prior | III |\n| Rabie poster. | V | Giumadiju pr. | VI | Giumadiju poste. | I |\n| Regebu | II | Sahabanu | IIII | Ramadhanu | V |\n| Schevvalu | VII | Dhulkaadathi | I | Dhulhagiathi | III |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Linha XIX da tabela principal, coluna LX: dígito aparece como '4' mas o padrão da tabela sugeriria '3'; marcado com [?]",
+    "Assinatura de caderno lida como 'Sſſ 3' — terceira letra possivelmente diferente",
+    "Palavra árabe no rodapé (جزو ou similar) preservada como glifo; transcrição não fornecida"
+  ],
+  "notes": "Página inteira ocupada por duas tabelas cronológicas do calendário islâmico (hijri). A tabela principal é uma tábua de entrada dando o 'caráter' (dia da semana base) para cada ano dentro de um ciclo de 210 anos (30 linhas × 7 colunas de 30 anos cada). A tabela secundária dá os caracteres fixos dos 12 meses islâmicos, com transliterações de Scaliger (Tzepharu=Safar, Giumadiju=Jumada, Regebu=Rajab, Sahabanu=Sha'ban, Schevvalu=Shawwal, Dhulkaadathi=Dhu al-Qa'da, Dhulhagiathi=Dhu al-Hijja). Número de página no topo direito lido como '761' (não 846 conforme indicado no prompt); paginação interna do livro VII.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-25T00:03:00Z",
+    "input_tokens": 7748,
+    "output_tokens": 3543
+  }
+}

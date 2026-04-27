@@ -1,0 +1,24 @@
+{
+  "page": 793,
+  "page_type": "table",
+  "latin": "FILUM FESTORUM ET IEIUNIORUM, UT INVENIATUR RESURRECTIO IUGITER.",
+  "pt": "Sequência das festas e jejuns, para que se encontre continuamente a Ressurreição. (Tabela completa; ver seção tables.)",
+  "en": "Sequence of feasts and fasts, so that the Resurrection may be continually found. (Complete table; see tables section.)",
+  "tables": [
+    {
+      "caption_pt": "Sequência das festas e jejuns para determinar a data da Ressurreição (Páscoa), com correspondências entre os meses sírios.",
+      "caption_en": "Sequence of feasts and fasts for determining the date of the Resurrection (Easter), with correspondences between Syriac months.",
+      "markdown": "| Festum Resurrectionis, & mensis eius | Ieiunium Magnum & mensis eius | Ascensio & mensis eius | Pentecoste & mensis eius | Ieiunium Niniue & mensis eius |\n|---|---|---|---|---|\n| 22 Adhar | 2 Asbat | 30 Nisan | 10 Iiar | 12 Canun posterioris |\n| 23 Adhar | 3 Asbat | 1 Iiar | 11 Iiar | 13 Canun posterioris |\n| 24 Adhar | 4 Asbat | 2 Iiar | 12 Iiar | 14 Canun poster. |\n| 25 Adhar | 5 Asbat | 3 Iiar | 13 Iiar | 15 Canun poster. |\n| 26 Adhar | 6 Asbat | 4 Iiar | 14 Iiar | 16 Canun posterioris |\n| 27 Adhar | 7 Asbat | 5 Iiar | 15 Iiar | 17 Canun poster. |\n| 28 Adhar | 8 Asbat | 6 Iiar | 16 Iiar | 18 Canun posterioris |\n| 29 Adhar | 9 Asbat | 7 Iiar | 17 Iiar | 19 Canun poster. |\n| 30 Adhar | 10 Asbat | 8 Iiar | 18 Iiar | 20 Canun posterioris |\n| 31 Adhar | 11 Asbat | 9 Iiar | 19 Iiar | 21 Canun posterioris |\n| 1 Nisan | 12 Asbat | 10 Iiar | 20 Iiar | 22 Canun poster. |\n| 2 Nisan | 13 Asbat | 11 Iiar | 21 Iiar | 23 Canun poster. |\n| 3 Nisan | 14 Asbat | 12 Iiar | 22 Iiar | 24 Canun poster. |\n| 4 Nisan | 15 Asbat | 13 Iiar | 23 Iiar | 25 Canun poster. |\n| 5 Nisan | 16 Asbat | 14 Iiar | 24 Iiar | 26 Canun poster. |\n| 6 Nisan | 17 Asbat | 15 Iiar | 25 Iiar | 27 Canun poster. |\n| 7 Nisan | 18 Asbat | 16 Iiar | 26 Iiar | 28 Canun poster. |\n| 8 Nisan | 19 Asbat | 17 Iiar | 27 Iiar | 29 Canun posterioris |\n| 9 Nisan | 20 Asbat | 18 Iiar | 28 Iiar | 30 Canun poster. |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [],
+  "notes": "Tabela cronológica sírio-cristã correlacionando a Festa da Ressurreição (Páscoa), o Grande Jejum (Quaresma), a Ascensão, Pentecostes e o Jejum de Nínive, com os meses sírios correspondentes: Adhar (fevereiro/março), Nisan (março/abril), Asbat/Shebat (janeiro/fevereiro), Iiar (abril/maio) e Canun posterior (Kanun II / janeiro). A numeração 31 Adhar é anômala (o mês tem 30 dias), possivelmente indicando epagômena ou erro tipográfico no original.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:29:48Z",
+    "input_tokens": 7748,
+    "output_tokens": 1523
+  }
+}

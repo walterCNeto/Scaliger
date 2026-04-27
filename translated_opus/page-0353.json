@@ -1,0 +1,42 @@
+{
+  "page": 353,
+  "page_type": "mixed",
+  "latin": "DE ANNO COELESTI MUHAMMEDANORUM.\n\nPervenit in manus nostras Ephemeris Persica elegantissimis ductibus linearum a quodam accurato artifice designata, sed literis adeo impeditis, ut ne multi quidem Muhammedani illam legere possint. Nam cum anno 1583 Tolosae essem, eamque ostendissem Cypriano monacho Benedictino, qui ex Muhammedano Christianus factus erat, & optime Arabice scribebat, & loquebatur, tamen ne unum quidem apicem designare potuit, quamvis per horam integram omnes ductus characterum rimatus esset. Nos omnia quidem legimus, & non pauca in illis perplexissimis apicibus assequimur: sed longe plura ignoramus: ut sine magistro omnia intelligere desperaverimus. Sane is liber tanti est, ut si intelligeretur, magnus ex illo fructus ad nos manare potuisset. Primum eius menses civiles sunt Iuliani appellationibus Chaldaicis Iudaeorum, initio ducto ab Adar, hoc est Martio. Singulis paginis sui menses dicati cum sex filis. In tribus prioribus filis primi sunt dies Mensis Romani, deinde character cycli Solis; postremo dies anni caelestis. cuius initium ab XI Adar, sive Martij Iuliani cum his verbis نوروز سلطاني Dies aequinoctij Imperatorij. Intelligit annum Gelali, de quo infra. Item دخول افتاب بحمل Ingressus Solis in Arietem. De reliquis tribus filis, in primo erant horae, quae aliquando excedunt numerum centenarium; in secundo filo Epactae. In tertio cyclus decemnovennalis, qui ibi vocatur سال ماه ἔτ(ος) σελήνης, id est periodus. Cuius methodum nunquam assequi potui. A latere ternorum filorum varia annotata sunt, Persice, & semiarabice. Persice\n\n[Tabula: LATERCULUS MENSIUM CAELESTIUM MUHAMMEDANORUM]",
+  "pt": "SOBRE O ANO CELESTE DOS MUÇULMANOS.\n\nChegou às nossas mãos uma Efeméride Persa desenhada com os mais elegantes traços de linhas por algum hábil artífice, mas com letras tão emaranhadas que nem mesmo muitos muçulmanos podem lê-la. Pois quando, no ano de 1583, eu estava em Toulouse e a mostrei a Cipriano, monge beneditino, que de muçulmano se fizera cristão e escrevia e falava excelentemente o árabe, contudo ele não pôde decifrar sequer um único sinal, embora por uma hora inteira tenha examinado todos os traços dos caracteres. Nós de fato lemos tudo, e alcançamos não poucas coisas nesses tão intrincados sinais: porém muito mais ignoramos: de modo que desesperamos de entender tudo sem um mestre. Certamente este livro é de tal valor que, se fosse compreendido, grande fruto dele poderia fluir até nós. Primeiramente, seus meses civis são os julianos com denominações caldaicas dos judeus, iniciando-se por Adar, isto é, março. A cada página estão dedicados seus meses com seis colunas. Nas três primeiras colunas, os primeiros [dados] são os dias do mês romano, depois o caractere do ciclo solar; por último, os dias do ano celeste, cujo início é a partir de 11 de Adar, ou seja, de março juliano, com estas palavras [نوروز سلطاني] \"Dia do equinócio imperial\". Refere-se ao ano de Gelal, do qual se tratará adiante. Também [دخول افتاب بحمل] \"Entrada do Sol em Áries\". Das três colunas restantes, na primeira estavam as horas, que às vezes excedem o número centenário; na segunda coluna, as epactas. Na terceira, o ciclo decenoveanal, que ali é chamado [سال ماه] [ἔτος σελήνης], isto é, período. Cujo método jamais pude alcançar. Ao lado das três colunas há várias anotações, em persa e em semiárabe. Em persa...",
+  "en": "ON THE CELESTIAL YEAR OF THE MUHAMMADANS.\n\nA Persian Ephemeris came into our hands, drawn by some skilled craftsman with the most elegant strokes of lines, but with letters so entangled that not even many Muhammadans can read it. For when, in the year 1583, I was at Toulouse and had shown it to Cyprian, a Benedictine monk who had been converted from a Muhammadan into a Christian, and who wrote and spoke Arabic excellently, nevertheless he could not decipher a single character, although for an entire hour he examined all the strokes of the characters. We indeed have read everything, and have grasped not a few things in those most perplexing marks: but we are ignorant of far more: so that without a master we despair of understanding everything. Certainly this book is of such value that, if it were understood, great fruit from it could flow to us. First, its civil months are the Julian ones under the Chaldaic appellations of the Jews, beginning with Adar, that is, March. To each page are dedicated its months with six columns. In the first three columns, the first entries are the days of the Roman month, then the character of the solar cycle; lastly, the days of the celestial year, whose beginning is from the 11th of Adar, or of Julian March, with these words [نوروز سلطاني] \"Day of the Imperial equinox.\" He means the year of Jalali, of which more below. Likewise [دخول افتاب بحمل] \"Entry of the Sun into Aries.\" Of the remaining three columns, in the first were the hours, which sometimes exceed the number one hundred; in the second column, the epacts. In the third, the nineteen-year cycle, which there is called [سال ماه] [ἔτος σελήνης], that is, period. Whose method I was never able to grasp. Alongside the three columns various things are noted, in Persian and semi-Arabic. In Persian...",
+  "tables": [
+    {
+      "caption_pt": "Tabuleta dos meses celestes dos muçulmanos (meses do zodíaco persa, com signo zodiacal, número de dias e data juliana de início)",
+      "caption_en": "Table of the celestial months of the Muhammadans (Persian zodiacal months, with zodiac sign, number of days, and Julian starting date)",
+      "markdown": "| Árabe/Persa | Signo | Nome | Dias | Início (Juliano) |\n|---|---|---|---|---|\n| حمل | ♈ | Hamal | 31 | 11 Martij |\n| ثور | ♉ | Thaur | 31 | 11 Aprilis |\n| جوزا | ♊ | Guzi | 32 | 12 Mai. |\n| سرطان | ♋ | Sartan | 31 | 13 Iuni. |\n| اسد | ♌ | Esid | 31 | 14 Iuli. |\n| سنبل | ♍ | Sunbal | 31 | 14 Augusti. |\n| ميزان | ♎ | Muzan | 30 | 14 Septemb. |\n| عقرب | ♏ | Ekrab | 30 | 14 Octob. |\n| قوس | ♐ | Quus | 29 | 13 Novemb. |\n| جدي | ♑ | Gedi | 29 | 12 Decemb. |\n| دلو | ♒ | Delevu | 30 | 10 Ianua. |\n| حوت | ♓ | Hauth | 30 | 9 Febru. |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "equinox",
+      "description": "Dies aequinoctij Imperatorij — initium anni caelestis ab XI Adar sive Martij Iuliani (نوروز سلطاني, Nowruz Sultani)",
+      "historical_date_as_cited": "11 de Março juliano (início do ano de Gelal/Jalali)",
+      "location": "",
+      "ancient_source": "Ephemeris Persica"
+    },
+    {
+      "type": "other",
+      "description": "Ingressus Solis in Arietem (دخول افتاب بحمل)",
+      "historical_date_as_cited": "11 Martij Iuliani",
+      "location": "",
+      "ancient_source": "Ephemeris Persica"
+    }
+  ],
+  "uncertainty_flags": [
+    "Transliteração exata dos caracteres árabes/persas na tabela (حمل, ثور, جوزا, etc.) reconstituída a partir dos nomes latinos; alguns traços no scan são apenas parcialmente legíveis.",
+    "A forma 'Delevu' para دلو é peculiar e possivelmente corresponde à pronúncia persa 'Dalv' com terminação latinizada."
+  ],
+  "notes": "Página mista: texto corrido sobre a Efeméride Persa mostrada por Scaliger ao monge Cipriano em Toulouse (1583) + tabela zodiacal persa ('Laterculus Mensium Caelestium Muhammedanorum'). O paginador do PDF indica 353, mas o número impresso é 270. Os nomes dos meses correspondem aos signos zodiacais persas (Hamal=Áries, Thaur=Touro, etc.), usados no calendário solar Jalali estabelecido por Omar Khayyam.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T18:38:22Z",
+    "input_tokens": 7748,
+    "output_tokens": 3356
+  }
+}

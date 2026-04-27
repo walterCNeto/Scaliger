@@ -1,0 +1,18 @@
+{
+  "page": 753,
+  "page_type": "frontmatter",
+  "latin": "COMPVTVS ECCLESIAE AETHIOPICAE.",
+  "pt": "CÔMPUTO DA IGREJA ETÍOPE.",
+  "en": "COMPUTUS OF THE ETHIOPIAN CHURCH.",
+  "tables": [],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [],
+  "notes": "Página de rosto de seção interna, contendo apenas o título 'Computus Ecclesiae Aethiopicae' (Cômputo da Igreja Etíope).",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:06:34Z",
+    "input_tokens": 7748,
+    "output_tokens": 232
+  }
+}

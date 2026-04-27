@@ -1,0 +1,32 @@
+{
+  "page": 795,
+  "page_type": "table",
+  "latin": "IOSEPHI SCALIGERI\nRESIDUUM TABULAE.",
+  "pt": "JOSÉ SCALIGERO\nResíduo da Tabela. (Continuação da tabela de correspondências entre os meses siro-macedônicos/árabes — Nisan, Asbat, Iiar, Haziran, Adhar, Canun posterior — ver seção tables.)",
+  "en": "JOSEPH SCALIGER\nRemainder of the Table. (Continuation of the correspondence table between Syro-Macedonian/Arabic months — Nisan, Asbat, Iiar, Haziran, Adhar, Canun posterior — see tables section.)",
+  "tables": [
+    {
+      "caption_pt": "Resíduo da tabela: correspondências entre dias dos meses Nisan, Asbat, Adhar, Iiar, Haziran, Canun posterior",
+      "caption_en": "Remainder of the table: correspondences between days of the months Nisan, Asbat, Adhar, Iiar, Haziran, Canun posterior",
+      "markdown": "| Col. 1 | Col. 2 | Col. 3 | Col. 4 | Col. 5 |\n|---|---|---|---|---|\n| 10 Nisan | 21 Asbat | 19 Iiar | 29 Iiar | 31 Canun posterioris |\n| 11 Nisan | 22 Asbat | 20 Iiar | 30 Iiar | 1 Asbat |\n| 12 Nisan | 23 Asbat | 21 Iiar | 31 Iiar | 2 Asbat |\n| 13 Nisan | 24 Asbat | 22 Iiar | 1 Haziran | 3 Asbat |\n| 14 Nisan | 25 Asbat | 23 Iiar | 2 Haziran | 4 Asbat |\n| 15 Nisan | 26 Asbat | 24 Iiar | 3 Haziran | 5 Asbat |\n| 16 Nisan | 27 Asbat | 25 Iiar | 4 Haziran | 6 Asbat |\n| 17 Nisan | 28 Asbat | 26 Iiar | 5 Haziran | 7 Asbat |\n| 18 Nisan | 1 Adhar | 27 Iiar | 6 Haziran | 8 Asbat |\n| 19 Nisan | 2 Adhar | 28 Iiar | 7 Haziran | 9 Asbat |\n| 20 Nisan | 3 Adhar | 29 Iiar | 8 Haziran | 10 Asbat |\n| 21 Nisan | 4 Adhar | 30 Iiar | 9 Haziran | 11 Asbat |\n| 22 Nisan | 5 Adhar | 31 Iiar | 10 Haziran | 12 Asbat |\n| 23 Nisan | 6 Adhar | 1 Haziran | 11 Haziran | 13 Asbat |\n| 24 Nisan | 7 Adhar | 2 Haziran | 12 Haziran | 14 Asbat |\n| 25 Nisan | 8 Adhar | 3 Haziran | 13 Haziran | 15 Asbat |"
+    }
+  ],
+  "figures": [
+    {
+      "description_pt": "No canto inferior direito aparece a palavra árabe نيسان (Nisan), isolada, com o numeral 1 ao lado — possivelmente rubrica ou marca tipográfica indicando o mês inicial da tabela.",
+      "description_en": "In the lower right corner appears the Arabic word نيسان (Nisan), isolated, with the numeral 1 beside it — possibly a rubric or typographical mark indicating the initial month of the table."
+    }
+  ],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Page number at top left is partially cropped/illegible; identified as 795 from context.",
+    "Column headers are absent on this 'residuum' page — columns must be interpreted by reference to the preceding page of the table."
+  ],
+  "notes": "Página contém apenas a continuação ('residuum') de uma tabela de correspondência calendárica entre meses siro-árabes (Nisan, Asbat, Adhar, Iiar, Haziran, Canun posterior). Não há texto corrido. A palavra árabe نيسان na margem inferior direita é uma glosa marginal.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:30:11Z",
+    "input_tokens": 7748,
+    "output_tokens": 1549
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "page": 342,
+  "page_type": "table",
+  "latin": "DE EMENDAT. TEMPORVM LIB. IIII. 259\n\nΔΙΔΥΜΩΝ ἡμέραι λβ.",
+  "pt": "Sobre a Emenda dos Tempos, Livro IV, p. 259. Gêmeos, 32 dias. Tabela astronômico-calendárica com correspondências entre o mês ático Scirroforião, observações astronômicas (Calipo, Eudoxo, Demócrito, Euctêmon) e calendário romano (Calendas, Nonas, Idos de junho e julho). Ver tabela no campo tables.",
+  "en": "On the Emendation of Times, Book IV, p. 259. Gemini, 32 days. Astronomical-calendrical table correlating the Attic month Scirrophorion, astronomical observations (by Callippus, Eudoxus, Democritus, Euctemon), and the Roman calendar (Kalends, Nones, Ides of June and July). See tables field.",
+  "tables": [
+    {
+      "caption_pt": "Tabela dos 32 dias do signo de Gêmeos, com paralelos entre o calendário ático (mês Scirroforião), fenômenos astronômicos citados por autores gregos, e datas do calendário romano juliano.",
+      "caption_en": "Table of the 32 days of Gemini, with parallels between the Attic calendar (month Scirrophorion), astronomical phenomena cited by Greek authors, and dates in the Roman Julian calendar.",
+      "markdown": "| Letra | Dia ático (Σκιρροφοριών) e parapegma | Data romana |\n|---|---|---|\n| A | ΣΚΙΡΡΟΦΟΡΙΩΝ ΚΒ. ΠΡΟΤΕΡΟΣ ΜΑ. | VII. KAL. IVNI. |\n| B | ΣΚΙΡΡΟΦΟΡΙΩΝ ΠΡΟΤΕΡΟΣ Γ. ΠΡΟΤΕΡΟΣ Ξ | VI. KAL. IVNI. |\n|   | Οἱ Δίδυμοι ἄρχονται ἐπιτέλλειν. Νοτία. ΚΑΛΙΠΠΟΣ. |   |\n| Γ | ΣΚΙΡΡΟΦΟΡΙΩΝ ΙΑ. ΠΡΟΤΕΡΟΣ Λ. ΠΡΟΤΕΡΟΣ ΜΘ. ΠΡΟΤΕΡΟΣ ΞΗ. | V. KAL. IVNI. |\n| Δ | ΣΚΙΡΡΟΦΟΡΙΩΝ ΛΗ. ΝΖ. | IV. KAL. IVNI. |\n| E | ΣΚΙΡΡΟΦΟΡΙΩΝ ΙΘ. | III. KAL. IVNI. |\n|   | Ὑάδες ᾧ ἐπιτέλλουσιν. ΕΥΔΟΞΟΣ. |   |\n| ϛ | ΣΚΙΡΡΟΦΟΡΙΩΝ ΚΖ. Μϛ. ΞΕ. Οϛ. | PRID. KAL. IVNI. |\n| Z | ΣΚΙΡΡΟΦΟΡΙΩΝ Η. | KAL. IVNI. |\n|   | Ἀετὸς ἀκρόνυχος ἐπιτέλλει. ΕΥΔΟΞΟΣ. |   |\n| B / H | ΣΚΙΡΡΟΦΟΡΙΩΝ Ε. Ιϛ. ΛΕ. ΝΔ. ΟΓ. | IV. NON. IVN. |\n| Θ | ΣΚΙΡΡΟΦΟΡΙΩΝ ΜΓ. | III. NON. IVN. |\n| I | ΣΚΙΡΡΟΦΟΡΙΩΝ ΙΓ. ΚΔ. ΞΔ. | PRID. NON. IVN. |\n|   | Ὕδωρ γίνεται. ΔΗΜΟΚΡΙΤΟΣ. |   |\n| IA | ΣΚΙΡΡΟΦΟΡΙΩΝ ΛΒ. ΝΑ. Θ. | NON. IVN. |\n| IB | ΣΚΙΡΡΟΦΟΡΙΩΝ ΚΑ. | VIII. EID. IVN. |\n| IΓ | ΣΚΙΡΡΟΦΟΡΙΩΝ Β. Μ. ΝΘ. | VII. EID. IVN. |\n|   | Ἀρκτοῦρος ἕως δύνει. ΕΥΔΟΞΟΣ. |   |\n| IΔ | ΣΚΙΡΡΟΦΟΡΙΩΝ Ι. ΚΘ. ΜΗ. ΞΖ. | VI. EID. IVN. |\n| IE | ΣΚΙΡΡΟΦΟΡΙΩΝ ΙΗ. ΛΖ. | V. EID. IVN. |\n| Iϛ | ΣΚΙΡΡΟΦΟΡΙΩΝ ΟΕ. | IV. EID. IVN. |\n| IZ | ΣΚΙΡΡΟΦΟΡΙΩΝ Ζ. Κϛ. ΜΕ. Νϛ. ΞΔ. | III. EID. IVN. |\n| IH | ΣΚΙΡΡΟΦΟΡΙΩΝ ΝΓ. | PRID. EID. IVN. |\n|   | Δελφὶς ἀκρόνυχος ἐπιτέλλει. ΕΥΔΟΞΟΣ. |   |\n| C / IΘ | ΣΚΙΡΡΟΦΟΡΙΩΝ ΙΓ. ΛΔ. ΟΒ. | EID. IVNI. |\n| K | ΣΚΙΡΡΟΦΟΡΙΩΝ ΚΓ. ΜΒ. ΞΑ. | XVIII. KAL. IVLI. |\n| KA | ΣΚΙΡΡΟΦΟΡΙΩΝ Δ. ΞΘ. | XVII. KAL. IVLI. |\n| KB | ΣΚΙΡΡΟΦΟΡΙΩΝ ΙΒ. ΛΑ. | XVI. KAL. IVLI. |\n| KΓ | ΣΚΙΡΡΟΦΟΡΙΩΝ Ν. ΔΕΥΤΕΡΟΣ Α. ΔΕΥΤΕΡΟΣ ΛΘ. | XV. KAL. IVL. |\n| KΔ | ΣΚΙΡΡΟΦΟΡΙΩΝ ΔΕΥΤΕΡΟΣ Θ. ΔΕΥΤΕΡΟΣ Κ. ΔΕΥΤΕΡΟΣ ΝΗ. ΔΕΥΤΕΡΟΣ Ξϛ. | XIV. KAL. IVL. |\n|   | Ὠρίωνος ὦμος ἐπιτέλλει. ΕΥΚΤΗΜΩΝ. |   |\n|   | Ὠρίων ἄρχεται ἐπιτέλλειν. ΕΥΔΟΞΟΣ. |   |\n| KE | ΣΚΙΡΡΟΦΟΡΙΩΝ ΔΕΥΤΕΡΟΣ ΚΗ. ΔΕΥΤΕΡΟΣ ΜΖ. | XIII. KAL. IVLI. |\n| Kϛ | ΣΚΙΡΡΟΦΟΡΙΩΝ ΔΕΥΤΕΡΟΣ ΙΖ. ΔΕΥΤΕΡΟΣ ΟΔ. | XII. KAL. IVL. |\n| D / KZ | ΣΚΙΡΡΟΦΟΡΙΩΝ ΔΕΥΤΕΡΟΣ Λϛ. ΔΕΥΤΕΡΟΣ ΝΕ. | XI. KAL. IVL. |\n| KH | ΣΚΙΡΡΟΦΟΡΙΩΝ ΔΕΥΤΕΡΟΣ ϛ. ΔΕΥΤΕΡΟΣ ΚΕ. ΔΕΥΤΕΡΟΣ ΜΔ. ΔΕΥΤΕΡΟΣ ΞΓ. | X. KAL. IVL. |\n| KΘ | ΣΚΙΡΡΟΦΟΡΙΩΝ ΔΕΥΤΕΡΟΣ ΙΔ. | IX. KAL. IVL. |\n|   | Ὠρίων ἄρχεται ἐπιτέλλειν. Φιλεῖ ἐπισημαίνειν ἐπ' αὐτῷ. ΔΗΜΟΚΡΙΤΟΣ. |   |\n| Λ | ΣΚΙΡΡΟΦΟΡΙΩΝ ΔΕΥΤΕΡΟΣ ΟΔ. | VIII. KAL. IVL. |\n| ΛΑ | ΣΚΙΡΡΟΦΟΡΙΩΝ ΔΕΥΤΕΡΟΣ Γ. ΔΕΥΤΕΡΟΣ ΚΒ. ΔΕΥΤΕΡΟΣ ΛΓ. ΔΕΥΤΕΡΟΣ ΜΑ. ΔΕΥΤΕΡΟΣ Ξ. | VII. KAL. IVL. |\n| ΛΒ | ΣΚΙΡΡΟΦΟΡΙΩΝ ΔΕΥΤΕΡΟΣ Λ. ΔΕΥΤΕΡΟΣ ΜΘ. | VI. KAL. IVL. |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "Οἱ Δίδυμοι ἄρχονται ἐπιτέλλειν. Νοτία.",
+      "historical_date_as_cited": "Σκιρροφοριών (προτέρου) — VI. Kal. Iun.",
+      "location": "",
+      "ancient_source": "Callippus (ΚΑΛΙΠΠΟΣ)"
+    },
+    {
+      "type": "other",
+      "description": "Ὑάδες ᾧ ἐπιτέλλουσιν. (Nascer das Híades)",
+      "historical_date_as_cited": "Σκιρροφοριών 19 — III. Kal. Iun.",
+      "location": "",
+      "ancient_source": "Eudoxus (ΕΥΔΟΞΟΣ)"
+    },
+    {
+      "type": "other",
+      "description": "Ἀετὸς ἀκρόνυχος ἐπιτέλλει. (Nascer acrônico da Águia)",
+      "historical_date_as_cited": "Σκιρροφοριών 8 — Kal. Iun.",
+      "location": "",
+      "ancient_source": "Eudoxus (ΕΥΔΟΞΟΣ)"
+    },
+    {
+      "type": "other",
+      "description": "Ὕδωρ γίνεται. (Ocorrem chuvas)",
+      "historical_date_as_cited": "Prid. Non. Iun.",
+      "location": "",
+      "ancient_source": "Democritus (ΔΗΜΟΚΡΙΤΟΣ)"
+    },
+    {
+      "type": "other",
+      "description": "Ἀρκτοῦρος ἕως δύνει. (Arcturo se põe ao amanhecer)",
+      "historical_date_as_cited": "VII. Eid. Iun.",
+      "location": "",
+      "ancient_source": "Eudoxus (ΕΥΔΟΞΟΣ)"
+    },
+    {
+      "type": "other",
+      "description": "Δελφὶς ἀκρόνυχος ἐπιτέλλει. (Nascer acrônico do Delfim)",
+      "historical_date_as_cited": "Prid. Eid. Iun.",
+      "location": "",
+      "ancient_source": "Eudoxus (ΕΥΔΟΞΟΣ)"
+    },
+    {
+      "type": "other",
+      "description": "Ὠρίωνος ὦμος ἐπιτέλλει. (Nasce o ombro de Órion)",
+      "historical_date_as_cited": "XIV. Kal. Iul.",
+      "location": "",
+      "ancient_source": "Euctemon (ΕΥΚΤΗΜΩΝ)"
+    },
+    {
+      "type": "other",
+      "description": "Ὠρίων ἄρχεται ἐπιτέλλειν. (Órion começa a nascer)",
+      "historical_date_as_cited": "XIV. Kal. Iul.",
+      "location": "",
+      "ancient_source": "Eudoxus (ΕΥΔΟΞΟΣ)"
+    },
+    {
+      "type": "other",
+      "description": "Ὠρίων ἄρχεται ἐπιτέλλειν. Φιλεῖ ἐπισημαίνειν ἐπ' αὐτῷ. (Órion começa a nascer; costuma haver mudança de tempo nesse dia)",
+      "historical_date_as_cited": "IX. Kal. Iul.",
+      "location": "",
+      "ancient_source": "Democritus (ΔΗΜΟΚΡΙΤΟΣ)"
+    }
+  ],
+  "uncertainty_flags": [
+    "Alguns numerais gregos em caracteres pequenos (ex.: ΟΕ, ΞΘ, ΟΔ, ΟΒ) podem ser confundidos entre si; valores transcritos conforme melhor leitura do scan.",
+    "Linha E (Σκιρροφοριών ΙΘ) aparece sem números adicionais — conforme original.",
+    "A indicação 'ΣΚΙΡΡΟΩΟΡΙΩΝ' na linha IE é provável erro tipográfico do original por ΣΚΙΡΡΟΦΟΡΙΩΝ; normalizado na transcrição."
+  ],
+  "notes": "Página é parte do parapegma de Scaliger, reconstituindo a correspondência diária entre o mês ático Σκιρροφοριών, as observações astronômicas de Calipo, Eudoxo, Euctêmon e Demócrito, e as datas romanas de junho/julho, para os 32 dias do signo de Gêmeos. Letras maiúsculas latinas (A, B, C, D) à esquerda indicam divisões da semana planetária/hebdomadal.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T18:29:28Z",
+    "input_tokens": 7748,
+    "output_tokens": 5311
+  }
+}

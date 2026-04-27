@@ -1,0 +1,58 @@
+{
+  "page": 252,
+  "page_type": "mixed",
+  "latin": "A ἀδηλῶς, inquit, ὁ Χρύσιππος ἀστρολόγος ἀνέθηκεν Ὀλυμπίοις τὸ χαλκοῦν γραμματεῖον, ἐγγράψας ἐν αὐτῷ τὴν ἀστρολογίαν τῆς ἑνὸς δέοντων ἑξήκοντα ἐτῶν, φήσας τὸν μέγαν ἐνιαυτὸν εἶναι τοῦτον. Per ἀστρολογίαν manifeste intelligit τὰ φαινόμενα, καὶ τὰ παραπήγματα, ut de anno Democriti diximus.\n\nDE CYCLO LVNARI VETERVM SAXONVM.\n\nVeterum Gallorum, & Germanorum annum Lunarem fuisse ex Caesare & Cor. Tacito cognoscimus. De Germanis ita scripsit Tacitus: Coeunt, nisi quid fortuitum & subitum inciderit, certis diebus, cum aut inchoatur Luna, aut impletur. Nam agendis rebus hoc auspicatissimum initium credunt. Quin Germani non pugnabant decrescente Luna, auctore Iul. Frontino lib. II. At veterum Saxonum & Danorum mira anni ordinatio fuit ex affectibus Oceani, cuius littora accolebant illi. Notissimum ad eius sideris incrementa & decrementa Oceani quoque vices recurrere. Sed in pleniluniis amborum aequinoctiorum duae fiunt ingentes πλημμύραι, ad quarum observationem annum suum digesserunt. Eas πλημμύρας maiores Malinas; Minores autem Ledunas, vel Lidunas vocabant. Nulla est natio, quae, quamvis anno Lunari uteretur, tamen & So-[laris]",
+  "pt": "«Obscuramente», diz ele, «Crisipo, o astrólogo, dedicou aos Olímpicos a tábua de bronze, tendo inscrito nela a astrologia dos cinquenta e nove anos [lit. sessenta menos um], afirmando ser este o Grande Ano.» Por «astrologia» entende manifestamente os fenômenos e os parapegmas, como dissemos a respeito do ano de Demócrito.\n\nSOBRE O CICLO LUNAR DOS ANTIGOS SAXÕES.\n\nSabemos por César e por Cornélio Tácito que os antigos gauleses e germanos usavam ano lunar. Acerca dos germanos, assim escreveu Tácito: «Reúnem-se, a menos que algo fortuito e súbito ocorra, em dias fixos, quando ou se inicia a Lua, ou se cumpre. Pois consideram este o início mais auspicioso para tratar dos negócios.» Aliás, os germanos não combatiam na lua minguante, segundo Júlio Frontino, livro II. Mas, entre os antigos saxões e dinamarqueses, houve admirável ordenação do ano a partir dos movimentos do Oceano, cujos litorais habitavam. É notório que, conforme as crescências e decrescências daquele astro, também se repetem as alternâncias do Oceano. Ora, nas luas cheias de ambos os equinócios ocorrem duas grandes πλημμύραι [marés], segundo cuja observação organizaram o seu ano. A essas πλημμύρας [marés] maiores chamavam Malinas; às menores, Ledunas ou Lidunas. Não há nação que, ainda que use ano lunar, não [combine também com o So-]lar.",
+  "en": "“Obscurely,” he says, “Chrysippus the astrologer dedicated to the Olympians the bronze tablet, having inscribed upon it the astrology of the fifty-nine [lit. one-less-than-sixty] years, asserting this to be the Great Year.” By “astrology” he plainly means the phenomena and the parapegmata, as we said concerning the year of Democritus.\n\nON THE LUNAR CYCLE OF THE ANCIENT SAXONS.\n\nWe know from Caesar and Cornelius Tacitus that the ancient Gauls and Germans used a lunar year. Concerning the Germans, Tacitus wrote thus: “They assemble, unless something fortuitous and sudden has intervened, on fixed days, when the Moon either begins or is full. For they believe this to be the most auspicious beginning for transacting affairs.” Indeed, the Germans would not fight during a waning Moon, as Julius Frontinus attests in book II. But among the ancient Saxons and Danes there was a remarkable arrangement of the year based on the movements of the Ocean, whose shores they inhabited. It is well known that, corresponding to the waxings and wanings of that heavenly body, the alternations of the Ocean likewise recur. Now, at the full moons of both equinoxes there occur two great πλημμύραι [tides], by the observation of which they organized their year. These greater πλημμύραι they called Malinae; the lesser ones Ledunae or Lidunae. There is no nation that, although using a lunar year, does not also [combine it with the So-]lar.",
+  "tables": [
+    {
+      "caption_pt": "Meses dos antigos dinamarqueses e dos antigos saxões, alinhados aos meses romanos",
+      "caption_en": "Months of the ancient Danes and ancient Saxons, aligned with the Roman months",
+      "markdown": "| MENSES PRISCORUM Danorum | MENSES (Romani) | MENSES VETERUM SAXONUM |\n|---|---|---|\n| Fischemaanet | SEPTEMBER | Halegmonath |\n| Seemaanet | OCTOBER | Wintyrfullith |\n| Slactmaanet | NOVEMBER | Blothmonath |\n| Christmaanet | DECEMBER | Giuli prior |\n| Glugmaanet | IANUARIUS | Giuli posterior |\n| Bludemaanet | FEBRUARIUS | Solmonath |\n| Aoormaanet | MARTIUS | Rethmonath |\n| Faaremaanet | APRILIS | Chosturmonath |\n| Maimaanet | MAIUS | Trimilchi |\n| Hoemaanet | IUNIUS | Lida prior |\n| Ornumaanet | IULIUS | Lida posterior |\n| EMBOLIMUS | O   O | Lida embolimus |\n| Hooftmaanet | AUGUSTUS | Weidenmonath |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "ἀστρολογίαν τῆς ἑνὸς δέοντων ἑξήκοντα ἐτῶν, φήσας τὸν μέγαν ἐνιαυτὸν εἶναι τοῦτον — astrologia/parapegma de 59 anos, declarado Grande Ano por Crisipo",
+      "historical_date_as_cited": "—",
+      "location": "Olímpia",
+      "ancient_source": "Crisipo, o astrólogo (via fonte não nomeada nesta página)"
+    },
+    {
+      "type": "equinox",
+      "description": "in pleniluniis amborum aequinoctiorum duae fiunt ingentes πλημμύραι — nas luas cheias de ambos os equinócios ocorrem duas grandes marés",
+      "historical_date_as_cited": "equinócios (primavera e outono)",
+      "location": "litoral do Oceano (costas dos antigos saxões e dinamarqueses)",
+      "ancient_source": "observação dos antigos saxões e dinamarqueses"
+    },
+    {
+      "type": "other",
+      "description": "Germani non pugnabant decrescente Luna — os germanos não combatiam na lua minguante",
+      "historical_date_as_cited": "—",
+      "location": "Germânia",
+      "ancient_source": "Júlio Frontino, livro II"
+    },
+    {
+      "type": "other",
+      "description": "Coeunt... certis diebus, cum aut inchoatur Luna, aut impletur — assembleias germânicas na lua nova ou cheia",
+      "historical_date_as_cited": "—",
+      "location": "Germânia",
+      "ancient_source": "Tácito, Germânia"
+    }
+  ],
+  "uncertainty_flags": [
+    "No início da página, a primeira palavra grega após 'A' foi lida como ἀδηλῶς (obscuramente) por conjectura do contexto ('manifeste intelligit' faz contraste); os acentos do grego cursivo humanístico são de leitura difícil no scan.",
+    "Nome do autor citado em grego lido como ὁ Χρύσιππος ἀστρολόγος; a leitura depende de 'Χρ' ligado, plausível pelo contexto (parapegma atribuído a Crisipo/Cleóstrato em tradição similar — possível também Κλεόστρατος, mas as letras visíveis favorecem Χρύσιππος).",
+    "Marca '●' após 'Trimilchi' na tabela parece um sinal tipográfico (asterisco/bola) e não um valor.",
+    "Célula da coluna romana frente a EMBOLIMUS/Lida embolimus mostra 'O   O' — provavelmente marcador de ausência de correspondência romana."
+  ],
+  "notes": "Página de transição: encerra discussão sobre o Grande Ano de Crisipo/Demócrito e abre nova seção sobre o ciclo lunar dos antigos saxões e dinamarqueses, com tabela tríplice de nomes de meses. A reclame ao pé ('laris') indica continuação 'Solaris' na página seguinte.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T17:26:47Z",
+    "input_tokens": 7748,
+    "output_tokens": 3443
+  }
+}

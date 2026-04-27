@@ -1,0 +1,47 @@
+{
+  "page": 286,
+  "page_type": "mixed",
+  "latin": "DE EMENDAT. TEMPORVM LIB. III.\n\nANNI PER CYCLOS COLLECTI.\n\n[Tabula: vide sectionem tables]\n\nTABELLA OPPOSITIONIS LVMINARIVM per menses.\n\n[Tabula: vide sectionem tables]\n\nmensis. Vtraque horas, & scrupulos. Hanc periodum antecedit Tabella oppositionum in mensibus Nabonassari, quam in gratiam eorum confecimus, qui Ptolemaeum legunt: vt sine magno negotio & labore, deliquia Lunaria ab antiquis obseruata, quae exstant apud illum scriptorem, reperiant. Coniunctiones autem luminarium petendae sunt ex Tabella mensium, quam initio huius libri posuimus, vbi methodum anni aequabilis tradimus. Postremo antepofita est Tabula per periodos expansas collecta, quam ad 3000 annos extendimus. Hoc quoque studiosorum laborem leuabit in nouiluniis, & oppositionibus colligendis. Methodi summa haec est: Ab annis Nabonassari propositis abiice semper minorem numerum annorum in sinistro latere Tabulae maioris, etiam si praecise inueniuntur.\n\nVt si",
+  "pt": "DA EMENDA DOS TEMPOS, LIVRO III.\n\nANOS REUNIDOS POR CICLOS.\n\n[Tabela: ver seção tables]\n\nTABELA DA OPOSIÇÃO DOS LUMINARES por meses.\n\n[Tabela: ver seção tables]\n\ndo mês. Ambas [as tabelas dão] horas e escrúpulos. Este período é precedido pela Tabela das oposições nos meses de Nabonassar, que elaboramos em favor daqueles que leem Ptolomeu, para que, sem grande esforço e trabalho, possam encontrar os eclipses lunares observados pelos antigos, que se encontram naquele escritor. As conjunções dos luminares, porém, devem ser buscadas na Tabela dos meses, que pusemos no início deste livro, onde expomos o método do ano equável. Por fim, foi anteposta a Tabela reunida por períodos expandidos, que estendemos até 3000 anos. Isto também aliviará o trabalho dos estudiosos na coleta das novilúnios e oposições. A suma do método é esta: Dos anos de Nabonassar propostos, sempre subtrai o número menor de anos no lado esquerdo da Tabela maior, ainda que se encontrem com precisão.\n\nPor exemplo, se",
+  "en": "ON THE EMENDATION OF TIMES, BOOK III.\n\nYEARS COLLECTED BY CYCLES.\n\n[Table: see tables section]\n\nTABLE OF THE OPPOSITION OF THE LUMINARIES by months.\n\n[Table: see tables section]\n\nof the month. Both [tables give] hours and scruples. This period is preceded by the Table of oppositions in the months of Nabonassar, which we composed for the benefit of those who read Ptolemy, so that without great effort and labor they might find the lunar eclipses observed by the ancients, which are extant in that writer. The conjunctions of the luminaries, however, are to be sought from the Table of months which we placed at the beginning of this book, where we expound the method of the equable year. Finally, there has been prefixed the Table collected by expanded periods, which we have extended to 3000 years. This too will ease the labor of scholars in collecting new moons and oppositions. The sum of the method is this: From the given years of Nabonassar, always subtract the smaller number of years on the left side of the greater Table, even if they are found precisely.\n\nFor instance, if",
+  "tables": [
+    {
+      "caption_pt": "Anos reunidos por ciclos — Parte anterior (Féria, Hora, Escrúpulo) e Parte posterior (Dias, Hora, Escrúpulo)",
+      "caption_en": "Years collected by cycles — Anterior part (Feria, Hour, Scruple) and Posterior part (Days, Hour, Scruple)",
+      "markdown": "| Anni per cyclos collecti | Feria | Hor. | Scrup. | Dies | Hor. | Scrup. |\n|---|---|---|---|---|---|---|\n| 25 | 3 | 22 | 957 | 0 | 1 | 123 |\n| 50 | 7 | 21 | 834 | 0 | 2 | 246 |\n| 75 | 4 | 20 | 711 | 0 | 3 | 369 |\n| 100 | 1 | 19 | 588 | 0 | 4 | 492 |\n| 125 | 5 | 18 | 465 | 0 | 5 | 615 |\n| 150 | 2 | 17 | 342 | 0 | 6 | 738 |\n| 175 | 6 | 16 | 219 | 0 | 7 | 861 |\n| 200 | 3 | 15 | 96 | 0 | 8 | 984 |\n| 225 | 7 | 13 | 1053 | 0 | 10 | 27 |\n| 250 | 4 | 12 | 930 | 0 | 11 | 150 |\n| 275 | 1 | 11 | 807 | 0 | 12 | 273 |\n| 300 | 5 | 10 | 684 | 0 | 13 | 396 |\n| 325 | 2 | 9 | 561 | 0 | 14 | 519 |\n| 350 | 6 | 8 | 438 | 0 | 15 | 642 |\n| 375 | 3 | 7 | 315 | 0 | 16 | 765 |\n| 400 | 7 | 6 | 192 | 0 | 17 | 888 |\n| 425 | 4 | 5 | 69 | 0 | 18 | 1011 |\n| 450 | 1 | 3 | 1026 | 0 | 20 | 54 |\n| 475 | 5 | 2 | 903 | 0 | 21 | 177 |\n| 500 | 2 | 1 | 780 | 0 | 22 | 300 |\n| 525 | 6 | 0 | 657 | 0 | 23 | 423 |\n| 550 | 2 | 23 | 534 | 1 | 0 | 546 |\n| 575 | 6 | 22 | 411 | 1 | 1 | 669 |\n| 600 | 3 | 21 | 288 | 1 | 2 | 792 |\n| 625 | 1[?] | 20 | 165 | 1 | 3 | 915 |\n| 650 | 4 | 19 | 42 | 1 | 4 | 1038 |\n| 675 | 1 | 17 | 999 | 1 | 6 | 81 |\n| 700 | 5 | 16 | 876 | 1 | 7 | 204 |\n| 725 | 2 | 15 | 753 | 1 | 8 | 327 |\n| 750 | 6 | 14 | 630 | 1 | 9 | 450 |\n| 775 | 3 | 13 | 507 | 1 | 10 | 573 |\n| 800 | 7 | 12 | 384 | 1 | 11 | 696 |\n| 825 | 4 | 11 | 261 | 1 | 12 | 819 |\n| 850 | 1 | 10 | 138 | 1 | 13 | 942 |\n| 875 | 5 | 9 | 15 | 1 | 14 | 1065 |\n| 900 | 2 | 7 | 972 | 1 | 16 | 108 |\n| 925 | 6 | 6 | 849 | 1 | 17 | 231 |\n| 950 | 3 | 5 | 726 | 1 | 18 | 354 |\n| 975 | 7 | 4 | 603 | 1 | 19 | 477 |\n| 1000 | 4 | 3 | 480 | 1 | 20 | 600 |\n| 2000 | 1 | 6 | 960 | 1 | 17 | 120 |\n| 3000 | 5 | 10 | 360 | 1 | 13 | 720 |"
+    },
+    {
+      "caption_pt": "Tabela da oposição dos luminares por meses (Parte anterior: Dias do mês, Féria, Hora, Escrúpulo; Parte posterior: Dias, Hora, Escrúpulo)",
+      "caption_en": "Table of the opposition of the luminaries by months (Anterior part: Days of month, Feria, Hour, Scruple; Posterior part: Days, Hour, Scruple)",
+      "markdown": "| Menses | Dies mensium | Feria | Hor. | Scrup. | Dies | Hor. | Scrup. |\n|---|---|---|---|---|---|---|---|\n| 1 | 14 | 7 | 18 | 396 | 15 | 5 | 684 |\n| 2 | 44 | 2 | 7 | 109 | 15 | 16 | 971 |\n| 3 | 73 | 3 | 19 | 902 | 16 | 4 | 178 |\n| 4 | 103 | 5 | 8 | 615 | 16 | 15 | 465 |\n| 5 | 132 | 6 | 21 | 328 | 17 | 2 | 752 |\n| 6 | 162 | 1 | 10 | 41 | 17 | 13 | 1039 |\n| 7 | 191 | 2 | 22 | 834 | 18 | 1 | 246 |\n| 8 | 221 | 4 | 11 | 547 | 18 | 12 | 533 |\n| 9 | 251 | 6 | 0 | 260 | 18 | 23 | 820 |\n| 10 | 280 | 7 | 12 | 1053 | 19 | 11 | 27 |\n| 11 | 310 | 2 | 1 | 766 | 19 | 22 | 314 |\n| 12 | 339 | 3 | 14 | 479 | 20 | 9 | 601 |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "lunar_eclipse",
+      "description": "deliquia Lunaria ab antiquis obseruata, quae exstant apud illum scriptorem [Ptolemaeum]",
+      "historical_date_as_cited": "anos de Nabonassar (referência geral à era e aos eclipses registrados no Almagesto de Ptolomeu)",
+      "location": "",
+      "ancient_source": "Ptolomeu"
+    },
+    {
+      "type": "conjunction",
+      "description": "Coniunctiones autem luminarium petendae sunt ex Tabella mensium",
+      "historical_date_as_cited": "referência metodológica geral (novilúnios e oposições ao longo de 3000 anos da era de Nabonassar)",
+      "location": "",
+      "ancient_source": ""
+    }
+  ],
+  "uncertainty_flags": [
+    "Linha 625 da primeira tabela: o dígito da Féria está borrado no scan; lido como '1' mas pode ser outro valor.",
+    "Alguns escrúpulos de três dígitos (p.ex. 765 na linha 375) têm leitura ligeiramente incerta devido a borrões tipográficos."
+  ],
+  "notes": "Página quase inteiramente tabular, concluindo a exposição das tabelas de ciclos e oposições lunares. O texto em prosa explica que (1) a tabela de oposições nos meses de Nabonassar serve para leitores de Ptolomeu localizarem eclipses lunares; (2) as conjunções devem ser buscadas na tabela de meses do início do livro; (3) a tabela por períodos expandidos vai até 3000 anos. A página termina com 'Vt si' (custos), iniciando um exemplo que continua na página seguinte.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T17:48:48Z",
+    "input_tokens": 7748,
+    "output_tokens": 4152
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "page": 361,
+  "page_type": "mixed",
+  "latin": "TABULA ANNORUM COLLECTORUM RABBI ADDA.\n\n[Tabula prima: Quantitas anni solaris Rabbi Adda; Differentia]\n[Tabula secunda: Quantitas anni solaris Rabbi Adda; Differentia]\n\nDE ANNO RABBI ADDA.\n\nEn tabulas duas duplici pagina construximus, annorum expansorum, & collectorum. In priore pagina continetur quantitas anni Solaris προεμπτώσεως σεληνιακῆς, in altera differentia illius anni & Iuliani, hoc est, προέμπτωσις σεληνιακή. Rabbi Ada, vel, ut Epiphanius scribit, Αδδα, videns in 600 annis & amplius, a Calippo ad sua tempora, rationes periodi Seleucidarum in peius ruere, ut biduum integrum epocham neomeniarum morari inciperent, collatis Hipparchi cum Calippicis neomeniis, deprehendit hoc vitium receptum ex usu anni Iuliani, qui iusto Solari longior esset: Quare Hipparchum sequutus, eam anni So-",
+  "pt": "TÁBUA DOS ANOS COLETOS DO RABI ADDA.\n\n[Primeira tábua: Quantidade do ano solar do Rabi Adda; Diferença]\n[Segunda tábua: Quantidade do ano solar do Rabi Adda; Diferença]\n\nSOBRE O ANO DO RABI ADDA.\n\nEis que construímos duas tábuas em dupla página, dos anos expandidos e dos coletos. Na página anterior contém-se a quantidade do ano solar [προεμπτώσεως σεληνιακῆς] \"da proêmptose lunar\"; na outra, a diferença entre aquele ano e o juliano, isto é, [προέμπτωσις σεληνιακή] \"proêmptose lunar\". O Rabi Ada, ou, como escreve Epifânio, [Αδδα] \"Adda\", vendo que em 600 anos e mais, desde Calipo até o seu tempo, os cômputos do período dos Selêucidas iam-se deteriorando, a ponto de começarem a atrasar por dois dias inteiros a época das neomênias — confrontadas as neomênias de Hiparco com as calípicas —, descobriu que esse defeito fora introduzido pelo uso do ano juliano, o qual era mais longo do que o solar justo. Por isso, seguindo Hiparco, [determinou] essa [quantidade] do ano so[lar]...",
+  "en": "TABLE OF THE COLLECTED YEARS OF RABBI ADDA.\n\n[First table: Quantity of the solar year of Rabbi Adda; Difference]\n[Second table: Quantity of the solar year of Rabbi Adda; Difference]\n\nON THE YEAR OF RABBI ADDA.\n\nBehold, we have constructed two tables on a double page, of the expanded and of the collected years. On the previous page is contained the quantity of the solar year [προεμπτώσεως σεληνιακῆς] \"of the lunar proemptosis\"; on the other, the difference between that year and the Julian, that is, [προέμπτωσις σεληνιακή] \"lunar proemptosis\". Rabbi Ada, or, as Epiphanius writes, [Αδδα] \"Adda\", seeing that in 600 years and more, from Callippus down to his own time, the computations of the Seleucid period were going from bad to worse, so that they began to delay by a full two days the epoch of the new moons—when Hipparchus's new moons were compared with the Callippic ones—discovered that this fault had been introduced through the use of the Julian year, which was longer than the true solar one. Wherefore, following Hipparchus, [he determined] that [quantity] of the sol[ar] year...",
+  "tables": [
+    {
+      "caption_pt": "Tábua dos anos coletos do Rabi Adda — primeira coluna dupla: quantidade do ano solar (Anos coletos | Féria | Horas | Escrúpulos/1080) e diferença (Dias | Horas | Escrúpulos/1080).",
+      "caption_en": "Table of collected years of Rabbi Adda — first double column: quantity of solar year (Collected years | Feria | Hours | Scruples/1080) and difference (Days | Hours | Scruples/1080).",
+      "markdown": "| Anni collecti | Feria | Horae | Scrup. 1080 | Dies | Horae | Scrup. 1080 |\n|---|---|---|---|---|---|---|\n| 114 | 2 | 3 | 330 | 0 | 8 | 750 |\n| 228 | 4 | 6 | 660 | 0 | 17 | 420 |\n| 342 | 6 | 9 | 990 | 1 | 2 | 90 |\n| 456 | 1 | 13 | 240 | 1 | 10 | 840 |\n| 570 | 3 | 16 | 570 | 1 | 19 | 510 |\n| 684 | 5 | 19 | 900 | 2 | 4 | 180 |\n| 798 | 7 | 23 | 150 | 2 | 12 | 930 |\n| 912 | 3 | 2 | 480 | 2 | 21 | 600 |\n| 1026 | 5 | 5 | 810 | 3 | 6 | 270 |\n| 1140 | 7 | 9 | 60 | 3 | 14 | 1020 |\n| 1254 | 2 | 12 | 390 | 3 | 23 | 690 |\n| 1368 | 4 | 15 | 720 | 4 | 8 | 360 |\n| 1482 | 6 | 18 | 1050 | 4 | 17 | 30 |\n| 1596 | 1 | 22 | 300 | 5 | 1 | 780 |\n| 1710 | 4 | 1 | 630 | 5 | 10 | 450 |\n| 1824 | 6 | 4 | 960 | 5 | 19 | 120 |\n| 1938 | 1 | 8 | 210 | 6 | 3 | 870 |\n| 2052 | 3 | 11 | 540 | 6 | 12 | 540 |\n| 2166 | 5 | 14 | 870 | 6 | 21 | 210 |\n| 2280 | 7 | 18 | 120 | 7 | 5 | 960 |\n| 2394 | 2 | 21 | 450 | 7 | 14 | 530 |\n| 2508 | 5 | 0 | 780 | 7 | 23 | 300 |\n| 2622 | 7 | 4 | 30 | 8 | 7 | 1050 |\n| 2736 | 2 | 7 | 360 | 8 | 16 | 720 |\n| 2850 | 4 | 10 | 690 | 9 | 1 | 390 |\n| 2964 | 6 | 13 | 1020 | 9 | 10 | 60 |\n| 3078 | 1 | 17 | 270 | 9 | 18 | 810 |\n| 3192 | 3 | 20 | 600 | 10 | 3 | 480 |\n| 3306 | 5 | 23 | 930 | 10 | 12 | 150 |\n| 3420 | 1 | 3 | 180 | 10 | 20 | 900 |\n| 3534 | 3 | 6 | 510 | 11 | 5 | 570 |\n| 3648 | 5 | 9 | 840 | 11 | 14 | 240 |\n| 3762 | 7 | 13 | 90 | 11 | 22 | 990 |\n| 3876 | 2 | 16 | 420 | 12 | 7 | 660 |\n| 3990 | 4 | 19 | 750 | 12 | 16 | 330 |\n| 4104 | 6 | 23 | 0 | 13 | 1 | 0 |\n| 4218 | 2 | 2 | 330 | 13 | 9 | 750 |\n| 4332 | 4 | 5 | 660 | 13 | 18 | 420 |\n| 4446 | 6 | 8 | 990 | 14 | 3 | 90 |\n| 4560 | 1 | 12 | 240 | 14 | 11 | 840 |\n| 4674 | 3 | 15 | 570 | 14 | 20 | 510 |\n| 4788 | 5 | 18 | 900 | 15 | 5 | 180 |\n| 4902 | 7 | 22 | 150 | 15 | 13 | 930 |"
+    },
+    {
+      "caption_pt": "Tábua dos anos coletos do Rabi Adda — segunda coluna dupla (continuação).",
+      "caption_en": "Table of collected years of Rabbi Adda — second double column (continuation).",
+      "markdown": "| Anni collecti | Feria | Horae | Scrup. 1080 | Dies | Horae | Scrup. 1080 |\n|---|---|---|---|---|---|---|\n| 5016 | 3 | 1 | 480 | 15 | 22 | 600 |\n| 5130 | 5 | 4 | 810 | 16 | 7 | 270 |\n| 5244 | 7 | 8 | 60 | 16 | 15 | 1020 |\n| 5358 | 2 | 11 | 390 | 17 | 0 | 690 |\n| 5472 | 4 | 14 | 720 | 17 | 9 | 360 |\n| 5586 | 6 | 17 | 1050 | 17 | 17 | 30 |\n| 5700 | 1 | 21 | 300 | 18 | 2 | 780 |\n| 5814 | 4 | 0 | 630 | 18 | 11 | 630 |\n| 5928 | 6 | 3 | 960 | 18 | 20 | 960 |\n| 6042 | 1 | 7 | 210 | 19 | 4 | 210 |\n| 6156 | 3 | 10 | 540 | 19 | 13 | 540 |\n| 6270 | 5 | 13 | 870 | 19 | 22 | 210 |\n| 6384 | 7 | 17 | 120 | 20 | 6 | 960 |\n| 6498 | 2 | 20 | 450 | 20 | 15 | 630 |\n| 6612 | 4 | 23 | 780 | 21 | 0 | 300 |\n| 6726 | 7 | 3 | 30 | 21 | 8 | 1050 |\n| 6840 | 2 | 6 | 360 | 21 | 17 | 720 |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "neomeniae lunares: comparatio neomeniarum Hipparchi cum Calippicis, quibus Rabbi Ada biduum integrum morae in epocha neomeniarum deprehendit",
+      "historical_date_as_cited": "in 600 annis & amplius, a Calippo ad sua tempora",
+      "location": "",
+      "ancient_source": "Hipparchus; Callippus; Epiphanius"
+    }
+  ],
+  "uncertainty_flags": [
+    "Número da página impresso '278' no topo; o usuário indica página 361 do PDF (numeração do scanner vs. paginação original).",
+    "Valor '4104 | 6 | 23 | 0' — última coluna de escrúpulos aparece como 0, confirmado pela sequência aritmética.",
+    "Valor '6726 | 7 | 3 | 30' — horas e escrúpulos confirmados pela progressão regular."
+  ],
+  "notes": "Página de tabela numérica densa com início de seção expositiva 'De Anno Rabbi Adda'. A tabela apresenta anos coletos em incrementos de 114 anos (ciclo). Os valores progridem regularmente, confirmados por verificação aritmética. O texto em grego transliterado usa προέμπτωσις σεληνιακή (proêmptose lunar), termo técnico da cronologia hebraica de Scaliger.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T18:42:40Z",
+    "input_tokens": 7748,
+    "output_tokens": 4234
+  }
+}

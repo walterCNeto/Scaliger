@@ -1,0 +1,56 @@
+{
+  "page": 908,
+  "page_type": "table",
+  "latin": "Index Hebraicus, Arabicus, Syriacus, Aethiopicus continuatur. Lemmata sequuntur cum interpretationibus Latinis et Graecis et locorum citationibus.",
+  "pt": "Continuação do índice de termos hebraicos, árabes, siríacos e etíopes, com interpretações em latim e grego e referências de páginas. Ver tabela.",
+  "en": "Continuation of the index of Hebrew, Arabic, Syriac, and Ethiopic terms, with Latin and Greek glosses and page references. See table.",
+  "tables": [
+    {
+      "caption_pt": "Coluna esquerda do índice (letras ו, ז, ח, ט)",
+      "caption_en": "Left column of the index (letters waw, zayin, ḥet, ṭet)",
+      "markdown": "| Termo | Glossa | Referência |\n|---|---|---|\n| וי | Wai | 587.b |\n| וְשֵׁת | Wast | 587.c |\n| وتر / ⲰⲦⲈ | Terminus | 702.c |\n| **ז ו ה ץ** | | |\n| מָזוֹן שְׁתֵּי סְעוּדוֹת | Cibaria duarum Cænarum | 569.b |\n| זר | Zar | 577.d |\n| זרו | Zero | 587.a |\n| זָתָא | Zata | 587.b |\n| **ח ם ז ח ת ﻫ** | | |\n| خبور | Chabor flumen | 399.c.d |\n| الحبش | Abasseni, Abissini | 680.b |\n| חג | σκηνοπηγία | 7.pr.11.&c. 26.pr.35. 116.c |\n| חַג חֹדֶשׁ | Coniunguntur | 223.a.d 224.a |\n| חגים | | 26.pr.37 |\n| חדון | Haddon | 577.c |\n| חֹדֶשׁ יָמִים | Mensis dierum quid | 221.c |\n| חו דוני | Haudoni χαῖρε κύριε | frag.32 |\n| חורה | Vive, χαῖρε, ὑγίαινε | frag.32 |\n| חֹל מוֹעֵד | μεταξὺ σαββάτων | 559.b |\n| חויל | Hevvil | 577.c |\n| ܚܘܪܝܐ / ⲰⲢⲒ | ἀπόστολοι | 680.a |\n| חַי יְהוָֹה vel חַי אַלָּה | | 40.pr.10 |\n| חירם | εἰρωμός | 39.pr.20 |\n| חירם בן אבי בעל | | 38.pr.7 |\n| חירם בעל | ἰεθόμβαλος | fr.37.40 |\n| חלד | Sæculum | 298.a |\n| חלוף | Diuisio | 15.pr.22 |\n| מחלוקת | μερισμός, ἐφημερεία | fr.55 |\n| חם | Ham | 587.b |\n| ܚܡܝܡ | Balneatio, Epiphania | 705.c |"
+    },
+    {
+      "caption_pt": "Coluna direita do índice (continuação de ח, depois ט י כ)",
+      "caption_en": "Right column of the index (continuation of ḥet, then ṭet, yod, kaf)",
+      "markdown": "| Termo | Glossa | Referência |\n|---|---|---|\n| חֲנֻכָּה | ἐγκαίνια | 435.c |\n| חַנִּי בַּעַל | Hannibaal | 578.d |\n| ܚܣܡܐ | ὅσι⊕ | 538.c |\n| | ἱλάστης, ἱκέτης | 22.pr.12 |\n| ܚܣܡܐ | ὁσιότης | 538.c |\n| חֲסִידָי | ἅγιοι | 538.c |\n| חצר | | fr.32 |\n| חצר בעל | Hasdrubaal | 578.d |\n| חצרים | ἄσπρυμ⊕ | 38.pr.12 |\n| חצר מות | | fr.31 |\n| حضرموت | Hadramuth | fr.31 |\n| | ἔπαυλις πλανήτων | ibid. |\n| חריב | Herib | 577.c |\n| חרם | Res illicita, item Mecha | 520.c.d |\n| חֻרْم | Peregrinantes Mecham | 520.c.d |\n| חֲרֹסֶת | Embamma Paschale | 572.b |\n| חֶשְׁבּוֹן | Computus | 102.c |\n| חַשְׁמוּנִים חַשְׁמוּנָאִי | Hasmunæi Macabæi domus & gens | 436.d. 437.a |\n| ܚܫܘܡܐ | Chaschuma Ἄξυμα. Regia Aethiopiæ | 680.c. 682.c |\n| **ט ﻃ ﻁ ܛ ש** | | |\n| طلوع | ἀνατολή | 271.a |\n| טעם | Decretum, Edictum | 601.b |\n| מַעְקַע | Residuum Epactæ | 690.b |\n| **י ܝ ك ﻱ** | | |\n| יד | Cippus σηλή | 223.b |\n| اليونانيين | Græci συνέλληνες | 240.c |\n| יה | Iah | 132.d |\n| מולד תהו | νουμηνία χάους i. νουμηνία τοῦ συγκελίν | 631.c |\n| מולד נזופר | νεομηνία ἐπιπλήξεως | 631.c |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [
+    {
+      "type": "other",
+      "description": "ἀνατολή (anatolē, levante / nascer dos astros)",
+      "historical_date_as_cited": "p. 271.a",
+      "location": "",
+      "ancient_source": ""
+    },
+    {
+      "type": "other",
+      "description": "νουμηνία χάους / νεομηνία ἐπιπλήξεως — neomênia caótica e neomênia de censura (terminologia técnica das luas novas calendáricas)",
+      "historical_date_as_cited": "p. 631.c",
+      "location": "",
+      "ancient_source": ""
+    },
+    {
+      "type": "other",
+      "description": "Residuum Epactae (resíduo da epacta) — מַעְקַע",
+      "historical_date_as_cited": "p. 690.b",
+      "location": "",
+      "ancient_source": ""
+    }
+  ],
+  "uncertainty_flags": [
+    "Várias palavras em escrita siríaca/etíope/copta de difícil leitura no scan; transliterações aproximadas.",
+    "O símbolo '⊕' é interpretação tipográfica de uma terminação grega abreviada (-ος).",
+    "Termo 'iεθόμβαλος' (ieth-ombalos) com leitura incerta da inicial.",
+    "Cabeçalhos das seções (sequências de letras alfabéticas) parcialmente ilegíveis."
+  ],
+  "notes": "Página de índice (Index) do final da obra, listando termos hebraicos, árabes, siríacos e etíopes com glossas latinas/gregas e referências de página. Organizada alfabeticamente pelas letras hebraicas (waw, zayin, ḥet, ṭet, yod). A referência 'pr.' indica 'Prolegomena'; 'fr.' indica 'fragmenta'.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-27T14:16:33Z",
+    "input_tokens": 7748,
+    "output_tokens": 2676
+  }
+}

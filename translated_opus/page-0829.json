@@ -1,0 +1,38 @@
+{
+  "page": 829,
+  "page_type": "table",
+  "latin": "ΠΕΡΙ ΤΩΝ ΕΞ ΧΙΛΙΕΤΗΡΙΔΩΝ ΠΟΤΕ ΤΟΥΤΩΝ ΕΚΑΣΤΗ ΚΑΙ ἐπὶ τίνος πεπλήρωται. ΠΕΡΙ ΤΩΝ ΙΑ΄ ΠΕΡΙΟΔΩΝ ΤΩΝ ΑΠΟ ΦΛΒ΄ ΕΤΩΝ. ΠΟΤΕ ΚΑΙ ΕΠΙ τίνος ἑκάστη τούτων πεπλήρωται.",
+  "pt": "Tabela cronológica bizantina em três colunas principais: (A) lista de imperadores bizantinos de Leão até Constantino e Romano, com duração do reinado e anos do período juliano; (B) as seis quiliadas (períodos milenares), indicando quando e sob quem cada uma foi completada; (C) as onze períodos de 532 anos desde Adão, indicando quando e sob quem cada um se completou. Ver conteúdo detalhado no campo tables.",
+  "en": "Byzantine chronological table in three principal columns: (A) list of Byzantine emperors from Leo down to Constantine and Romanus, with length of reign and Julian Period years; (B) the six chiliads (millennial periods), indicating when and under whom each was completed; (C) the eleven periods of 532 years since Adam, indicating when and under whom each was completed. See detailed content in the tables field.",
+  "tables": [
+    {
+      "caption_pt": "Coluna esquerda: Imperadores bizantinos, duração do reinado e anos do Período Juliano",
+      "caption_en": "Left column: Byzantine emperors, length of reign, and Julian Period years",
+      "markdown": "| Imperador (grego) | Anos de reinado | Ano do Período Juliano |\n|---|---|---|\n| Λέων | γ΄ (3) | ͵ϛρϞα (6191) |\n| Τιβέριος ὁ καὶ Ἀψίμαρος | ζ΄ (7) | ͵ϛρϞη (6198) |\n| Ἰουστινιανὸς πάλιν | ϛ΄ (6) | ͵ϛσδ (6204) |\n| Φιλιππικὸς ὁ καὶ Βαρδάνης | β΄ (2) | ͵ϛσϛ (6206) |\n| Ἀρτεμίσιος ὁ καὶ Ἀναστάσιος | γ΄ (3) | ͵ϛσθ (6209) |\n| Θεοδόσιος ὁ Ἀτραμυτινός | α΄ (1) | ͵ϛσι (6210) |\n| Λέων ὁ καὶ Κόνων | κε΄ (25) | ͵ϛσλε (6235) |\n| Ἀρταύασδος | γ΄ (3) | ͵ϛσλη (6238) |\n| Κωνσταντῖνος υἱὸς Λέοντος | λα΄ (31) | ͵ϛσξθ (6269) |\n| Λέων υἱὸς Κωνσταντίνου | ε΄ (5) | ͵ϛσοδ (6274) |\n| Κωνσταντῖνος υἱὸς Λέοντος σὺν τῇ μητρὶ Εἰρήνῃ | ι΄μ΄β΄ (10 anos 2 meses) | ͵ϛσπδ (6284) |\n| Κωνσταντῖνος μόνος | ϛ΄μ΄θ΄ (6 anos 9 meses) | ͵ϛσϞ (6290) |\n| Εἰρήνη ἡ μήτηρ αὐτοῦ πάλιν | ϛ΄μ΄ϛ΄ (6 anos 6 meses) | ͵ϛσϞϛ (6296) |\n| Νικηφόρος | η΄μ΄θ΄ (8 anos 9 meses) | ͵ϛτα (6301) |\n| Σταυράκιος ὁ υἱὸς αὐτοῦ | ϛ΄ (6 meses?) | ͵ϛτγ (6303) |\n| Μιχαὴλ καὶ Θεοφύλακτος | ϛ΄ (6) | ͵ϛτε (6305) |\n| Λέων ὁ Ἀρμένης | ζ΄ (7) | ͵ϛτιβ (6312) |\n| Μιχαήλ | θ΄ (9) | ͵ϛτκα (6321) |\n| Θεόφιλος ὁ υἱὸς αὐτοῦ | ιϛ΄ (16) | ͵ϛτλγ (6333) |\n| Μιχαὴλ ὁ υἱὸς αὐτοῦ σὺν τῇ μητρὶ Θεοδώρᾳ | ιδ΄ (14) | — |\n| Μιχαὴλ μόνος | ια΄ (11) | — |\n| Μιχαὴλ καὶ Βασίλειος | α΄ (1) | — |\n| Βασίλειος ὁ Θρᾷξ | ιθ΄ (19) | — |\n| Λέων καὶ Ἀλέξανδρος υἱοὶ αὐτοῦ | κϛ΄ (26) | — |\n| Ἀλέξανδρος καὶ Κωνσταντῖνος | α΄ (1) | — |\n| Κωνσταντῖνος μόνος | ζ΄ (7) | — |\n| Κωνσταντῖνος καὶ Ῥωμανός | — | — |"
+    },
+    {
+      "caption_pt": "Coluna A (direita superior): Sobre as seis quiliadas (milênios) — quando e sob quem cada uma foi completada",
+      "caption_en": "Column A (upper right): On the six chiliads (millennia) — when and under whom each was completed",
+      "markdown": "| Quiliada | Completada no ano de | Ano |\n|---|---|---|\n| Ἡ α΄ (1ª) | ἐν τῷ τοῦ Ἰάρεδ ἔτει | μ΄ (40) |\n| Ἡ β΄ (2ª) | ἐν τῷ τοῦ Νῶε ἔτει | τη΄ (308) |\n| Ἡ γ΄ (3ª) | ἐν τῷ τοῦ Φαλὲγ ἔτει | Ϟθ΄ (99) |\n| Ἡ δ΄ (4ª) | ἐν τῷ τοῦ Ἀὼθ ἔτει | κγ΄ (23) |\n| Ἡ ε΄ (5ª) | ἐν τῷ τοῦ Κύρου τοῦ Γέρου ἔτει | λα΄ (31) |\n| Ἡ ϛ΄ (6ª) | ἐν τῷ τῆς βασιλείας τοῦ Ἀναστασίου ἔτει | ιζ΄ (17) |"
+    },
+    {
+      "caption_pt": "Coluna B/C (direita inferior): Sobre os 11 períodos de 532 anos — quando e sob quem cada um foi completado (com anos desde Adão)",
+      "caption_en": "Column B/C (lower right): On the 11 periods of 532 years — when and under whom each was completed (with years from Adam)",
+      "markdown": "| Período | Completado no ano de | Ano do homem citado | Ano desde Adão |\n|---|---|---|---|\n| Ἡ α΄ (1º) | ἐν τῷ τοῦ Ἐνὼς ἔτει | ζ΄ (7) | φλβ (532) |\n| Ἡ β΄ (2º) | ἐν τῷ τοῦ Ἰάρεδ ἔτει | ρλ΄ (130) | ͵αξδ (1064) |\n| Ἡ γ΄ (3º) | ἐν τῷ τοῦ Λάμεχ ἔτει | ρμβ΄ (142) | ͵αφϞϛ (1596) |\n| Ἡ δ΄ (4º) | ἐν τῷ τοῦ Νῶε ἔτει | υπϛ΄ (486) | ͵βρκη (2128) |\n| Ἡ ε΄ (5º) | ἐν τῷ τοῦ Ἔβερ ἔτει | κγ΄ (23) | ͵βχξ (2660) |\n| Ἡ ϛ΄ (6º) | ἐν τῷ τοῦ Ναχὼρ ἔτει | κθ΄ (29) | ͵γρϞϛ (3196) |\n| Ἡ ζ΄ (7º) | ἐν τῷ τοῦ Ἀρὰμ ἔτει | νη΄ (58) | ͵γψκδ (3724) |\n| Ἡ η΄ (8º) | ἐν τῷ τῶν Φιλισταίων ἔτει | ϛ΄ (6) | ͵δσνϛ (4256) |\n| Ἡ θ΄ (9º) | ἐν τῷ τοῦ Ἐζεκία ἔτει | ι΄ (10) | ͵δψπη (4788) |\n| Ἡ ι΄ (10º) | ἐν τῷ τοῦ Φιλομήτορος ἔτει | ιϛ΄ (16) | ͵ετκ (5320) |\n| Ἡ ια΄ (11º) | ἐν τῷ τῆς βασιλείας Κωνσταντίνου ἔτει | κδ΄ (24) | ͵εωνβ[?] (ca. 5852) |"
+    }
+  ],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Alguns numerais gregos em colunas numéricas (especialmente da coluna esquerda dos imperadores na parte inferior) estão cortados ou não aparecem no scan; foram deixados como '—'.",
+    "O último valor de anos desde Adão da 11ª período (͵εωνβ ou similar) tem dígito final ambíguo no scan.",
+    "A duração de Σταυράκιος ('ϛ΄') pode indicar meses em vez de anos; o original é ambíguo."
+  ],
+  "notes": "Página 744 da edição impressa de 1629 (= p. 829 do PDF). Tabela cronológica dupla: à esquerda, lista de imperadores bizantinos com anos de reinado e ano do Período Juliano (conforme o esquema de Scaliger); à direita, dois quadros temáticos sobre as seis quiliadas e os onze ciclos paschais de 532 anos desde Adão, com as figuras bíblicas de referência (Jared, Noé, Fáleg, Lameque, etc.). Os numerais gregos foram expandidos em algarismos arábicos entre parênteses para auxiliar a leitura; os valores originais em alfabeto grego foram preservados. O reclamo 'ΔΗΛΩ' no rodapé indica a palavra inicial da página seguinte.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:51:39Z",
+    "input_tokens": 7748,
+    "output_tokens": 3962
+  }
+}

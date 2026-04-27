@@ -1,0 +1,34 @@
+{
+  "page": 799,
+  "page_type": "table",
+  "latin": "LINEA COGNOSCENDI QUOTA FERIA PASCHA LEGALE IN MENSE ROMANO, & diem Resurrectionis, & mensem eius Romanum, ab anno Incarnationis MDLXXVIII.\n\nCyclus aureus incipit ab anno 1888 Alexandreo: & quotiescunque desinit & complevit circuitum, redit ad principium suum.",
+  "pt": "LINHA PARA CONHECER EM QUE DIA DA SEMANA CAI A PÁSCOA LEGAL NO MÊS ROMANO, e o dia da Ressurreição, e seu mês Romano, a partir do ano da Encarnação de 1578.\n\nO ciclo áureo começa a partir do ano 1888 alexandrino; e sempre que termina e completa seu circuito, retorna ao seu princípio.\n\n(Tabela de sete caracteres do solene da Páscoa, com colunas para a Páscoa Judaica e o Número Áureo; ver seção tables.)",
+  "en": "LINE FOR DETERMINING ON WHICH WEEKDAY THE LEGAL PASSOVER FALLS IN THE ROMAN MONTH, and the day of the Resurrection, and its Roman month, from the year of the Incarnation 1578.\n\nThe golden cycle begins from the Alexandrian year 1888; and whenever it ends and completes its circuit, it returns to its beginning.\n\n(Table of the seven characters of the solemn Passover, with columns for the Jewish Passover and the Golden Number; see tables section.)",
+  "tables": [
+    {
+      "caption_pt": "Tabela para determinar o dia da semana em que cai a Páscoa legal no mês romano, a partir do ano da Encarnação 1578. Sete caracteres do Solene da Páscoa, mais Páscoa Judaica e Número Áureo.",
+      "caption_en": "Table for determining the weekday on which the legal Passover falls in the Roman month, from the year of the Incarnation 1578. Seven characters of the Solemn Passover, plus Jewish Passover and Golden Number.",
+      "markdown": "| Solenne Paschatis Character I. | Solenne Paschatis Character II. | Solenne Paschatis Character III. | Solenne Paschatis Character IIII. | Solenne Paschatis Character V. | Solenne Paschatis Character VI. | Solenne Paschatis Character VII. | Pascha Iudaicum | Aureus numerus |\n|---|---|---|---|---|---|---|---|---|\n| 31 Adhar | 30 Adhar | 29 Adhar | 28 Adhar | 27 Adhar | 26 Adhar | 1 Nisan | XXV | I |\n| 4 Nisan | 20 Nisan | 19 Nisan | 18 Nisan | 17 Nisan | 16 Nisan | 15 Nisan | XIII | II |\n| 7 Nisan | 6 Nisan | 5 Nisan | 4 Nisan | 3 Nisan | 9 Nisan | 8 Nisan | II | III |\n| 24 Adhar | 23 Adhar | 29 Adhar | 28 Adhar | 27 Adhar | 26 Adhar | 29 Adhar | XXII | IIII |\n| 14 Nisan | 13 Nisan | 12 Nisan | 11 Nisan | 17 Nisan | 16 Nisan | 15 Nisan | X | V |\n| 31 Adhar | 6 Nisan | 5 Nisan | 4 Nisan | 3 Nisan | 2 Nisan | 1 Nisan | XXX | VI |\n| 21 Nisan | 20 Nisan | 19 Nisan | 25 Nisan | 24 Nisan | 23 Nisan | 22 Nisan | XVIII | VII |\n| 14 Nisan | 13 Nisan | 12 Nisan | 11 Nisan | 10 Nisan | 19 Nisan[?] | 8 Nisan | VII | VIII |\n| 31 Adhar | 30 Adhar | 29 Adhar | 28 Adhar | 3 Nisan | 2 Nisan | 1 Nisan | XXVII | IX |\n| 21 Nisan | 20 Nisan | 19 Nisan | 18 Nisan | 17 Nisan | 16 Nisan | 22 Nisan | XV | X |\n| 7 Nisan | 6 Nisan | 5 Nisan | 11 Nisan | 10 Nisan | 9 Nisan | 8 Nisan | IIII | XI |\n| 31 Adhar | 30 Adhar | 29 Adhar | 28 Adhar | 27 Adhar | 26 Adhar | 25 Adhar | XXII | XII |\n| 14 Nisan | 13 Nisan | 19 Nisan | 18 Nisan | 17 Nisan | 16 Nisan | 15 Nisan | XII | XIII |\n| 7 Nisan | 6 Nisan | 5 Nisan | 4 Nisan | 3 Nisan | 2 Nisan | 8 Nisan | I | XIIII |\n| 24 Adhar | 23 Adhar | 22 Adhar | 28 Nisan[?] | 27 Adhar | 26 Adhar | 25 Adhar | XXI | XV |\n| 14 Nisan | 13 Nisan | 12 Nisan | 11 Nisan | 10 Nisan | 16 Nisan | 15 Nisan | IX | XVI |\n| 31 Adhar | 30 Adhar | 5 Nisan | 4 Nisan | 3 Nisan | 2 Nisan | 1 Nisan | XXIX | XVII |\n| 21 Nisan | 20 Nisan | 29 Nisan | 18 Nisan | 24 Nisan | 23 Nisan | 22 Nisan | XVII | XVIII |\n| 7 Nisan | 13 Nisan | 12 Nisan | 11 Nisan | 10 Nisan | 9 Nisan | 8 Nisan | VI | XIX |"
+    }
+  ],
+  "figures": [
+    {
+      "description_pt": "No canto inferior direito da página aparece a palavra árabe جَدْوَل (jadwal), que significa 'tabela'.",
+      "description_en": "In the lower right corner of the page, the Arabic word جَدْوَل (jadwal), meaning 'table', appears."
+    }
+  ],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Linha 8 (Áureo VIII), coluna VI: leitura '19 Nisan' parece inconsistente com a progressão da tabela; pode ser erro do tipógrafo ou '9 Nisan'.",
+    "Linha 15 (Áureo XV), coluna IIII: leitura '28 Nisan' parece inconsistente (as demais colunas trazem Adhar); possivelmente '28 Adhar' no original.",
+    "Linha 18 (Áureo XVIII), coluna III: '29 Nisan' também destoa da sequência esperada; pode ser erro tipográfico do original de 1629.",
+    "Algumas ocorrências iniciais de 'Adhar' na primeira coluna aparecem ligeiramente cortadas à esquerda na imagem; transcritas como '31 Adhar' pela regularidade da tabela."
+  ],
+  "notes": "Página inteiramente ocupada por tabela pascal: correlação entre os sete 'characteres' do Solene da Páscoa (feriae I–VII), a Páscoa judaica e o número áureo do ciclo alexandrino iniciado em 1888. Scaliger referencia o início da contagem no ano 1578 da Encarnação. Os meses citados são hebraicos (Adhar, Nisan). A palavra árabe جَدْوَل no pé da página identifica o conteúdo como 'tabela'.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-24T23:31:45Z",
+    "input_tokens": 7748,
+    "output_tokens": 2807
+  }
+}

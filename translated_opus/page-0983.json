@@ -1,0 +1,21 @@
+{
+  "page": 983,
+  "page_type": "blank",
+  "latin": "",
+  "pt": "Página ilegível devido à degradação extrema do scan (imagem binarizada com perda quase total de conteúdo textual).",
+  "en": "Page illegible due to extreme degradation of the scan (binarized image with near-total loss of textual content).",
+  "tables": [],
+  "figures": [],
+  "astronomical_events": [],
+  "uncertainty_flags": [
+    "Scan totalmente ilegível: a página foi processada com binarização agressiva e não é possível distinguir caracteres, números nem estrutura de página (texto vs. tabela vs. figura).",
+    "Possível presença de marca d'água do Google na borda inferior direita, sugerindo que esta é uma página de digitalização Google Books com qualidade muito ruim."
+  ],
+  "notes": "Nenhuma transcrição possível a partir deste scan. Recomenda-se obter uma imagem de melhor qualidade desta página antes de tentar nova transcrição.",
+  "_meta": {
+    "model": "claude-opus-4-7",
+    "translated_at": "2026-04-27T16:07:53Z",
+    "input_tokens": 7748,
+    "output_tokens": 359
+  }
+}
