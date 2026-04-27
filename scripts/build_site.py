@@ -521,7 +521,7 @@ def render_page(data, prev_p, next_p, total):
     body = f"""<main>
   <div class="page-nav">{nav_prev}<span class="center">p. {pn} de {total}</span>{nav_next}</div>
 
-  <a href="../assets/scans/{pn:04d}.png" class="scan-link" target="_blank">📄 Ver scan original (p.{pn})</a>
+  <a href="../assets/scans/page-{pn:03d}.png" class="scan-link" target="_blank">📄 Ver scan original (p.{pn})</a>
 
   <div class="trilingual">
     {pt_html}
