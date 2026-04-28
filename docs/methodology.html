@@ -33,7 +33,7 @@
 <li><strong>Tradução trilíngue</strong>: cada PNG enviado a Claude Opus 4.7 com prompt customizado, gerando JSON estruturado com latim transcrito + tradução pt + tradução en + tabelas + figuras + eventos astronômicos extraídos + flags de incerteza + notas do tradutor</li>
 <li><strong>QA estrutural</strong>: validação automática de razão pt/latim, presença de seções, integridade JSON. 96.3% das páginas passaram sem flags; as restantes foram inspecionadas manualmente (em sua maioria, falsos positivos: páginas tabulares, em árabe ou siríaco, ou índices remissivos).</li>
 <li><strong>Extração estruturada</strong>: 1.643 eventos astronômicos catalogados em formato auditável (tipo, data citada, fonte antiga, localização)</li>
-<li><strong>Auditoria astronômica</strong>: cruzamento com NASA Five Millennium Canon of Solar Eclipses e Lunar Eclipses (Espenak/Meeus). Resultado: 30 MATCH_DATE (data exata confirmada), 10 MATCH_MONTH, 29 MATCH_YEAR_ONLY. <a href="audit_highlights.html">Ver Núcleo Sólido</a> com 8 casos curados narrativamente.</li>
+<li><strong>Validação astronômica</strong>: cruzamento com NASA Five Millennium Canon of Solar Eclipses e Lunar Eclipses (Espenak/Meeus). Resultado: 30 MATCH_DATE (data exata confirmada), 10 MATCH_MONTH, 29 MATCH_YEAR_ONLY. <a href="audit_highlights.html">Ver Núcleo Sólido</a> com 8 casos curados narrativamente.</li>
 <li><strong>Publicação estática</strong>: HTML+CSS simples, GitHub Pages, custo zero</li>
 </ol>
 
@@ -43,13 +43,13 @@
 <h2 style="margin-top: 2rem; font-family: 'Cormorant Garamond', serif;">Limitações conhecidas</h2>
 <ul style="margin-left: 1.5rem; line-height: 1.8;">
 <li>Páginas em árabe (~p.798, p.802), siríaco (parcial) e hebraico (parcial) têm cobertura limitada</li>
-<li>Tabelas densas podem ter erros em valores numéricos individuais que requerem auditoria manual</li>
+<li>Tabelas densas podem ter erros em valores numéricos individuais que requerem validação manual</li>
 <li>Citações gregas em ligaduras tipográficas de 1629 podem estar normalizadas para grego clássico padrão (declarado em flags)</li>
-<li>Conversões de calendário antigo (Olimpíada, era de Augusto, era de Nabonassar) usam tabelas modernas consensuais — uma divergência detectada na auditoria pode refletir erro da nossa conversão, não de Scaliger</li>
+<li>Conversões de calendário antigo (Olimpíada, era de Augusto, era de Nabonassar) usam tabelas modernas consensuais — uma divergência detectada na validação pode refletir erro da nossa conversão, não de Scaliger</li>
 </ul>
 
 <h2 style="margin-top: 2rem; font-family: 'Cormorant Garamond', serif;">Reprodutibilidade</h2>
-<p>Todos os scripts de geração estão no <a href="https://github.com/walterCNeto/Scaliger" target="_blank">repositório GitHub</a>. Os JSONs estruturados de cada página, os datasets de eventos astronômicos, e os resultados da auditoria estão disponíveis em formato JSONL e CSV. A auditoria astronômica é totalmente reproduzível com Python + Skyfield + canons NASA.</p>
+<p>Todos os scripts de geração estão no <a href="https://github.com/walterCNeto/Scaliger" target="_blank">repositório GitHub</a>. Os JSONs estruturados de cada página, os datasets de eventos astronômicos, e os resultados da validação estão disponíveis em formato JSONL e CSV. A validação astronômica é totalmente reproduzível com Python + Skyfield + canons NASA.</p>
 
 </main>
 <footer>
