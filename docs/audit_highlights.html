@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Núcleo Sólido — Auditoria Astronômica do Opus de Emendatione Temporum</title>
+<title>Núcleo — Validação Astronômica do Opus de Emendatione Temporum</title>
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=JetBrains+Mono:wght@400;500&family=Cormorant+Garamond:wght@500;700&display=swap" rel="stylesheet">
 <style>
   :root {
@@ -434,8 +434,8 @@
 </header>
 
 <section class="hero">
-  <div class="meta">Auditoria Astronômica · 8 casos · Verificação NASA Five Millennium Canon</div>
-  <h1 class="display">Em <em>1583</em>, Joseph Scaliger calculou a data exata de eclipses ocorridos até <em>2.300 anos antes</em> dele. A NASA, em 2026, confirma.</h1>
+  <div class="meta">Validação Astronômica · 8 casos · Verificação NASA Five Millennium Canon</div>
+  <h1 class="display">Em <em>1583</em>, Joseph Scaliger calculou a data exata de eclipses ocorridos até <em>2.300 anos antes</em> dele. As bases da NASA, em 2026, confirma.</h1>
   <p class="lede">
     O <em>Opus de Emendatione Temporum</em> contém centenas de referências astronômicas. Em oito delas, Scaliger fornece data juliana completa (ano, mês, dia) e fonte antiga primária. O cruzamento computacional com os catálogos NASA de eclipses (-1999 a +3000) confirma a data atribuída em todos os oito casos. Esta página apresenta cada um deles, com as citações originais, o contexto histórico e os caveats metodológicos.
   </p>
@@ -897,10 +897,10 @@
   <div class="meta">Como interpretar os resultados</div>
   <h2 class="display">O que esta auditoria prova — e o que não prova</h2>
   <p>
-    <strong>O que esta auditoria computacional confirma:</strong> em pelo menos oito casos onde Scaliger atribui data juliana absoluta (ano, mês e dia) a um eclipse antigo, partindo de fontes primárias identificáveis, a NASA, em 2026, computa o evento na mesma data — com tolerância máxima de um dia, atribuível a fuso horário ou ambiguidades de transição entre dias do calendário antigo.
+    <strong>O que esta validação computacional confirma:</strong> em pelo menos oito casos onde Scaliger atribui data juliana absoluta (ano, mês e dia) a um eclipse antigo, partindo de fontes primárias identificáveis, a NASA, em 2026, computa o evento na mesma data — com tolerância máxima de um dia, atribuível a fuso horário ou ambiguidades de transição entre dias do calendário antigo.
   </p>
   <p>
-    <strong>O que esta auditoria não prova:</strong> que toda a cronologia de Scaliger esteja correta. O <em>Opus de Emendatione Temporum</em> contém milhares de afirmações cronológicas, e muitas envolvem genealogias, sucessões dinásticas, e correlações textuais que não podem ser auditadas astronomicamente. Scaliger errou em várias dessas — como qualquer cronologista do século XVI faria. O que estes oito casos demonstram é especificamente que <strong>seu método astronômico funcionava</strong>, e que ele não fabricava dados nem confiava em cálculos sem verificação.
+    <strong>O que esta validação não prova:</strong> que toda a cronologia de Scaliger esteja correta. O <em>Opus de Emendatione Temporum</em> contém milhares de afirmações cronológicas, e muitas envolvem genealogias, sucessões dinásticas, e correlações textuais que não podem ser auditadas astronomicamente. Scaliger errou em várias dessas — como qualquer cronologista do século XVI faria. O que estes oito casos demonstram é especificamente que <strong>seu método astronômico funcionava</strong>, e que ele não fabricava dados nem confiava em cálculos sem verificação.
   </p>
   <p>
     <strong>Reprodutibilidade.</strong> O dataset completo — incluindo os 30 casos MATCH_DATE, os 10 MATCH_MONTH, os 29 MATCH_YEAR_ONLY, e os 1.402 eventos não auditáveis — está disponível em formato JSONL e CSV no repositório do projeto. Os scripts de extração (<code>12_normalize_events.py</code>, <code>13_audit_eclipses.py</code>) são abertos e funcionam contra os catálogos NASA Five Millennium Canon (Espenak/Meeus). Convidamos pesquisadores a verificar, contestar e refinar.
@@ -915,14 +915,14 @@
 <footer>
   <div class="footer-inner">
     <div class="meta" style="margin-bottom: 1rem;">Sobre este documento</div>
-    <h3>Núcleo Sólido — Auditoria Astronômica</h3>
+    <h3>Núcleo — Validação Astronômica</h3>
     <p>
       Página integrante do projeto de tradução colaborativa do <em>Opus de Emendatione Temporum</em> de Joseph Scaliger (Genebra, 1629). A auditoria computacional foi realizada com Claude Opus 4.7 (extração estruturada) cruzada com os catálogos NASA Five Millennium Canon of Solar Eclipses (NASA/TP-2009-214174) e Lunar Eclipses (NASA/TP-2009-214173), de Fred Espenak e Jean Meeus.
     </p>
     <p>
       A tradução do livro completo, os datasets brutos, e os scripts de extração estão disponíveis em licença CC BY-SA 4.0. O texto original de Scaliger está em domínio público.
     </p>
-    <p class="meta" style="margin-top: 2rem;">Última atualização: abril de 2026 · Walter Gaggiato, curador</p>
+    <p class="meta" style="margin-top: 2rem;">Última atualização: abril de 2026 · Walter C Neto, curador</p>
   </div>
 </footer>
 
