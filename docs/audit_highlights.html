@@ -470,7 +470,7 @@
   <div class="meta">Metodologia</div>
   <h2 class="display">Por que oito, e não os trinta</h2>
   <p>
-    Dos 30 casos onde a auditoria computacional registrou MATCH_DATE — concordância de ano, mês e dia — selecionamos oito para apresentação narrativa. Os critérios foram três: <strong>Scaliger forneceu fonte primária identificável</strong> (Tucídides, Heródoto, Ptolomeu, Xenofonte, Cícero, Tito Lívio); <strong>o evento é independentemente atestado</strong> em literatura acadêmica moderna; e <strong>a datação tem significância histórica</strong> além da mera curiosidade calendárica.
+    Dos 30 casos onde a validação computacional registrou MATCH_DATE — concordância de ano, mês e dia — selecionamos oito para apresentação narrativa. Os critérios foram três: <strong>Scaliger forneceu fonte primária identificável</strong> (Tucídides, Heródoto, Ptolomeu, Xenofonte, Cícero, Tito Lívio); <strong>o evento é independentemente atestado</strong> em literatura acadêmica moderna; e <strong>a datação tem significância histórica</strong> além da mera curiosidade calendárica.
   </p>
   <p>
     Os outros 22 matches — eclipses recentes ao próprio Scaliger, ou eclipses de cronologia menos contextualizada — são igualmente válidos como demonstração de método. Os dados completos estão disponíveis no arquivo <code>audit_dataset.csv</code> do repositório. O que se ganha aqui é narrativa, não estatística.
@@ -675,7 +675,7 @@
       A precisão de Scaliger aqui é particularmente impressionante porque envolve <strong>uma cadeia de quatro conversões calendáricas</strong>: do calendário babilônico ao egípcio (Ptolomeu), do egípcio ao Período Juliano (Scaliger), e finalmente à data juliana proléptica que comparamos com a NASA. Cada conversão é uma oportunidade para erros se acumularem. Eles não se acumularam.
     </p>
     <p>
-      Este eclipse é especialmente significativo porque ocorre <strong>menos de um ano antes da Batalha de Maratona</strong> (12 de setembro de 490 a.C.). Para os astrônomos modernos, esta cadeia de eclipses persas (junto com os de 502 e 522 a.C., também na auditoria) permite verificar a confiabilidade do reinado oficial de Dario I.
+      Este eclipse é especialmente significativo porque ocorre <strong>menos de um ano antes da Batalha de Maratona</strong> (12 de setembro de 490 a.C.). Para os astrônomos modernos, esta cadeia de eclipses persas (junto com os de 502 e 522 a.C., também na validação) permite verificar a confiabilidade do reinado oficial de Dario I.
     </p>
   </div>
 
@@ -895,7 +895,7 @@
 
 <section class="section-intro" id="leitura">
   <div class="meta">Como interpretar os resultados</div>
-  <h2 class="display">O que esta auditoria prova — e o que não prova</h2>
+  <h2 class="display">O que esta validação prova — e o que não prova</h2>
   <p>
     <strong>O que esta validação computacional confirma:</strong> em pelo menos oito casos onde Scaliger atribui data juliana absoluta (ano, mês e dia) a um eclipse antigo, partindo de fontes primárias identificáveis, a NASA, em 2026, computa o evento na mesma data — com tolerância máxima de um dia, atribuível a fuso horário ou ambiguidades de transição entre dias do calendário antigo.
   </p>
@@ -906,7 +906,7 @@
     <strong>Reprodutibilidade.</strong> O dataset completo — incluindo os 30 casos MATCH_DATE, os 10 MATCH_MONTH, os 29 MATCH_YEAR_ONLY, e os 1.402 eventos não auditáveis — está disponível em formato JSONL e CSV no repositório do projeto. Os scripts de extração (<code>12_normalize_events.py</code>, <code>13_audit_eclipses.py</code>) são abertos e funcionam contra os catálogos NASA Five Millennium Canon (Espenak/Meeus). Convidamos pesquisadores a verificar, contestar e refinar.
   </p>
   <p>
-    <strong>Próximas etapas.</strong> Esta auditoria preliminar é, deliberadamente, conservadora. Refinamentos possíveis incluem: extração de dia/mês para os 1.402 eventos atualmente não auditáveis (melhorando a regex); cruzamento de visibilidade do path of totality para eclipses solares totais; sensibilidade a modelos alternativos de ΔT (Stephenson-Morrison-Hohenkerk); e análise filológica caso a caso para distinguir afirmações de Scaliger de discussões de tradições. Cada um destes refinamentos beneficiaria do envolvimento de especialistas — em latim humanista, em astronomia histórica, em filologia clássica.
+    <strong>Próximas etapas.</strong> Esta validação preliminar é, deliberadamente, conservadora. Refinamentos possíveis incluem: extração de dia/mês para os 1.402 eventos atualmente não auditáveis (melhorando a regex); cruzamento de visibilidade do path of totality para eclipses solares totais; sensibilidade a modelos alternativos de ΔT (Stephenson-Morrison-Hohenkerk); e análise filológica caso a caso para distinguir afirmações de Scaliger de discussões de tradições. Cada um destes refinamentos beneficiaria do envolvimento de especialistas — em latim humanista, em astronomia histórica, em filologia clássica.
   </p>
 </section>
 
@@ -917,7 +917,7 @@
     <div class="meta" style="margin-bottom: 1rem;">Sobre este documento</div>
     <h3>Núcleo — Validação Astronômica</h3>
     <p>
-      Página integrante do projeto de tradução colaborativa do <em>Opus de Emendatione Temporum</em> de Joseph Scaliger (Genebra, 1629). A auditoria computacional foi realizada com Claude Opus 4.7 (extração estruturada) cruzada com os catálogos NASA Five Millennium Canon of Solar Eclipses (NASA/TP-2009-214174) e Lunar Eclipses (NASA/TP-2009-214173), de Fred Espenak e Jean Meeus.
+      Página integrante do projeto de tradução colaborativa do <em>Opus de Emendatione Temporum</em> de Joseph Scaliger (Genebra, 1629). A validação computacional foi realizada com Claude Opus 4.7 (extração estruturada) cruzada com os catálogos NASA Five Millennium Canon of Solar Eclipses (NASA/TP-2009-214174) e Lunar Eclipses (NASA/TP-2009-214173), de Fred Espenak e Jean Meeus.
     </p>
     <p>
       A tradução do livro completo, os datasets brutos, e os scripts de extração estão disponíveis em licença CC BY-SA 4.0. O texto original de Scaliger está em domínio público.
