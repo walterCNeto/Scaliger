@@ -4,7 +4,7 @@ Tradução trilíngue (latim · português · inglês) do *Opus de Emendatione T
 
 🌐 **Site público**: https://waltercneto.github.io/Scaliger/
 
-📚 **956 páginas trilíngues** · 🪐 **1.643 eventos astronômicos extraídos** · 🔭 **Auditoria contra dados NASA**
+📚 **956 páginas trilíngues** · 🪐 **1.643 eventos astronômicos extraídos** · 🔭 **Validação contra dados NASA**
 
 ---
 
@@ -27,13 +27,13 @@ docs/                    Site estático (GitHub Pages)
   index.html             Landing page
   about.html             Sobre o projeto
   methodology.html       Como a tradução foi feita
-  audit.html             Auditoria astronômica (resumo)
+  audit.html             Validação astronômica (resumo)
   audit_highlights.html  Núcleo sólido (8 eclipses confirmados pela NASA)
   pages/                 956 páginas trilíngues (HTML)
   assets/                CSS e recursos
-  data/                  Datasets públicos (eventos, auditoria)
+  data/                  Datasets públicos (eventos, validação)
 
-scripts/                 Pipeline de tradução e auditoria
+scripts/                 Pipeline de tradução e validação
 data/                    Catálogos NASA, eventos extraídos
 
 CONTRIBUTING.md          Como contribuir
@@ -58,7 +58,7 @@ Veja [CONTRIBUTING.md](CONTRIBUTING.md) para detalhes. Em resumo:
 
 - ✅ Tradução das 956 páginas concluída (Claude Opus 4.7)
 - ✅ Extração estruturada de 1.643 eventos astronômicos
-- ✅ Auditoria computacional contra Five Millennium Canon (NASA)
+- ✅ Validação computacional contra Five Millennium Canon (NASA)
 - ✅ Site público no ar
 - ⏳ Revisão acadêmica colaborativa (em aberto, contribuições bem-vindas)
 
