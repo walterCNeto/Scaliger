@@ -41,10 +41,10 @@ Esta página apresenta os números agregados da validação. Para a apresentaç�
 </ul>
 
 <h2 style="margin-top: 2rem; font-family: 'Cormorant Garamond', serif;">Distribuição por veredicto</h2>
-<table><tr><th>Veredicto</th><th>Contagem</th><th>Significado</th></tr><tr><td><code>skipped_non_eclipse</code></td><td>996</td><td>Tipo não auditável astronomicamente</td></tr><tr><td><code>trivially_correct</code></td><td>397</td><td>Equinócio ou solstício (recorrente todo ano)</td></tr><tr><td><code>no_year_or_no_eph</code></td><td>88</td><td>Sem ano e sem efeméride disponível</td></tr><tr><td><code>no_year</code></td><td>68</td><td>Sem âncora temporal extraível</td></tr><tr><td><code>MATCH_DATE</code></td><td>30</td><td>Ano + mês + dia confirmados pela NASA</td></tr><tr><td><code>MATCH_YEAR_ONLY</code></td><td>29</td><td>Apenas ano coincide (fraco para eclipses lunares — múltiplos por ano)</td></tr><tr><td><code>needs_manual_review</code></td><td>22</td><td>Ocultação ou conjunção que requer análise específica</td></tr><tr><td><code>MATCH_MONTH</code></td><td>10</td><td>Ano + mês confirmados; dia ambíguo ou não fornecido</td></tr><tr><td><code>era_mention_excluded</code></td><td>2</td><td>Texto descreve era cronológica, não evento específico (excluído da auditoria)</td></tr></table>
+<table><tr><th>Veredicto</th><th>Contagem</th><th>Significado</th></tr><tr><td><code>skipped_non_eclipse</code></td><td>996</td><td>Tipo não auditável astronomicamente</td></tr><tr><td><code>trivially_correct</code></td><td>397</td><td>Equinócio ou solstício (recorrente todo ano)</td></tr><tr><td><code>no_year_or_no_eph</code></td><td>88</td><td>Sem ano e sem efeméride disponível</td></tr><tr><td><code>no_year</code></td><td>68</td><td>Sem âncora temporal extraível</td></tr><tr><td><code>MATCH_DATE</code></td><td>30</td><td>Ano + mês + dia confirmados pela NASA</td></tr><tr><td><code>MATCH_YEAR_ONLY</code></td><td>29</td><td>Apenas ano coincide (fraco para eclipses lunares — múltiplos por ano)</td></tr><tr><td><code>needs_manual_review</code></td><td>22</td><td>Ocultação ou conjunção que requer análise específica</td></tr><tr><td><code>MATCH_MONTH</code></td><td>10</td><td>Ano + mês confirmados; dia ambíguo ou não fornecido</td></tr><tr><td><code>era_mention_excluded</code></td><td>2</td><td>Texto descreve era cronológica, não evento específico (excluído da validação)</td></tr></table>
 
 <h2 style="margin-top: 2rem; font-family: 'Cormorant Garamond', serif;">Como interpretar</h2>
-<p>A auditoria é <strong>computacional preliminar</strong>, não substitui análise filológica. Para discussão dos critérios e dos casos sólidos com narrativa, fontes primárias e bibliografia secundária, veja a página <a href="audit_highlights.html">Núcleo Sólido</a>.</p>
+<p>A validação é <strong>computacional - preliminar</strong>, não substitui análise filológica. Para discussão dos critérios e dos casos sólidos com narrativa, fontes primárias e bibliografia secundária, veja a página <a href="audit_highlights.html">Núcleo Sólido</a>.</p>
 
 <p>Limitações:</p>
 <ul style="margin-left: 1.5rem; line-height: 1.8;">
@@ -55,7 +55,7 @@ Esta página apresenta os números agregados da validação. Para a apresentaç�
 
 <div class="contribute-block">
   <h4>Datasets disponíveis</h4>
-  <p>Os datasets brutos da auditoria estão no repositório GitHub para análise:</p>
+  <p>Os datasets brutos da validação estão no repositório GitHub para análise:</p>
   <a href="https://github.com/walterCNeto/Scaliger/blob/main/data/audit_dataset.csv" target="_blank">CSV completo (planilha)</a>
   <a href="https://github.com/walterCNeto/Scaliger/blob/main/data/audit_final.jsonl" target="_blank" class="secondary">JSONL (estruturado)</a>
 </div>
