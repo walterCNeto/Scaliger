@@ -64,5 +64,5 @@ Veja [CONTRIBUTING.md](CONTRIBUTING.md) para detalhes. Em resumo:
 
 ## Curador
 
-Walter Gaggiato · São Paulo, Brasil · 2026
+Walter C Neto · São Paulo, Brasil · 2026
 Patrocínio pessoal · sem vínculo institucional · busca ativa de colaboração acadêmica
